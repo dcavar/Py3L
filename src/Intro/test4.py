@@ -15,12 +15,16 @@ fp.close()
 
 print(text.split())
 
+
 frequencyprofile = {  }
+
 
 for token in text.split():
    frequencyprofile[token] = frequencyprofile.get(token, 0) + 1
 
+
 for key in frequencyprofile:
    print(key, frequencyprofile[key])
+
 
 # print(frequencyprofile)
