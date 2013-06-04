@@ -20,6 +20,10 @@ frequencyprofile = {  }
 
 
 for token in text.split():
+   if token in frequencyprofile:
+      print("token is in FP")
+   else:
+      print("token is not in FP")
    frequencyprofile[token] = frequencyprofile.get(token, 0) + 1
 
 
