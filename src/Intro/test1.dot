@@ -1,0 +1,7 @@
+digraph X {
+
+   A -> B;
+   B -> C;
+   C -> A;
+
+}
