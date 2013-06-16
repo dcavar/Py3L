@@ -29,3 +29,4 @@ For more details see:
 [Python 3 for Linguists]: http://dl.dropbox.com/u/11318112/Python34Ling/index.html "Python 3 for Linguists"
 [-> Main course page]: http://dl.dropbox.com/u/11318112/Python34Ling/index.html "Main course page"
 [LSA 2013 Registration Information]: http://lsa2013.lsa.umich.edu/about/registration-information/ "LSA 2013 Registration Information"
+
