@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
 
+"""
+(C) 2013 by Damir Cavar
+
+Function to generate an N-gram model from a sequence (string, list...).
+"""
+
 
 def makeNgramModel(tokenlist, n):
    """This function generates an N-gram model as a dictionary data-structure.

@@ -1,4 +1,10 @@
 
+"""
+(C) 2013 by Damir Cavar
+
+Reading remote text from URL.
+"""
+
 
 
 import urllib.request

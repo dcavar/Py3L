@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
 
+"""
+(C) 2013 by Damir Cavar, Lwin Moe
+
+N-gram model from text and generation of DOT-representation (Graphviz).
+"""
+
 
 from ngrams import makeNgramModel
 from operator import itemgetter
