@@ -20,3 +20,5 @@ Send the resulting code file to our email addresses:
 
 ``mcavar@umich.edu``
 
+
+Submit before class next week!
