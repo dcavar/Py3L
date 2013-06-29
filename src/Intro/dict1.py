@@ -1,4 +1,9 @@
 
+"""
+(C) 2013 by Damir Cavar
+
+basic dict operations
+"""
 
 
 #import ngrams

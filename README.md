@@ -1,3 +1,13 @@
+Title:       README.md  
+Subtitle:    |  
+Project:     Python 3 for Linguists  
+Author:      Damir Cavar  
+             Malgosia Cavar  
+Affiliation: EMU, ILIT, The LINGUIST List  
+Web:         http://cavar.me/damir/  
+Date:        June 16, 2013  
+
+
 # Py3L
 
 (C) 2013 by [Malgosia Cavar] and [Damir Cavar]
@@ -16,6 +26,18 @@ For more details see:
 
 * Introduction
 * Processing text files
+
+
+---
+
+## Introduction [Introduction]
+
+The files are organized as follows:
+
+* ``doc``: slides, documentation and assignments
+* ``src``: source files organized by sessions and topics
+
+
 
 
 ---

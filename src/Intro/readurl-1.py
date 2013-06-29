@@ -1,5 +1,12 @@
 #!/usr/bin/env python3
 
+"""
+(C) 2013 by Damir Cavar
+
+Reading remot texts from URL.
+"""
+
+
 import urllib.request, ngrams
 from operator import itemgetter
 
