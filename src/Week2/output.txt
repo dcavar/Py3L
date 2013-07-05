@@ -1,5893 +1,4089 @@
-the	2416
-and	1800
-of	1099
-to	691
-a	647
-he	565
-his	471
-in	446
-that	390
-with	387
-was	341
-I	333
-And	299
-for	245
-had	233
-is	233
-it	225
-her	205
-they	194
-as	191
-on	190
-at	188
-she	180
-not	179
-from	175
-him	170
-their	169
-thou	155
-me	145
-him,	143
-but	135
-were	129
-who	129
-The	123
-when	120
-have	117
-little	116
-said	114
-young	110
-my	103
-out	102
-came	95
-be	93
-will	93
-into	91
-by	91
-them	91
-this	88
-thee	88
-great	80
-upon	79
-through	76
-He	76
-no	75
-up	75
-But	75
-thy	74
-one	73
-all	72
-down	71
-so	70
-there	67
-would	64
-we	63
-went	63
-are	61
-saw	58
-been	58
-like	58
-which	58
-made	56
-over	55
-white	54
-Fisherman	52
-its	51
-did	51
-than	51
-said,	49
-answered	48
-what	48
-some	46
-an	45
-stood	44
-round	43
-Soul	43
-come	42
-'I	42
-it,	41
-rose	41
-him.	41
-So	41
-me,	40
-nor	39
-her,	39
-us	38
-before	38
-looked	38
-took	37
-away	36
-back	36
-set	36
-go	36
-after	36
-shall	36
-hast	36
-or	35
-may	35
-Star-Child	34
-face	33
-day	33
-it.	33
-red	33
-them,	33
-each	33
-gold	32
-could	32
-It	32
-art	31
-They	31
-cried	31
-any	30
-put	30
-where	29
-black	29
-called	29
-should	29
-am	29
-even	29
-give	29
-children	29
-has	28
-only	28
-thee,	28
-hand	28
-man	28
-let	28
-King	28
-yellow	27
-ran	27
-piece	27
-himself	27
-seemed	27
-passed	26
-if	26
-cried,	26
-hands	26
-long	26
-eyes	25
-love	25
-When	24
-more	24
-our	24
-make	24
-city	24
-green	24
-gave	23
-Infanta	23
-see	23
-do	23
-own	23
-things	23
-lay	22
-A	22
-silver	22
-She	22
-much	22
-gold,	22
-look	21
-many	21
-though	21
-evil	21
-about	21
-body	21
-beautiful	21
-fell	21
-quite	21
-dance	21
-'And	21
-There	20
-wild	20
-thing	20
-know	20
-strange	20
-heart	20
-feet	20
-'Thou	20
-answered,	20
-them.	20
-sea	19
-never	19
-'What	19
-must	19
-grew	19
-two	19
-find	19
-brought	18
-tell	18
-head	18
-meet	18
-send	18
-whom	18
-other	18
-old	18
-world	18
-For	18
-place	18
-Soul,	18
-sat	17
-every	17
-can	17
-given	17
-people	17
-three	17
-entered	17
-seen	17
-filled	17
-held	17
-hand,	17
-me.	17
-whole	17
-those	17
-began	16
-forest,	16
-very	16
-soul	16
-painted	16
-heard	16
-till	16
-behind	16
-lips	16
-master	16
-found	16
-'It	16
-might	16
-knew	16
-cry	15
-time	15
-take	15
-asked	15
-again	15
-Emperor	15
-bright	15
-Fisherman,	15
-reached	15
-'Nay,	15
-city,	15
-forth	15
-just	15
-whose	15
-arms	15
-sea,	15
-blue	15
-gold.	15
-told	15
-these	14
-child	14
-speak	14
-again,	14
-touched	14
-side	14
-themselves	14
-third	14
-shalt	14
-lo!	14
-kissed	14
-'and	14
-towards	14
-On	14
-What	14
-away,	14
-hung	14
-bitter	14
-and,	14
-across	14
-up,	13
-sought	13
-cloak	13
-while	13
-turned	13
-palace	13
-As	13
-fine	13
-Dwarf	13
-me.'	13
-years	13
-house	13
-robe	13
-need	13
-'but	13
-door	13
-threw	13
-how	13
-watched	13
-pretty	13
-such	13
-too	13
-hair	13
-thought	13
-led	13
-left	13
-hard	13
-laughed	13
-poor	13
-weeping	12
-way	12
-call	12
-beat	12
-huge	12
-moved	12
-city.	12
-eyes,	12
-bring	12
-'When	12
-another	12
-'The	12
-her.	12
-then	12
-'He	12
-slay	12
-opened	12
-flung	12
-sweet	12
-last	12
-fair	11
-being	11
-purple	11
-gate	11
-high	11
-heavy	11
-covered	11
-lying	11
-evening	11
-marvellous	11
-Yet	11
-world,	11
-cold	11
-birds	11
-ever	11
-moon	11
-water,	11
-spake	11
-wrought	11
-now	11
-wonderful	11
-feet,	11
-didst	11
-none	11
-woman	11
-close	11
-negroes	11
-followed	11
-mocked	11
-laughed,	11
-caught	11
-forest	11
-drew	11
-men	11
-merchants	11
-rich	10
-most	10
-full	10
-crown	10
-In	10
-off	10
-'Why	10
-d'ye	10
-better	10
-leave	10
-Then	10
-pray	10
-shore	10
-carved	10
-garden	10
-morning	10
-Witch	10
-dead	10
-having	10
-answered.	10
-cup	10
-curious	10
-We	10
-suffer	10
-'My	10
-here	10
-water	10
-Priest	10
-play	10
-himself,	10
-year	10
-King,	10
-wind	9
-house,	9
-placed	9
-say	9
-Death	9
-bowed	9
-crept	9
-From	9
-sell	9
-monster	9
-thin	9
-mother	9
-felt	9
-walls	9
-against	9
-Therefore	9
-same	9
-dances	9
-seized	9
-done	9
-get	9
-beneath	9
-Mermaid	9
-always	9
-second	9
-joy	9
-His	9
-under	9
-thee.	9
-'Nay,'	9
-few	9
-pity	9
-Infanta,	9
-merchant	9
-answer.	9
-lack?	9
-others	9
-head.	9
-me?'	9
-Magician	9
-gilt	9
-lips,	9
-not,	9
-ground	9
-night	9
-'Surely	9
-making	8
-flew	8
-indeed	8
-shouldst	8
-silver.	8
-Soul.	8
-became	8
-front	8
-bade	8
-At	8
-flower	8
-leper	8
-really	8
-blew	8
-real	8
-ivory,	8
-hid	8
-air	8
-thee?'	8
-knelt	8
-Her	8
-show	8
-pale	8
-smiled	8
-flowers	8
-struck	8
-wood,	8
-save	8
-dim	8
-cannot	8
-in,	8
-water.	8
-certainly	8
-out,	8
-other,	8
-sun	8
-Don	8
-foul	8
-soul,	8
-over,	8
-us.	8
-sent	8
-sound	8
-it.'	8
-King's	8
-eyes.	8
-seeing	8
-kept	8
-nearer,	8
-enter	8
-still	7
-Woodcutter,	7
-amber	7
-Once	7
-within	7
-large	7
-returned	7
-Pedro	7
-wilt	7
-yet	7
-surely	7
-return	7
-good	7
-gone	7
-lest	7
-room	7
-wife	7
-Fisherman.	7
-sceptre	7
-keep	7
-coming,	7
-once	7
-God	7
-before.	7
-evil,	7
-neck	7
-thee,'	7
-son	7
-loved	7
-days	7
-shadow	7
-open	7
-truth	7
-without	7
-deep	7
-Princess	7
-cruel	7
-embroidered	7
-Surely	7
-side,	7
-wandered	7
-stopped	7
-bare	7
-grass	7
-galley	7
-you	7
-heads	7
-head,	7
-thee.'	7
-besought	7
-mother,	7
-hands,	7
-air.	7
-terror	7
-showed	7
-Their	7
-priests	7
-well	7
-Hare,	7
-mirror	7
-said:	7
-near	7
-almost	7
-polished	6
-often	6
-'How	6
-also	6
-leaves	6
-men,	6
-Even	6
-part	6
-times	6
-ground,	6
-raiment	6
-foam	6
-touch	6
-terrible	6
-tried	6
-daughter	6
-Avarice	6
-watching	6
-beside	6
-moon,	6
-country	6
-bread	6
-care	6
-shown	6
-occasion	6
-fish	6
-god	6
-beauty	6
-'Who	6
-leapt	6
-place,	6
-taking	6
-sunset	6
-treasure	6
-brown	6
-seeking	6
-sang	6
-live	6
-smiling	6
-ears	6
-ugly	6
-end	6
-dost	6
-looking	6
-running	6
-lost	6
-wood	6
-boys	6
-wonder,	6
-right	6
-round,	6
-slowly	6
-journey	6
-so,	6
-love.	6
-tarry	6
-Mermaid,	6
-nothing	6
-wept,	6
-Woodcutter	6
-above	6
-Witch,	6
-day's	6
-seek	6
-carrying	6
-ring	6
-laughing	6
-room,	6
-low	6
-Get	6
-rough	6
-hence,	6
-centre	6
-thine	6
-trees,	6
-side.	6
-steps	6
-clear	6
-hundred	6
-desire	6
-mad	6
-Nor	6
-Now	6
-son,	6
-peered	6
-laughed.	6
-noon	6
-thine,	6
-us,	6
-Wherefore	6
-'If	6
-'In	6
-'Is	6
-him:	6
-price	6
-grey	6
-grave	6
-corner	6
-sit	6
-joy,	6
-king's	6
-big	6
-slaves	6
-odour	6
-trees	5
-fled	5
-Spanish	5
-them;	5
-'Love	5
-shook	5
-people,	5
-eat	5
-'for	5
-knife	5
-Moon	5
-price,	5
-closed	5
-wear	5
-soft	5
-also.	5
-also,	5
-cups	5
-around	5
-pleasure	5
-asleep.	5
-already	5
-work	5
-tall	5
-hide	5
-aside	5
-canst	5
-calling	5
-stones	5
-bed	5
-cometh	5
-Star-Child,	5
-me,'	5
-scarlet	5
-back,	5
-man,	5
-delicate	5
-toil	5
-Some	5
-tears.	5
-silver,	5
-was.	5
-was,	5
-'At	5
-broke	5
-peace,	5
-curiously	5
-alone,	5
-pearls.	5
-priest,	5
-net	5
-tempt	5
-dwelt	5
-thrust	5
-window	5
-played	5
-coloured	5
-taken	5
-pain.	5
-do,	5
-Hare	5
-saying,	5
-word	5
-buy	5
-wings	5
-indeed,	5
-sign	5
-world.	5
-lord	5
-stretched	5
-stone	5
-herself	5
-leaned	5
-die	5
-snared	5
-spray	5
-cried.	5
-boy,	5
-whispered	5
-in.	5
-weary	5
-rose,	5
-seated	5
-valley	5
-hot	5
-birthday	5
-deep,	5
-sleep	5
-women	5
-knocked	5
-Mermaid.	5
-hadst	5
-faces	5
-neither	5
-sunlight	5
-nine	5
-child,	5
-wander	5
-walked	5
-strangely	5
-voice	5
-bringest	5
-help	5
-guards	5
-half	5
-sometimes	5
-pearl	5
-Spain	5
-veil	5
-pay	5
-bay	5
-far	5
-top	5
-broidered	5
-hand.	5
-why	5
-however,	5
-lit	5
-nobles	5
-rest	5
-anything	5
-dry	5
-ivory	5
-carpet	5
-hair.	5
-remembered	5
-tempted	5
-drink	5
-OF	5
-windows	5
-before,	5
-us?	5
-rode	5
-flat	5
-crowd	5
-away.	5
-Tell	5
-THE	5
-sight	5
-beggar-woman	5
-not.	5
-thing,	5
-man's	5
-chamber	5
-pale,	5
-thick	5
-drive	5
-stand	5
-heart,	5
-run	5
-God's	5
-image	5
-me?	5
-King.	5
-bid	5
-slave,	5
-fairer	5
-standing	5
-slain	5
-tiny	5
-first	5
-nets	5
-lion	4
-wine	4
-listened.	4
-still.	4
-galloped	4
-kings	4
-heed	4
-comes	4
-king,	4
-doth	4
-comrade	4
-field	4
-streets	4
-village	4
-court	4
-Palace,	4
-merry,	4
-to-night,	4
-trampled	4
-nought	4
-precious	4
-knees	4
-proud	4
-price.	4
-time,	4
-whatever	4
-Indeed,	4
-things.'	4
-sorrow	4
-horse	4
-lord,	4
-adder	4
-dancing	4
-bowl	4
-cast	4
-companions,	4
-frowned,	4
-words	4
-hurried	4
-kind,	4
-kinds	4
-wore	4
-market-place,	4
-guard	4
-wings,	4
-wonder	4
-promise	4
-built	4
-dawn,	4
-Tritons	4
-more.'	4
-clenched	4
-dawn	4
-breast	4
-long,	4
-there,	4
-priest	4
-flying	4
-'Be	4
-lips.	4
-thought,	4
-murmured,	4
-empty.	4
-tired	4
-'Give	4
-trouble	4
-hour	4
-camels	4
-fingers	4
-night,	4
-One	4
-'Where	4
-along	4
-dwarf	4
-silk	4
-space	4
-'Come	4
-Could	4
-plunged	4
-breath	4
-about,	4
-pierced	4
-roof	4
-cut	4
-studded	4
-lovely	4
-shore.	4
-floor,	4
-accursed	4
-cave	4
-Wisdom.	4
-spoke	4
-waving	4
-sank	4
-sand	4
-pain	4
-paid	4
-following	4
-With	4
-arena,	4
-de	4
-dance.	4
-horns	4
-wattled	4
-short	4
-god."	4
-pleasure.	4
-five	4
-gates	4
-blood	4
-carry	4
-shallow	4
-velvet	4
-'This	4
-branches	4
-pressed	4
-arms,	4
-rid	4
-finished	4
-glad,	4
-life,	4
-All	4
-altar	4
-knowest	4
-dream.	4
-stirred	4
-shot	4
-afraid	4
-face,	4
-leaves.	4
-Spain,	4
-at,	4
-slave.'	4
-down,	4
-raised	4
-terrace	4
-'But	4
-best	4
-powdered	4
-morrow	4
-wont	4
-inlaid	4
-Thou	4
-gay	4
-feed	4
-tossed	4
-love,	4
-together	4
-loves	4
-Its	4
-picture	4
-reed	4
-laid	4
-twice	4
-prayed	4
-everything	4
-deal	4
-hidden	4
-Sea-folk	4
-woke,	4
-waiting	4
-merry	4
-[TO	4
-hardly	4
-between	4
-weaver,	4
-salt	4
-chattered	4
-earrings	4
-way,	4
-it?'	4
-worth	4
-serve	4
-altar,	4
-How	4
-died	4
-figure	4
-things.	4
-raiment,	4
-wherever	4
-beating	4
-copper	4
-chamber,	4
-Grand	4
-This	4
-saying	4
-'Of	4
-curled	4
-aught	4
-page	4
-brushed	4
-chain	4
-other.	4
-life	4
-boat	4
-toad	4
-soon	4
-going	4
-sea.	4
-journeyed	4
-own,	4
-lived	4
-opened,	4
-captain	4
-smile	4
-too,	4
-monks	4
-cleft	4
-flowers,	4
-hands.	4
-Inquisitor	4
-pool	4
-garden.	4
-purses	4
-name	4
-waves	4
-harsh	4
-use	4
-denied	4
-reason	4
-whiter	4
-river	4
-robbers	4
-dark	4
-bottom	4
-asleep	4
-moments	4
-extremely	4
-coarse	4
-ye	4
-peace.'	4
-dance,	4
-heart.	4
-table	4
-himself.	4
-Do	4
-it,'	4
-throne	4
-brass	4
-ride	4
-couched	4
-mock	4
-on,	4
-stature	4
-wrapped	4
-city.'	4
-trembled.	4
-corridor	3
-stars,	3
-leaning	3
-courtiers	3
-hunting	3
-laughter	3
-still,	3
-sleeping	3
-curtains	3
-wallet,	3
-lad	3
-makes	3
-mine	3
-berries	3
-Great	3
-stronger	3
-sad	3
-wax	3
-war	3
-village,	3
-road	3
-Perhaps	3
-heavily	3
-sand,	3
-fans	3
-name.	3
-name,	3
-draw	3
-gauze	3
-known	3
-presence	3
-halberts	3
-'Our	3
-lost,	3
-river.	3
-blow	3
-Every	3
-bow	3
-bear	3
-valley,	3
-used	3
-crooked	3
-marshes.	3
-Indeed	3
-nothing,	3
-sharp	3
-Fauns	3
-word.	3
-pages	3
-dreams.	3
-colour	3
-fall	3
-started	3
-wall	3
-leathern	3
-outskirts	3
-pomegranates	3
-veiled	3
-mercy	3
-hear	3
-figured	3
-figures	3
-world's	3
-vessels	3
-throw	3
-age,	3
-matter	3
-Court	3
-turban	3
-curls	3
-mourning	3
-'As	3
-wake	3
-roses,	3
-drave	3
-wise	3
-galloping	3
-pieces	3
-good,	3
-brings	3
-streets,	3
-Round	3
-Star-	3
-whisper	3
-again.	3
-go,	3
-here,	3
-jewels	3
-pass	3
-hanging	3
-Palace	3
-frowned	3
-lizards	3
-forehead	3
-surf,	3
-cave,	3
-wait	3
-jewelled	3
-am.	3
-entreated	3
-wrath	3
-fro	3
-stiff	3
-power	3
-Bishop	3
-alone	3
-born	3
-public	3
-tulips	3
-'Then	3
-'They	3
-handle	3
-rather	3
-sunlight,	3
-French	3
-pallid	3
-stained	3
-beauty,	3
-officers	3
-ruled	3
-cruel,	3
-follow	3
-bronze,	3
-drawn	3
-plucked	3
-hair,	3
-couch,	3
-your	3
-Count	3
-bird	3
-pair	3
-arena	3
-golden	3
-barren	3
-to-day	3
-"This	3
-'Take	3
-grace	3
-soldiers,	3
-hastily	3
-fly	3
-turn	3
-metal	3
-holy	3
-hold	3
-bull	3
-shrugged	3
-silk,	3
-new	3
-'what	3
-longer	3
-performed	3
-wroth	3
-home	3
-arms.	3
-dwell	3
-nowhere	3
-'thou	3
-next	3
-dress,	3
-palace.	3
-dust	3
-And,	3
-pearl.	3
-Queen,	3
-eunuchs	3
-charcoal-	3
-pearls	3
-praise	3
-in.'	3
-all,	3
-horrible	3
-shields	3
-marble	3
-morning,	3
-lack	3
-loud	3
-Moorish	3
-Three	3
-Italian	3
-do.	3
-something	3
-dog	3
-rise	3
-bound	3
-Field	3
-viper's	3
-rings	3
-company	3
-rows	3
-bows,	3
-slipped	3
-wherefore	3
-After	3
-Street	3
-waves,	3
-fringed	3
-servant,	3
-petal	3
-light	3
-strings	3
-singing.	3
-corn	3
-moment	3
-bent	3
-asked.	3
-order	3
-land	3
-cool	3
-learned	3
-coming	3
-inn	3
-Death,	3
-dug	3
-wind.	3
-pavement	3
-tissue	3
-belt	3
-velvet,	3
-by,	3
-prickly	3
-curved	3
-ask	3
-poisoned	3
-shore,	3
-nostrils	3
-cities	3
-splendid	3
-nostrils.	3
-prophet,	3
-winter,	3
-searched	3
-couch	3
-allowed	3
-pipe	3
-dyed	3
-driven	3
-absurd	3
-face.	3
-leaves,	3
-kiss	3
-sword,	3
-day,	3
-idol	3
-heeded	3
-blossoms	3
-reading	3
-mouth,	3
-her.'	3
-lonely	3
-'We	3
-hours	3
-robe,	3
-coronation,	3
-grow	3
-orders	3
-mirror,	3
-accompanied	3
-stately	3
-rod	3
-greater	3
-pink	3
-booths	3
-anything,'	3
-room.	3
-ripe	3
-door.	3
-deck	3
-justice	3
-'For	3
-famous	3
-witches	3
-pointed	3
-worship	3
-boar	3
-league	3
-us.'	3
-occupied	3
-old,	3
-singing	3
-Sea-folk,	3
-smooth	3
-myself	3
-Mirror	3
-secret	3
-scarf	3
-small	3
-stamped	3
-canopy,	3
-heavy,	3
-entrance,	3
-trembled	3
-fan	3
-discovered	3
-bread,	3
-star	3
-think	3
-beggar	3
-lions	3
-therefore	3
-things,	3
-Tartars	3
-manner,	3
-soldiers	3
-brightly	3
-streaming	3
-tunic	3
-wandering	3
-companions	3
-during	3
-traffic	3
-'Why,	3
-ran,	3
-shadow,	3
-lie	3
-lead	3
-pieces.	3
-richer	3
-corn,	3
-liked	3
-clasped	3
-rubies	3
-wooden	3
-'the	3
-market-place	3
-chief	3
-possess	3
-burnt	3
-night-time	3
-muttered.	3
-bearing	3
-No	3
-seal	3
-several	3
-crystal	3
-manner	3
-King,'	3
-mocking	3
-forgotten	3
-misshapen	3
-either	3
-Of	3
-suddenly	3
-fluttering	3
-younger	3
-gone,	3
-ears,	3
-window,	3
-bronze	3
-signs	3
-passion	3
-disappeared	3
-fallen	3
-gavest	3
-cloth	3
-King.'	3
-burned	3
-peacocks	3
-garden,	3
-air,	3
-gone.	3
-Is	3
-tied	3
-beggar-woman.	3
-If	3
-be.	3
-screamed	3
-Therefore,	3
-Holy	3
-seven	3
-candles	3
-pleased	3
-screaming	3
-threads	3
-tissued	3
-harm	3
-heaven	3
-children,	3
-God,	3
-grotesque	3
-dull	3
-Earth	3
-anywhere	3
-lantern	3
-claws	3
-nightingale	3
-god?"	3
-profit	3
-Come	3
-horned	3
-twisted	3
-lying.	3
-answered;	3
-wet	3
-happy	3
-hats	3
-jasper	3
-madly	3
-Why	3
-matters	3
-silken	3
-crouched	3
-father	3
-search	3
-Come,	3
-cathedral,	3
-forehead,	3
-pearls,	3
-royal	3
-go.'	3
-oval	3
-false	3
-trembled,	3
-Chamberlain	3
-Camerera,	2
-hemlock	2
-snow	2
-people.	2
-armour	2
-'Nought	2
-solemnly	2
-bidding,	2
-'Lo!	2
-tears	2
-Child	2
-villages	2
-sunrise	2
-fountain	2
-To-day	2
-pressing	2
-foot,	2
-shaggy	2
-value	2
-clutched	2
-usually	2
-daughters	2
-now,	2
-leman	2
-rags.	2
-ear	2
-'Alas!	2
-'Go	2
-mules	2
-gnarled	2
-service,	2
-reflecteth	2
-haggard	2
-man.	2
-bells.	2
-Violets	2
-died.	2
-Charles	2
-sparrows	2
-onyx.	2
-fan,	2
-Nevertheless	2
-sand.	2
-poured	2
-Thy	2
-iron	2
-seen.	2
-seen,	2
-course,	2
-knows	2
-"Is	2
-sits	2
-nets,	2
-sad,	2
-'That	2
-throne,	2
-Let	2
-town,	2
-neck,	2
-sandals	2
-merely	2
-glass,	2
-brows,	2
-bowing	2
-twelve	2
-cavern	2
-silent	2
-loathsome	2
-star.	2
-'"Show	2
-toad,	2
-palanquin	2
-funny	2
-cup,	2
-touching	2
-marvel	2
-'Look	2
-fingers,	2
-Give	2
-valleys	2
-together,	2
-snow,	2
-whirled	2
-cling	2
-agate	2
-now.'	2
-bless	2
-dancers	2
-journey,	2
-quick	2
-knowest,'	2
-tale	2
-year,	2
-walked.	2
-shaped	2
-Often	2
-mother's	2
-midnight	2
-leather.	2
-mountains	2
-Queen	2
-stones,	2
-heal	2
-chests	2
-shining	2
-he,	2
-baskets	2
-drove	2
-glanced	2
-An	2
-animal	2
-better,'	2
-beautiful.	2
-burning	2
-towers	2
-stepped	2
-tortoises	2
-him.'	2
-pommel	2
-whistled	2
-rushing	2
-blows	2
-spear.	2
-youngest	2
-dresses	2
-fashioned	2
-Certainly	2
-leper.	2
-leper,	2
-wounds	2
-By	2
-'Alack,	2
-stored	2
-retired	2
-careth	2
-wave	2
-shut	2
-there.	2
-Tartary,	2
-bodies	2
-grass,	2
-Ring	2
-try	2
-gestures	2
-dragged	2
-murmured.	2
-clusters	2
-sing	2
-sink	2
-surf	2
-winter	2
-store	2
-spotted	2
-Two	2
-frowning,	2
-rocks,	2
-grapes,	2
-dressed	2
-jointed	2
-bleeding	2
-formally	2
-got	2
-Six	2
-raiment?'	2
-go.	2
-peace	2
-magical	2
-bull,	2
-cursed	2
-beads.	2
-bird,	2
-Venus	2
-finger,	2
-him,"	2
-fruits	2
-town	2
-circle	2
-caves	2
-shriller	2
-Like	2
-mark	2
-silly	2
-clung	2
-stands	2
-'Are	2
-nearer	2
-'yet	2
-climbed	2
-below	2
-'"The	2
-plumes	2
-plumed	2
-White	2
-place.	2
-childish	2
-gates.	2
-less	2
-burden	2
-wouldst	2
-throat.	2
-cold.'	2
-dreamed,	2
-afraid,	2
-afraid.	2
-nodding	2
-also?'	2
-Was	2
-god,"	2
-toro!	2
-'Mother,	2
-hide.	2
-forth.	2
-command,	2
-Queen.	2
-Bravo	2
-chest	2
-"Let	2
-first,'	2
-myrrh	2
-do?'	2
-stolen	2
-animals	2
-hunchbacked,	2
-England	2
-drooped	2
-tears,	2
-carpets.	2
-carpets,	2
-'Hast	2
-prevail	2
-Court,	2
-crimson	2
-forest.	2
-kneeling	2
-startled	2
-Yes,	2
-Star,	2
-lives	2
-business.	2
-board	2
-them,'	2
-threshold.	2
-eyelids	2
-broth	2
-voice,	2
-dainty	2
-wash	2
-not.'	2
-thou?'	2
-opposite	2
-tail	2
-thorns	2
-troubled	2
-jade,	2
-walks,	2
-gladness	2
-hollowed	2
-hawks	2
-gipsies	2
-chapel	2
-ebony,	2
-Fullers,	2
-Fullers'	2
-bales	2
-sceptre,	2
-trembling	2
-"Thou	2
-looketh	2
-danced	2
-weather	2
-break,	2
-dagger	2
-shuddered,	2
-pleasure,	2
-stretch	2
-months	2
-plain,	2
-immense	2
-apes	2
-sprawling	2
-angrily,	2
-it?	2
-shield	2
-statue	2
-warm	2
-weep,	2
-street	2
-mean	2
-beards,	2
-quickly,	2
-comely	2
-peacocks.	2
-month	2
-grated	2
-night-time,	2
-stars	2
-cat,	2
-anger,	2
-funniest	2
-noon,	2
-because	2
-exactly	2
-them.'	2
-Mother,	2
-citizens	2
-obeisance	2
-wolves	2
-dashed	2
-ten	2
-away,'	2
-swingers	2
-'Wilt	2
-tops	2
-done,	2
-desiring	2
-wine.'	2
-outside	2
-empty	2
-punishment	2
-turning	2
-fantastic	2
-waves.	2
-Suffer	2
-vile	2
-circled	2
-spring.	2
-weighed	2
-woodland	2
-bazaar.	2
-multitude,	2
-wells	2
-beryls.	2
-stole	2
-festooned	2
-staircase,	2
-waist,	2
-body,	2
-morning.	2
-mother?'	2
-plant	2
-teeth	2
-hooded	2
-coming.	2
-Barbary	2
-wide	2
-pain,	2
-sailors	2
-"The	2
-home,	2
-dream,	2
-Tu-whoo!	2
-'Truly,'	2
-bind	2
-Tower	2
-bidding.'	2
-parrots	2
-fashion	2
-mayest	2
-panting	2
-floating	2
-through,	2
-florid	2
-curtain	2
-world?	2
-Riches,'	2
-cushion	2
-god,	2
-god.	2
-torches.	2
-unworthy	2
-'Rise,'	2
-wheeled	2
-skin,	2
-succoured	2
-skins	2
-Nubian	2
-Accursed	2
-facing	2
-journeyed.	2
-bury	2
-treasure,	2
-eager	2
-pavilion	2
-bed,	2
-'"Tell	2
-thine.'	2
-north	2
-ate	2
-aside.	2
-enamoured	2
-goatherd's	2
-evil.	2
-leather	2
-tap	2
-cord	2
-ostrich	2
-strong,	2
-fear.	2
-master?'	2
-sang,	2
-doffed	2
-Squirrel	2
-lute,	2
-wise.	2
-shadows	2
-servants,'	2
-wine,	2
-others.	2
-walled	2
-reed.	2
-zithers	2
-cry,	2
-porphyry,	2
-visiting	2
-dragons	2
-fold	2
-reeds	2
-Magician's	2
-bell,	2
-rude	2
-houses	2
-slow	2
-wicket,	2
-house.	2
-shame	2
-suffered	2
-slave	2
-laugh	2
-sayest.	2
-withered	2
-remote	2
-doing.	2
-round.	2
-hunger	2
-inquiry	2
-wind,	2
-chest,	2
-amber.	2
-gaunt	2
-agony	2
-waters	2
-Infanta;	2
-forgiveness,	2
-jest	2
-followed,	2
-proud,	2
-Him	2
-fast	2
-by.	2
-cap	2
-nearly	2
-beggars	2
-willow,	2
-bells	2
-floor	2
-box	2
-shrill	2
-Granada,	2
-chains,	2
-beggar,	2
-naked	2
-horses	2
-grain	2
-free,	2
-highways	2
-Shall	2
-horse,	2
-delight.	2
-bull-fight	2
-swam	2
-rest.	2
-Emperor's	2
-nostrils,	2
-skin	2
-honey	2
-multitude	2
-out:	2
-out.	2
-feeling	2
-thee?	2
-rock	2
-loosened	2
-adder.	2
-South	2
-foot	2
-swords	2
-oil	2
-words,	2
-New	2
-blossomed,	2
-beaten	2
-abide	2
-forest.'	2
-woodland,	2
-step	2
-day.	2
-scented	2
-melancholy	2
-Many	2
-helmet	2
-mouths	2
-emerald,	2
-hobby-horses	2
-off,	2
-twilight	2
-nought,	2
-spread	2
-mine.	2
-service	2
-laughing,	2
-diver	2
-Wilt	2
-dusty	2
-murmured	2
-dust.	2
-galleys	2
-sheepskin	2
-bay.	2
-holding	2
-feet.	2
-kind	2
-king	2
-shoulders,	2
-shoulders.	2
-mirrors	2
-mounted	2
-silence	2
-thicket	2
-snow.	2
-child.	2
-slim	2
-die,'	2
-appearance,	2
-free	2
-bracelets	2
-doors	2
-To	2
-splendid,	2
-rooms	2
-midst	2
-shutters	2
-niches	2
-Chamberlain.	2
-birds,	2
-sort	2
-pride.	2
-"or	2
-gravity	2
-Behind	2
-magic	2
-prepared	2
-handsome	2
-straight	2
-faint	2
-ships	2
-hangings	2
-widows	2
-believe	2
-separate	2
-faster	2
-don't	2
-for,	2
-thinking	2
-Flee	2
-swarthy	2
-'A	2
-sweetly	2
-wept	2
-dreams,	2
-also.'	2
-Tierra-Nueva	2
-sword	2
-little,	2
-tore	2
-wax,	2
-acknowledged	2
-'Let	2
-amuse	2
-ceremonies	2
-early	2
-elaborate	2
-entrance.	2
-Across	2
-mind,	2
-boy,'	2
-herself,	2
-fascinated	2
-brass,	2
-brass.	2
-dripped	2
-'it	2
-Who	2
-bread.	2
-vessel.	2
-'Mi	2
-mother,'	2
-monstrance	2
-amongst	2
-watch	2
-delightful	2
-hornbeam,	2
-Sun,	2
-stabbed	2
-wall,	2
-there.'	2
-mole,	2
-gold?'	2
-answer	2
-needs	2
-course	2
-linen	2
-famine	2
-started,	2
-brow	2
-jackals	2
-enamel	2
-Sometimes	2
-clipped	2
-'After	2
-tugged	2
-kindness	2
-gilded	2
-oranges,	2
-fixed	2
-logs	2
-Lizards	2
-misery	2
-her!	2
-companion,	2
-desirest	2
-girl	2
-steel.	2
-rocks	2
-carpets	2
-forty	2
-ruby,	2
-lacquer	2
-marriage	2
-juggler	2
-swiftly	2
-death	2
-shuttles	2
-lean	2
-leap	2
-shadowy	2
-leather,	2
-bridegroom,	2
-partly	2
-V.	2
-wanted	2
-suffers	2
-human	2
-lifted	2
-brother,	2
-'Alas!'	2
-cloth,	2
-representing	2
-listen	2
-couch.	2
-pipe,	2
-chair	2
-money	2
-Seville,	2
-across,	2
-treated	2
-ugly,	2
-'Eat,'	2
-tarry,	2
-muttered,	2
-'So	2
-tombs	2
-hurriedly	2
-cheek	2
-pity,	2
-Egypt	2
-temptations,	2
-fancy	2
-fought	2
-terribly	2
-natural	2
-tanned	2
-Papal	2
-loving-kindness	2
-dungeon.	2
-taught	2
-hill	2
-worked	2
-Wisdom,'	2
-poppies	2
-written	2
-mine.'	2
-camel	2
-East	2
-slaves.	2
-cloud	2
-swiftly.	2
-swiftly,	2
-cattle	2
-Mermen	2
-artists	2
-effect	2
-crown,'	2
-live,	2
-uncle	2
-rose-water	2
-laugh.	2
-monster,	2
-dusky	2
-forgotten,	2
-drank	2
-musicians,	2
-falling	2
-orchard,	2
-ceiling.	2
-thee."	2
-brake	2
-sniffed	2
-blossom	2
-another.	2
-crown,	2
-'Father,	2
-petals	2
-vermilion	2
-feathers	2
-ears.	2
-dress	2
-purple,	2
-dead.	2
-soul,'	2
-breast,	2
-turquoise	2
-charcoal-burners	2
-flowers.	2
-rule	2
-foreign	2
-Priest,	2
-crowned	2
-chapel,	2
-swear	2
-passing	2
-Christ,	2
-plates	2
-lighted	2
-quench	2
-fir-tree,	2
-Plague	2
-travellers,	2
-away.'	2
-escape	2
-'Drink,'	2
-thyself	2
-amusing	2
-gardens	2
-Prince	2
-spoken,	2
-jade.	2
-clay.	2
-person	2
-not,'	2
-procession	2
-father,	2
-milk	2
-dwelling.	2
-'that	2
-waved	2
-land,	2
-land.	2
-stayed	2
-marriage,	2
-seventh	2
-thread	2
-smelling	2
-lights	2
-charcoal	2
-terrace.	2
-child's	2
-bending	2
-grabbled	2
-moonlight	2
-pavilion.	2
-sadly.	2
-bubbles	2
-tissue,	2
-harps	2
-breasts,	2
-'you	2
-wire	2
-more,	2
-cruelty,	2
-poison	2
-solemn	2
-sorrow.	2
-merchandise.	2
-entrance	2
-nigh	2
-stooped	2
-'Get	2
-Never	2
-feast	2
-roots	2
-twitched	2
-been,	2
-crag	2
-called,	2
-forgot	2
-carried	2
-legs,	2
-gold,'	2
-horn.	2
-appeared	2
-hastened	2
-lilac	2
-rushes	2
-are,	2
-delight	2
-rubies.	2
-crawled	2
-desire.	2
-hat,	2
-breathed	2
-went,	2
-hath	2
-fate	2
-matter,	2
-horn	2
-sting	2
-cried;	2
-finger	2
-poisonous	2
-cathedral	2
-Queen's	2
-moonstones	2
-wiser	2
-sitting	2
-fluttered	2
-certain	2
-brother	2
-money,	2
-affected	2
-themselves,	2
-Lord	2
-me:	2
-tree.	2
-censers,	2
-earth	2
-joy.	2
-met	2
-'There	2
-beyond	2
-cure	2
-blessed,	2
-split	2
-bitterly,	2
-bitterly.	2
-strode	2
-walls,	2
-amidst	2
-shrine	2
-smoke	2
-knees,	2
-pilgrim	2
-God.	2
-eaten	2
-noses	2
-sky,	2
-wafer	2
-trow	2
-so,'	2
-fierce	2
-Sorrow,	2
-Through	2
-move.	2
-Madrid	2
-chain.	2
-merchant,	2
-haughty,	1
-clattered	1
-mechanically	1
-'Certainly,	1
-gestures,	1
-newly-slain	1
-since	1
-want	1
-sewing.	1
-Woodcutters	1
-loom	1
-poppy-juice,	1
-shoulders	1
-grasshoppers	1
-days--then	1
-horror!'	1
-pillars,	1
-difference	1
-keepest	1
-stibium,	1
-emeralds.	1
-'give	1
-sore,	1
-Mole	1
-foxgloves	1
-burner,	1
-tea-house	1
-gestures.	1
-wing	1
-bereft	1
-stars.	1
-long.	1
-burners	1
-sun,	1
-sorry	1
-good.	1
-kinglike,'	1
-bidding.	1
-suffer.'	1
-crook	1
-brightly,	1
-burners,	1
-oars	1
-pedestals,	1
-Laktroi	1
-manes.	1
-monotonously	1
-grinding;	1
-Bishop's	1
-broken,'	1
-stall	1
-cisterns	1
-rare	1
-pot,	1
-jesting.	1
-wrestling	1
-listened,	1
-boots	1
-Egyptians--as	1
-sweet-scented	1
-church	1
-Council,	1
-axes;	1
-Pilar	1
-coals.	1
-forgiven.	1
-levied	1
-vial	1
-profusion	1
-safe	1
-buried	1
-hast,	1
-place.'	1
-Government,	1
-icicles	1
-singers	1
-corks,	1
-both	1
-forest?	1
-that--?	1
-frozen,	1
-invite	1
-smeared	1
-marching	1
-priest's	1
-tells	1
-parentage,	1
-seat,	1
-receiving	1
-tragedy	1
-between.	1
-stripes.	1
-doorway,	1
-State-affairs	1
-dragon-flies.	1
-highest	1
-foam,	1
-tongue	1
-obtained	1
-troop	1
-tell,	1
-receive	1
-mule,	1
-growled	1
-perfume	1
-hedgehogs	1
-shoulder,	1
-mind	1
-rags,	1
-silence.	1
-that;	1
-fresh	1
-cages	1
-that,	1
-sceptre.'	1
-plumes,	1
-bird-sellers	1
-gauze,	1
-shark-charmer,	1
-gulls	1
-happy!	1
-hurrying	1
-fen.	1
-eyelids,	1
-sea-shore	1
-'Sayest	1
-TENNANT--MRS.	1
-decorated	1
-bags	1
-'have	1
-faces,	1
-man?	1
-shrine,	1
-changed	1
-Lord,	1
-pensive,	1
-number.	1
-MARGARET	1
-animal,	1
-fern,	1
-harnessed	1
-reason.	1
-drift,	1
-winding	1
-carriage.	1
-rank,	1
-feeds	1
-maimed	1
-spake,	1
-perhaps,	1
-trencher	1
-tenderly	1
-men.	1
-so.'	1
-sways	1
-roasted	1
-aloud.	1
-shouted	1
-charming.	1
-understood	1
-silver;	1
-rich,	1
-failed	1
-birthday.	1
-properly	1
-drivers,	1
-nard,	1
-nests,	1
-worships,	1
-shone	1
-fast.	1
-pillars	1
-many-rayed	1
-drawn,	1
-hunger.'	1
-disdain.	1
-cork-wood	1
-somehow	1
-elm.	1
-these.	1
-ill-favoured,	1
-'Nonsense!'	1
-roam	1
-horror	1
-pigeons.	1
-onyx,	1
-oratorical	1
-titular	1
-clock-tower	1
-copes	1
-deny	1
-ambassadors	1
-dignity,	1
-although	1
-named	1
-Most	1
-names	1
-seeking?'	1
-comeliness	1
-grassy	1
-newly	1
-perilous	1
-except	1
-swift	1
-master.'	1
-weavers,	1
-stiffly	1
-Hell,	1
-aback	1
-absolutely	1
-silver?'	1
-mere	1
-name?	1
-World.	1
-Dost	1
-drag	1
-fiery-coloured	1
-laughter,	1
-invisible	1
-closer	1
-sweetest	1
-breaking	1
-damask,	1
-he?'	1
-cushions	1
-Osiris.	1
-'Every	1
-shout	1
-passed.	1
-pillow.	1
-passed,	1
-receiveth	1
-patterned	1
-Away!'	1
-passed:	1
-'His	1
-ambassadors,	1
-Flowers	1
-brass-sealed	1
-hunt,	1
-weaver	1
-filigrane	1
-butter	1
-wagged	1
-stops	1
-Ethiops,	1
-whirled,	1
-left.	1
-refused	1
-passes	1
-reception,	1
-sorrow.'	1
-nest	1
-telleth	1
-everybody	1
-Professor	1
-coronation	1
-silently	1
-hearts,'	1
-ends	1
-peacocks,	1
-kingdom	1
-SOUL	1
-sets	1
-nigher,	1
-waste	1
-confessor,	1
-enters	1
-signs.	1
-Syrian	1
-year's	1
-gently	1
-it--of	1
-loins	1
-bartered	1
-weak	1
-glided	1
-sounded	1
-shows,'	1
-veined	1
-'Thief,	1
-less.	1
-mass	1
-cedar,	1
-good.'	1
-catch	1
-malady	1
-fretting	1
-pass,	1
-star,	1
-stray	1
-Stand	1
-sobbing,	1
-chill	1
-le	1
-Dwarf's	1
-inside	1
-breakfast	1
-lord.	1
-II.	1
-thirst,	1
-agreed,	1
-birth	1
-ladder,	1
-regular	1
-strange,	1
-riding-gloves	1
-boy	1
-rivers	1
-plainly.	1
-Go	1
-vase	1
-marsh-water	1
-caparisoned	1
-ceremonious	1
-shawls	1
-pomp	1
-More	1
-You	1
-use,	1
-smite	1
-Echo?	1
-fingers.	1
-glens,	1
-bead	1
-brazier	1
-valley.	1
-grandee	1
-sake	1
-Mexico,	1
-Venice,	1
-asleep,	1
-Birthday	1
-stems	1
-duty	1
-smiled.	1
-smiled,	1
-doorway	1
-Kraken	1
-waiting,	1
-figures,	1
-anemones,	1
-Caffarelli,	1
-anywhere,	1
-tree	1
-richly-	1
-bow,	1
-philosopher,	1
-bay,	1
-Pilar,	1
-together.	1
-Woodpecker,	1
-wages	1
-starlings	1
-waggons	1
-POMEGRANATES	1
-past	1
-tune,	1
-snows	1
-not!'	1
-alliance,	1
-cross,	1
-caves.	1
-Pain,	1
-departure,	1
-Moon.	1
-word,	1
-share	1
-hunger.	1
-jade	1
-'Dost	1
-'See!	1
-dying	1
-ending,	1
-moonbeams	1
-worn	1
-swords,	1
-apes,	1
-wakes	1
-Atocha,	1
-ended	1
-oath	1
-waked	1
-secular	1
-hemlock.	1
-talk	1
-heaped	1
-recognition	1
-journeys	1
-These	1
-Englishmen,	1
-called--a	1
-attic,	1
-year.	1
-walked,	1
-incensed	1
-globe-like	1
-churchyard,	1
-uncle,	1
-streamed	1
-dagger,	1
-dagger.	1
-coral	1
-caused	1
-orange	1
-prettier	1
-vulgarising	1
-frightened	1
-pitching	1
-succour	1
-roasted.	1
-Over	1
-briar	1
-romantic	1
-Madrid.	1
-Lorraine,	1
-are,'	1
-orchard	1
-sleepeth,	1
-'much	1
-fact	1
-Martin,	1
-cheeks,	1
-climb	1
-itself	1
-forward	1
-spear	1
-language.	1
-Here,	1
-slapped	1
-subtlest	1
-faggots,	1
-rose-apples	1
-deerskin,	1
-lay,	1
-Terribly	1
-bad	1
-beggar's	1
-mouldy	1
-least,	1
-mouldering	1
-spin	1
-courtier	1
-love,'	1
-'Once	1
-chafe	1
-vices	1
-minuet,	1
-mountain.	1
-all?'	1
-missed,	1
-magnolia	1
-retorted	1
-Stay	1
-happy.'	1
-station--a	1
-ugliness,	1
-cloaks,	1
-swimming	1
-exquisite	1
-thorns.'	1
-'Shall	1
-city?"	1
-younger.	1
-ankles	1
-heap	1
-nibbling	1
-wings.	1
-pinewood	1
-kisses,	1
-dealest	1
-natural,	1
-lack?'	1
-goatherd.	1
-him--she	1
-gemmed	1
-fowls;	1
-rope-ladder,	1
-cunning	1
-locusts	1
-wisdom,	1
-Our	1
-branch	1
-which,	1
-alive.	1
-poor?	1
-sware	1
-dais	1
-warm,	1
-Silver	1
-'Weet!	1
-least	1
-hearts.	1
-dances,	1
-aged	1
-crumbs	1
-'this	1
-dates.	1
-pealed	1
-parcelled	1
-trance,	1
-poor,	1
-confession.	1
-dawn.	1
-physician,	1
-clothes	1
-bleed.	1
-island	1
-fly?'	1
-lieth	1
-wallets	1
-hunter	1
-lad,	1
-hill-summits.	1
-irresistible,	1
-incessant	1
-winter?'	1
-curiosity	1
-makest	1
-disappointment,	1
-slanting	1
-bundle	1
-ever,	1
-beggar--this	1
-rebuked	1
-gangway	1
-longer.	1
-mosaiced	1
-throne-room,	1
-foxes	1
-Much	1
-Samaris	1
-tend	1
-leading	1
-suggested,	1
-hanged	1
-blown	1
-fire-places	1
-sieve	1
-call,	1
-luxury	1
-dome.	1
-forward,	1
-MARGOT	1
-shoals,	1
-itself,	1
-itself.	1
-stone,	1
-stone.	1
-bossy	1
-AND	1
-Sibans,	1
-together,'	1
-desert.	1
-lure	1
-purfled	1
-Trouble	1
-Kings,	1
-Serpents	1
-blow.	1
-forest,'	1
-wise?'	1
-puffed	1
-trains	1
-mercy.	1
-destined	1
-basket	1
-spears	1
-Injustice	1
-woven.	1
-entertainment,	1
-sunk	1
-perhaps	1
-sung	1
-chief,	1
-dogs.	1
-suns	1
-said.	1
-counters,	1
-past.	1
-sprang,	1
-grape-treaders,	1
-sun.	1
-mosque	1
-moon.	1
-indignant	1
-swarmed	1
-Armenian	1
-faded	1
-utmost	1
-pottery,	1
-misery.'	1
-MRS.	1
-blooms,'	1
-missed	1
-taint--or	1
-caged	1
-according	1
-'By	1
-battlements	1
-guest-	1
-grass.	1
-grass-	1
-State;	1
-lamb's-	1
-ceremony	1
-leaping,	1
-skirt	1
-grown-up	1
-pleasant	1
-stranger,	1
-sounding,	1
-porphyry	1
-fens	1
-explanations.	1
-suffered.	1
-irises	1
-couldst	1
-full,'	1
-Office	1
-Bedouins	1
-dates	1
-wearied	1
-washed	1
-hot,	1
-town.	1
-swung	1
-intolerable	1
-Castile	1
-sin,	1
-sin.	1
-mask	1
-sprang	1
-sin?	1
-outlaws	1
-weeping,	1
-weeping.	1
-Linnet,	1
-Peacock,	1
-come,	1
-weeping?	1
-snarled.	1
-henna,	1
-consented	1
-alb	1
-Tyre	1
-tastefully	1
-sure	1
-stripes.'	1
-strew	1
-story	1
-longest	1
-beach	1
-forgetting	1
-dress,'	1
-darting	1
-storm	1
-"but	1
-sobs	1
-Hall	1
-saffron.	1
-after,	1
-Dance,'	1
-building	1
-secret.'	1
-tails	1
-pebbles	1
-Inside	1
-clothed	1
-soul's	1
-week	1
-horror,	1
-flutter	1
-angels.	1
-Giaours	1
-poor.	1
-crossbeams.	1
-cabinet	1
-tail,	1
-open,	1
-spell.	1
-open.	1
-then,	1
-here?	1
-noise,	1
-ministers	1
-plumage.	1
-locking	1
-apart	1
-situation.	1
-dolphins,	1
-Better	1
-wind?'	1
-picketed	1
-boots,	1
-distance.	1
-hoofs	1
-bulls	1
-know.'	1
-anchor	1
-'With	1
-tassels,	1
-heels	1
-smile.'	1
-sodden	1
-airs,	1
-Again	1
-that?	1
-fulness	1
-thoughts	1
-thin,	1
-pick	1
-hence	1
-mare's	1
-grass-green	1
-tree-top,	1
-phantoms	1
-beads,	1
-rescued	1
-artificers	1
-seems	1
-Sidon,	1
-fruit;	1
-made,	1
-importance	1
-wares,	1
-incurable;	1
-moved.	1
-go?	1
-arras	1
-sides,	1
-portal	1
-idle.	1
-biting	1
-LADY	1
-perfectly	1
-stumbled	1
-true,	1
-dominions	1
-handkerchiefs	1
-suspicion	1
-pacing	1
-avails	1
-barnacles	1
-beggar-woman.'	1
-jumping	1
-sleep;	1
-trusty	1
-were,	1
-worshipper.	1
-sleep,	1
-buskins	1
-arrow,	1
-sail	1
-joys.	1
-initials	1
-roofed	1
-Moors.	1
-Ashter,	1
-meet?'	1
-crawls	1
-chained	1
-expressed	1
-bloodless	1
-strict	1
-Before	1
-ASQUITH]	1
-helmets	1
-cloves.	1
-moments,	1
-sparkling	1
-Mountain-	1
-former	1
-ever.'	1
-leaving	1
-sweet-	1
-fawned	1
-sultry,	1
-pagan	1
-buyer,	1
-grains	1
-Indies	1
-tribe	1
-cleave	1
-beckoned	1
-apartments,	1
-fierce,	1
-wove	1
-ivy	1
-hillside	1
-alas!	1
-lamb's	1
-ragged,	1
-'Father,'	1
-eyelids.	1
-salt-marshes	1
-pomegranate	1
-slowly,	1
-be,'	1
-sea-horses	1
-Flowers,	1
-butterflies.	1
-coils	1
-fins;	1
-lapis-	1
-treble,	1
-Fisherman's	1
-meagre	1
-statues	1
-swallow.	1
-late	1
-gushed	1
-fruit:	1
-damp.	1
-foam-flecked	1
-all;	1
-Valley	1
-parted,	1
-tortoise-shells	1
-Underneath	1
-Dead	1
-copying	1
-crag,	1
-nicer,	1
-scornfully	1
-hammer.	1
-Asturias.	1
-advanced	1
-black;	1
-horrible,	1
-weather.	1
-usual	1
-stout	1
-him,'	1
-Shouldst	1
-ordinary	1
-Catholic	1
-Thinkest	1
-tricks.	1
-sea-mists	1
-back.	1
-humourous	1
-countries,	1
-STAR-CHILD	1
-KING	1
-red-dyed	1
-tall.	1
-despised,	1
-reward	1
-hostages,	1
-business	1
-eye,	1
-balls,	1
-submitted	1
-weary;	1
-slumbered,	1
-sailing	1
-guitar,	1
-evilly.	1
-twin	1
-weary,	1
-tiles.	1
-truth,	1
-son,'	1
-mend	1
-prophesied	1
-wreaths,	1
-speakest?'	1
-loaded	1
-eldest	1
-exception,	1
-humming,	1
-boat,	1
-there?'	1
-bit.	1
-honour;	1
-hounds	1
-honour.	1
-honour,	1
-siesta,	1
-'wilt	1
-Sea,	1
-Sea-	1
-portholes;	1
-Famine,	1
-exclaimed	1
-another.'	1
-knotted	1
-entirely	1
-attired,	1
-kid	1
-alms.	1
-sunlight.	1
-'Pretty	1
-bella	1
-hide,	1
-grouped	1
-Escurial	1
-targe	1
-atomic	1
-clatter	1
-sealed	1
-bats.	1
-filled,	1
-abasement.'	1
-rabbits	1
-toyed	1
-music.	1
-meekly	1
-music,	1
-masters,	1
-sawn	1
-Grief,	1
-thighs.	1
-delirium	1
-circle,	1
-gaze	1
-despatches	1
-Snow	1
-forced	1
-lords:	1
-wished	1
-moaned	1
-'Yet	1
-magnificence.	1
-beauty.	1
-seriously,	1
-wishes	1
-pearl,	1
-hate,	1
-trumpet	1
-hate.	1
-amused.'	1
-eater?	1
-greater,	1
-Lilies,	1
-who,	1
-watered	1
-'Thrice	1
-loved,	1
-adders	1
-peer	1
-craft	1
-wiped	1
-embossed	1
-uncorded	1
-spake.	1
-hundred-fold.'	1
-thing,'	1
-devices,	1
-Narcissus	1
-granted	1
-stole.	1
-mystery	1
-Burgos,	1
-Bid	1
-bubble	1
-apparel?	1
-folds.	1
-pure	1
-Netherlands,	1
-awe,	1
-black-haired,	1
-us--that	1
-anybody.	1
-Holbein's	1
-wickedness	1
-music	1
-oak-tree,	1
-pikes,	1
-archer	1
-Cross,	1
-trap	1
-perched	1
-cruel.	1
-tray	1
-passers-by.	1
-oil.	1
-quarrel	1
-only,'	1
-rice	1
-companion	1
-lustily	1
-coup	1
-returned,	1
-Star-child	1
-flesh	1
-true	1
-ladies	1
-posture-master	1
-lolling	1
-have,	1
-interpreter	1
-courtesy,	1
-simply	1
-lined	1
-grim	1
-threaded	1
-as,	1
-lute	1
-stars?'	1
-ladder	1
-even,	1
-bare,	1
-common	1
-brushwood	1
-before.'	1
-sides	1
-aloud,	1
-theory	1
-steep,	1
-bordered	1
-am,	1
-Sellers	1
-wedded	1
-crawling	1
-gladly.	1
-bank	1
-council-room,	1
-perish	1
-Parma	1
-art?	1
-Wisdom	1
-trellis	1
-recognised	1
-drowned	1
-name.'	1
-wine-jars	1
-vaulting	1
-tedious	1
-uncovering	1
-square,	1
-venture	1
-low,	1
-sea-gull,	1
-turbaned	1
-tears.'	1
-Egypt,	1
-splashing	1
-throwing	1
-heart?'	1
-robes,	1
-balustrade,	1
-'Faster,'	1
-reward.'	1
-Koran	1
-whistled.	1
-serpent-skin	1
-questioned.	1
-perfume.	1
-leadership	1
-green-leaved	1
-Archduchess	1
-monster's	1
-Why,	1
-part,'	1
-abominated.	1
-sensible.	1
-snapping	1
-noting	1
-poverty,	1
-perfumes	1
-again,'	1
-board?	1
-enemy	1
-obeisance.	1
-tangled	1
-marvellous;	1
-Yes:	1
-tightrope,	1
-grotesque.	1
-mulberries	1
-grave,	1
-dungeon,	1
-Standing	1
-acorn-cups	1
-terrified,	1
-camp-fire	1
-purpose.	1
-rejected	1
-changeling	1
-destroy	1
-turquoise-stones,	1
-ostentatious,	1
-candle	1
-cakes	1
-Camerera	1
-asleep,"	1
-discovery,	1
-graved	1
-caked	1
-pink-flowered	1
-voice?	1
-sixteen	1
-Thee	1
-neighs	1
-benches,	1
-faggots	1
-etiquette	1
-equal	1
-proportion	1
-excited	1
-dead,	1
-cloak,	1
-corner,	1
-plucking	1
-fallen,	1
-'Ugh!'	1
-vines	1
-goat	1
-hook	1
-sickness.	1
-inscribed	1
-portrait	1
-work.	1
-pail	1
-travelling	1
-witcheries.	1
-greatness	1
-organ	1
-moss-grown	1
-afraid.'	1
-blessed	1
-Bishop,	1
-price"?	1
-sleeves	1
-waits	1
-willow-trees	1
-whir	1
-panels	1
-aureole	1
-napkin	1
-pound	1
-roses	1
-address.	1
-same,	1
-lord!'	1
-ceiling	1
-waddling	1
-period.	1
-Triumph	1
-retired.	1
-behalf	1
-rose.	1
-footsore	1
-gold-dust	1
-hobbyhorses	1
-sulphurous	1
-voice.	1
-times,	1
-much,"	1
-chestnut	1
-meshes	1
-arena.	1
-dreams?'	1
-beheld	1
-aloes.	1
-violence.	1
-alone.	1
-performance,	1
-gentlemen	1
-howls	1
-dream	1
-Sirens	1
-dwarf,	1
-'One	1
-gilding	1
-Linnet	1
-sea-purple,	1
-single	1
-disks.	1
-chandelier	1
-sweet.	1
-Tu-whit!	1
-Hare.	1
-wine-sellers	1
-evilly	1
-listless	1
-thus	1
-sin	1
-immediately	1
-established.	1
-dominions.'	1
-six	1
-soul.	1
-loathed	1
-cowl	1
-soldiers.	1
-shuddered.	1
-Ice-King	1
-carlots	1
-scales,	1
-scales.	1
-Albuquerque	1
-accentuated	1
-creamy	1
-thistle	1
-blowing	1
-'Come!	1
-plain.	1
-move,	1
-revolted	1
-despair,	1
-indeed?'	1
-indoors	1
-stated,	1
-instinct,	1
-letters	1
-hatred.	1
-Child,	1
-mate,	1
-double	1
-private	1
-customary	1
-But,	1
-angrily.	1
-it;	1
-wonderfully	1
-ridiculous	1
-goatherd	1
-seller,	1
-stopping	1
-shrieked	1
-millers	1
-honey.	1
-honey-	1
-rested,	1
-dried-up	1
-fastening	1
-ware	1
-Wolf,	1
-Wolf.	1
-warp	1
-usual,	1
-ear.	1
-ear,	1
-you.'	1
-dwells	1
-assembling	1
-showest	1
-dunes,	1
-drooped,	1
-affairs	1
-sweeter	1
-quickly.	1
-meat	1
-earth,	1
-speak,	1
-peacocks'	1
-tarried	1
-gnaw	1
-rafts	1
-struggled	1
-possession	1
-sensibly	1
-abased	1
-travelled,	1
-beautiful?'	1
-fair-haired	1
-shepherd's	1
-enter?	1
-mid-air.	1
-putting	1
-anger.	1
-sards.	1
-enter,	1
-suite	1
-silk.	1
-autumn,	1
-past,	1
-ones	1
-marble.	1
-marble,	1
-square	1
-boyish	1
-fruitsellers,	1
-Suddenly,	1
-arcades,	1
-imitated	1
-him?'	1
-strove	1
-muffled	1
-magicians	1
-thanks	1
-candle-bearers,	1
-chalice	1
-wreck	1
-Fontainebleau,	1
-whenever	1
-warily,	1
-mullet	1
-Oftentimes	1
-hidalgo	1
-temple.	1
-leopard,	1
-remained	1
-alone.'	1
-glide	1
-sank.	1
-Arabs	1
-Circassian	1
-disk	1
-dish	1
-eight	1
-caftan	1
-feathers,	1
-blank	1
-moonflowers,	1
-trencher,	1
-seed-pearls,	1
-hurt	1
-furniture	1
-deer.	1
-her?'	1
-wrist.	1
-'Will	1
-heat.	1
-heat,	1
-humility.	1
-rim	1
-evil.'	1
-Cordovan	1
-elephant	1
-beautiful,	1
-withered.	1
-easier.	1
-years.	1
-this.	1
-monastery	1
-means	1
-banks	1
-night-	1
-catkins	1
-division	1
-misfortunes.	1
-gifts,	1
-lamps.	1
-Really	1
-hollow	1
-suit	1
-Field.'	1
-glad.	1
-beseech	1
-basking	1
-wild-eyed	1
-bad-tempered	1
-red.	1
-lessons	1
-fair,	1
-inferiors	1
-Nuncio	1
-presented	1
-tightly.	1
-Blood	1
-grey.	1
-song.	1
-beholds	1
-touches	1
-Squirrels,	1
-pearl;	1
-tinkle.	1
-defiantly	1
-move	1
-circlet	1
-ending	1
-Prior,	1
-coiled	1
-RANEE	1
-question	1
-taste	1
-seeking.	1
-married,	1
-ropes,	1
-Yet,	1
-motioned	1
-spring,	1
-cover	1
-marsh,	1
-skins,	1
-pall	1
-palm	1
-lives,	1
-streamers	1
-years,	1
-beast,	1
-front.	1
-well,	1
-well.	1
-alabaster,	1
-narrow	1
-closed,	1
-beasts	1
-melons,	1
-relief	1
-temple	1
-houses,	1
-India,	1
-Nuestra	1
-gowns,	1
-'Show	1
-heresy	1
-perchance	1
-Comprachos,	1
-finished,	1
-mauve-amethyst	1
-seated.	1
-could.	1
-bryony	1
-family	1
-seller	1
-weave	1
-Indian	1
-shield,	1
-jennet	1
-mud.	1
-pirates	1
-'to	1
-love's,'	1
-whipping	1
-palace,	1
-fade	1
-sweetness	1
-that?'	1
-waist.	1
-desire,'	1
-knolls;	1
-Libya	1
-rise,	1
-playmate.	1
-chimney,	1
-living	1
-playmate,	1
-gloves	1
-porcelain,	1
-vases	1
-address	1
-France	1
-lace	1
-provided,	1
-tricks	1
-fainter,	1
-girdle,	1
-afflicted,	1
-smile,	1
-Ambassador	1
-smile.	1
-having!'	1
-elephant-hide,	1
-willows,	1
-cunning,	1
-capital,'	1
-safety.	1
-burned.	1
-grinning	1
-takes	1
-battle,	1
-battle.	1
-charming	1
-glove.	1
-silver.'	1
-become	1
-whips	1
-State	1
-weeks	1
-life.	1
-eyelets	1
-wild-	1
-reverence.	1
-waning,	1
-ceremony,	1
-"Where	1
--	1
-Turtle-doves	1
-nestled	1
-flies	1
-sing.	1
-paint	1
-on.	1
-child.'	1
-dreams	1
-wearily,	1
-dreamy	1
-speakest	1
-overtake	1
-coffers	1
-black-winged	1
-weight	1
-morning's	1
-corset	1
-glistened	1
-cracked	1
-quill	1
-Apes	1
-lute-playing,	1
-'Why!	1
-Snare	1
-limit	1
-do?	1
-playmates	1
-prophet	1
-birth,	1
-birth.	1
-iron-shod	1
-philosophical	1
-nail-shaped	1
-Agazonbae,	1
-at.'	1
-crosses	1
-wonder.	1
-away."	1
-bourgeon	1
-African	1
-crossed	1
-close,	1
-gatherer	1
-is.	1
-amber,	1
-saying:	1
-unrobe	1
-stone's-throw	1
-deep.	1
-approached	1
-is!	1
-amber?	1
-wreaths	1
-aloud	1
-ground.	1
-hear.	1
-strung	1
-DESBOROUGH]	1
-sponges	1
-climbing	1
-gem	1
-holes,	1
-ponder	1
-figs,	1
-charm	1
-Dwarf,	1
-Dwarf.	1
-stumpy,	1
-spices,	1
-gates,	1
-trumpets,	1
-limits	1
-teach	1
-whence	1
-dwellers	1
-'Ask	1
-visit	1
-toying	1
-flower.	1
-sorely.	1
-Adonis.	1
-muslin	1
-bare-limbed	1
-Duchess	1
-daylight	1
-day.'	1
-blind.	1
-fascination	1
-fleece	1
-loud,	1
-other's	1
-northern	1
-life,'	1
-sigh	1
-myself,	1
-saw,	1
-hopping	1
-last,	1
-Philip	1
-leaped	1
-palace--Joyeuse,	1
-awe	1
-mighty	1
-opals	1
-MISS	1
-desired,	1
-combat,	1
-celandine,	1
-argument.	1
-full.'	1
-See	1
-world;	1
-runner	1
-cost	1
-'Ay,'	1
-autumn	1
-latter	1
-tarriest	1
-remarked	1
-overjoyed	1
-hand?'	1
-amethysts,	1
-Scorpion.	1
-individual,	1
-lateen	1
-intricate	1
-drowned;	1
-forgiveness	1
-charring	1
-shame?	1
-plaited	1
-shame,	1
-mower	1
-scowled.	1
-opening	1
-blinded	1
-wounded.	1
-done.'	1
-Well-bred	1
-governs	1
-Hast	1
-saddle	1
-war,'	1
-present	1
-wicker-	1
-weet!	1
-guns,	1
-tapestried	1
-tapestries	1
-rearing	1
-Fou,	1
-related	1
-sovereigns	1
-elf	1
-carven	1
-eyebrows	1
-loss	1
-fishermen,	1
-glad	1
-Dervish	1
-scowling,	1
-'Should	1
-always,	1
-trail	1
-Godspeed,	1
-tight	1
-rolled	1
-Nile	1
-twittered	1
-wasn't	1
-arrangements	1
-equals,	1
-journeyed,	1
-Toledo.	1
-dance,'	1
-darkness	1
-divination,	1
-spy	1
-twigs	1
-lonely,	1
-fringes	1
-moue	1
-rate.	1
-burn	1
-'Well,	1
-attached	1
-treasure.	1
-battens,	1
-upset	1
-narcissus	1
-monsters	1
-fourth	1
-dovecot	1
-at.	1
-lingered	1
-food,	1
-ashes,	1
-weet!'	1
-bed.	1
-dawned	1
-bride,	1
-'Rise	1
-crocodile,	1
-him--had	1
-comeliness?	1
-hollows	1
-mother.'	1
-hairy	1
-vinedresser?'	1
-stir	1
-curse	1
-drums.	1
-ruby-studded	1
-sharing	1
-spires	1
-down.	1
-glare.	1
-Elizabeth	1
-ordained	1
-disdain	1
-wool	1
-pomegranates,	1
-jealous,	1
-Illel.	1
-kings,	1
-kings.	1
-'"Nay,"	1
-love-song	1
-to-night	1
-snarled	1
-hoods	1
-saddle-bow	1
-Accept	1
-glass.	1
-daggers,	1
-asses	1
-his.	1
-his,	1
-sense	1
-throat	1
-dimly-lit	1
-goat's-hair.	1
-crooked-limbed,	1
-Geraniums,	1
-somewhat	1
-tower	1
-vile,'	1
-bird's	1
-bridge,	1
-butts	1
-Heavy	1
-Naked	1
-cedarwood,	1
-sandal-wood	1
-brackish	1
-spiced	1
-husband	1
-spices	1
-immensely,	1
-banners	1
-nails,	1
-tamarisk	1
-nails.	1
-wearily	1
-bubbled	1
-lost.	1
-sea-shells	1
-clutching	1
-tents	1
-pearl.'	1
-reina!	1
-Contents:	1
-milk.	1
-bier	1
-cased	1
-orient	1
-fired	1
-depart.	1
-"What	1
-scourge	1
-givest	1
-tilted	1
-blind	1
-wise,	1
-sea?'	1
-secret,	1
-difference.	1
-doesn't	1
-roofs	1
-frozen	1
-bought	1
-Grey	1
-hope,	1
-fire.	1
-citrons	1
-Beauty.	1
-Beauty,	1
-prayed.	1
-understand	1
-puppets,	1
-secrets	1
-wallet	1
-hill.	1
-cried:	1
-hill,	1
-wine;	1
-concourse	1
-aware	1
-tapestry	1
-shelter	1
-sham	1
-lemons	1
-grew,	1
-Bronze-limbed	1
-boat.	1
-wedge-shaped	1
-Duke	1
-tigers,	1
-'Flee	1
-noblest	1
-envoys	1
-reception	1
-Trappist	1
-sea-lions	1
-knowing	1
-brightest	1
-foolishness	1
-flesh,	1
-grove	1
-completely	1
-stop	1
-gold-fish	1
-fleet	1
-peach-stones	1
-linen,	1
-whales	1
-naked.	1
-naked,	1
-pitiless	1
-'Strike	1
-stroked	1
-statement	1
-goat,	1
-shivered,	1
-watches	1
-had.	1
-tightly	1
-coffers,	1
-applause,	1
-wagging	1
-value.	1
-remembering	1
-shelter.'	1
-forsook	1
-distress.	1
-oak-trees;	1
-scimitar	1
-richly	1
-wears	1
-stories	1
-Love.	1
-wearest	1
-drink,	1
-occasion.	1
-Tartars,	1
-Tartars.	1
-goats	1
-stage	1
-plight.	1
-seize	1
-notice	1
-Shame	1
-delay	1
-extreme	1
-Death.	1
-penthouse	1
-kid,	1
-cloths	1
-bidding	1
-hut.	1
-hut,	1
-they.	1
-ribbed	1
-road,	1
-vultures	1
-cuttlefish	1
-witches,'	1
-candle-bearers	1
-embalmers	1
-bodyguard.	1
-outside,	1
-fresh-fashioned	1
-moss	1
-pity?'	1
-repaid	1
-tinkle	1
-nature,	1
-softly	1
-alcove	1
-flute-like,	1
-plague,	1
-freely	1
-reverence	1
-is,	1
-folk,	1
-hearsay	1
-loosed	1
-Infanta!	1
-Infanta.	1
-level	1
-change	1
-windy	1
-'She	1
-mountain,'	1
-arm	1
-winds	1
-trunk	1
-betrothed	1
-combed	1
-veils,	1
-beseemeth	1
-forgiveness.	1
-homage	1
-fantastically	1
-scowled	1
-smitten	1
-clump	1
-dome	1
-delighted	1
-river,	1
-Book	1
-world!'	1
-retraced	1
-Krimnians	1
-bundles,	1
-useless	1
-fashion.	1
-relations	1
-caps,	1
-prow	1
-master!'	1
-peasant	1
-elsewhere,	1
-administered	1
-shoulder	1
-attitudes.	1
-waited	1
-Sin	1
-by;	1
-delivered	1
-finds	1
-ceremonial,	1
-feel	1
-ravens	1
-balcony	1
-exaggerated	1
-enter,'	1
-rein	1
-camel,	1
-edge	1
-Rimini,	1
-trust	1
-disclosed	1
-feelings	1
-Strange	1
-butterflies	1
-flight,	1
-'petit	1
-Las-Torres,	1
-night.	1
-Isis	1
-Besides,	1
-maize-cakes	1
-knew,	1
-March	1
-charge	1
-gazing,	1
-ashore?	1
-servants.'	1
-anemones	1
-piteously,	1
-'To-night	1
-rigging,	1
-delight;	1
-restrain	1
-sulking,'	1
-delight,	1
-sea-dragons	1
-Saragossa	1
-rest,	1
-Etiquette;	1
-hauled	1
-cloaks	1
-Wisdom,	1
-monsire.	1
-hunters.	1
-so;	1
-sauntered	1
-erected	1
-vervain	1
-so.	1
-breath,	1
-chase	1
-cloak.	1
-way.'	1
-ring,	1
-chestnuts	1
-morn	1
-sow	1
-ropes	1
-grovelled	1
-else	1
-wrinkled	1
-grief,	1
-some,	1
-sweetmeats,	1
-brain	1
-violence	1
-dishonour.	1
-rosettes	1
-kiss.	1
-hazels,	1
-reeds,	1
-express	1
-permission	1
-notorious,	1
-cheeks	1
-girls	1
-gate,	1
-stooping	1
-certainly,'	1
-chalcedonies	1
-vinegar.	1
-servants.	1
-servants,	1
-folds	1
-ALICE,	1
-Mermaid:	1
-street.	1
-success.	1
-happened.	1
-overflowed	1
-Canst	1
-apt	1
-maniple	1
-merchants,	1
-friends	1
-angel.	1
-funny,'	1
-days,	1
-supposed	1
-cumbrous	1
-pages,	1
-instigation,	1
-interlude,	1
-amazed,	1
-Mermaids	1
-Certain	1
-intrude	1
-fifteen	1
-divided.'	1
-flower,	1
-Star-Child,'	1
-looked,	1
-sourire	1
-'Yea,	1
-walks	1
-negro	1
-hawthorn	1
-Syria	1
-courage.	1
-forfeited,	1
-offence.	1
-food	1
-audience-chamber,	1
-lemons,	1
-court,	1
-fool	1
-is.'	1
-alack,	1
-prayer	1
-bridal	1
-topazes,	1
-drum.	1
-SARAWAK]	1
-Castle	1
-wept.	1
-repeated.	1
-noble,	1
-legs,'	1
-repeated,	1
-groves	1
-charmed	1
-practical	1
-Whiter	1
-servant	1
-size	1
-'Yes,'	1
-walking	1
-wakening,	1
-lengthened	1
-stupid	1
-flints	1
-Such,	1
-pleasaunce	1
-amusement,	1
-minion	1
-ragged	1
-spoken	1
-deaths	1
-nod	1
-deaf	1
-sobbing	1
-sun-beams	1
-road.	1
-spring	1
-brandishing	1
-spoke.	1
-Princesa,	1
-rainy	1
-gauntleted	1
-blind-worm	1
-Vermilion-finned	1
-jays	1
-Upon	1
-riders	1
-knitting	1
-goodman!'	1
-highway,	1
-whispering	1
-Heaven	1
-souls.'	1
-either.	1
-received	1
-emeralds	1
-dealt	1
-horses'	1
-favoured.'	1
-heretics,	1
-horses,	1
-horses.	1
-mouth.	1
-brocaded	1
-flout,	1
-strong-walled	1
-seest,	1
-horsemen	1
-'with	1
-slippers	1
-slept,	1
-angry.	1
-slippery	1
-life-sized	1
-dive,	1
-prayed,	1
-behaviour,	1
-TAPLOW	1
-unrobed	1
-suffer?'	1
-book.	1
-say:	1
-iron.	1
-iron,	1
-Pink	1
-say,	1
-press	1
-dived	1
-sower,	1
-brim	1
-well-laden,	1
-laughing.	1
-custom	1
-hideous	1
-mackerel	1
-forms	1
-lightly	1
-besides,	1
-ships,	1
-Reformed	1
-without,	1
-Gryphons	1
-enclosure	1
-beheld.	1
-trap,	1
-bedfellow,	1
-clipt	1
-secret?'	1
-"It	1
-before--so	1
-swoon.	1
-robes	1
-idle	1
-sees	1
-artist	1
-remarkable	1
-screens	1
-half-	1
-gesture	1
-lotus	1
-mystical	1
-toiling	1
-frowned.	1
-ugliness	1
-turn;	1
-spirits.	1
-feared,	1
-entered.	1
-natural.'	1
-Sophonisba	1
-memory	1
-anklets	1
-sacristy,	1
-nobles,	1
-branch.	1
-acting	1
-sunless	1
-riches,	1
-guttural	1
-old-fashioned	1
-monstrous	1
-'Enter.'	1
-scattered	1
-shoulders;	1
-Senora	1
-surrounded	1
-crying	1
-booth.	1
-weakly	1
-INFANTA	1
-sweetly,	1
-homage,	1
-whiteness	1
-homage.	1
-beast	1
-limbs.	1
-earthly	1
-weavers	1
-scaled	1
-slay."	1
-mountain,	1
-farthest	1
-come?'	1
-seed	1
-Him.'	1
-bull-fight,	1
-that!'	1
-mantle.	1
-islands	1
-frost-bitten,	1
-appearance.	1
-palms	1
-sobbed	1
-messenger	1
-cabinet,	1
-capering	1
-Afghans	1
-Judas	1
-latch	1
-log	1
-hurt?	1
-age--was	1
-grace,	1
-Lady's	1
-selfish.	1
-Faun,	1
-giveth	1
-shell.	1
-WILLIAM	1
-roasting	1
-wise.'	1
-door,	1
-robed	1
-mountain	1
-surrender	1
-Tierra-Nueva,	1
-Others	1
-showing	1
-Only	1
-tarrieth	1
-unfinished--he	1
-corridor,	1
-gardener,	1
-lobes	1
-'Five	1
-dust,	1
-laugh,	1
-banks,	1
-mimic	1
-strewing	1
-Lucca	1
-Poverty	1
-sight.	1
-pinks	1
-birds'	1
-Chamberlain,	1
-birds.	1
-standeth	1
-neighbour.	1
-laughs	1
-lad--for	1
-Mohammed.	1
-mariners;	1
-obliged	1
-strong	1
-corded?'	1
-wistfully	1
-Saint	1
-repose,	1
-Cain.'	1
-limped	1
-planted	1
-HIS	1
-dotted	1
-beard	1
-beard,	1
-Samarcand	1
-care.	1
-killed	1
-noble	1
-celebration	1
-nobly	1
-bottles.	1
-incense	1
-bear.	1
-bear,	1
-flour	1
-pause;	1
-brake.	1
-full,	1
-lepers;	1
-costly	1
-cared	1
-fortune.	1
-lepers,	1
-paved	1
-action	1
-woven	1
-fortune?	1
-now?'	1
-'Faster,	1
-deacons	1
-Sprinkle	1
-tunic,	1
-ox,	1
-Misery	1
-rippled	1
-javelins	1
-fading	1
-tellest	1
-HOUSE	1
-she?	1
-glare;	1
-vintage-time	1
-first.	1
-wood-pigeons	1
-by,'	1
-jars	1
-'there	1
-guard,	1
-melons	1
-dazzled.	1
-thief!'	1
-balcony,	1
-lustre	1
-La	1
-'Sir,	1
-rides	1
-whether	1
-recently	1
-return,	1
-know?'	1
-necklace	1
-fault	1
-redder	1
-basin	1
-parent	1
-hindereth	1
-comforted	1
-hall	1
-cultivated	1
-wheel	1
-shoes.	1
-pinched	1
-deathbed,	1
-sickly-looking	1
-romped	1
-finger-rings	1
-pinches	1
-adoration	1
-fanatics	1
-footprints,	1
-city."	1
-once.'	1
-pear.	1
-pit,	1
-boys,	1
-also,"	1
-'"If	1
-linen.	1
-this?'	1
-madest	1
-Dragons	1
-defect,	1
-gravity,	1
-dared	1
-recognised,	1
-red-haired	1
-tongues,	1
-tabernacle,	1
-pits	1
-deserted	1
-different-coloured	1
-journey.	1
-shuttle	1
-aggravate	1
-FISHERMAN	1
-torn	1
-forgiveness.'	1
-geometrical	1
-Hapsburg.	1
-costumes,	1
-deliver	1
-bounds.	1
-empire	1
-staff	1
-mane	1
-blades.	1
-sentinels	1
-again;	1
-backs;	1
-tree,	1
-testing,	1
-Jewellers	1
-moving	1
-'Smite	1
-gipsy	1
-king?'	1
-chance	1
-guest-chamber.'	1
-statues.	1
-Later	1
-tremble,	1
-battens	1
-dismissed	1
-sugar	1
-antimony.	1
-sayest.'	1
-jasmine	1
-keenly,	1
-stopped.	1
-stopped,	1
-do.'	1
-glass	1
-bamboo.	1
-bamboo,	1
-herself.	1
-fairness.	1
-food?'	1
-bag	1
-drill	1
-Pygmies	1
-joyously	1
-pouring	1
-composition.	1
-itching	1
-applauded.	1
-kisses	1
-Persia	1
-brass-	1
-fat	1
-'if	1
-cases.	1
-freedom	1
-altar.	1
-jar	1
-cypress-trees	1
-actually	1
-Mi	1
-stag	1
-stay	1
-risen,	1
-Venetian	1
-marvelled	1
-sold	1
-insisted	1
-doors.	1
-talked	1
-chase,	1
-covering	1
-die.	1
-love's	1
-waters,'	1
-byres	1
-ill-favoured	1
-then.	1
-forget	1
-mount	1
-"Take	1
-storms	1
-burnt-out	1
-noted	1
-puppet-show	1
-thanks,	1
-succoured.'	1
-graved--by	1
-softness	1
-Sea-King	1
-BIRTHDAY	1
-unconsciousness	1
-crescents.	1
-Everybody	1
-council-board	1
-gyves	1
-creeps	1
-hangs	1
-house?'	1
-signal	1
-attired	1
-things?	1
-blossom-dance	1
-ill-	1
-floor.	1
-us,'	1
-crevices	1
-stricken	1
-satin,	1
-cranes	1
-answer,	1
-caravan,	1
-present,	1
-waggons,	1
-hornbeam.	1
-canopy	1
-knocked.	1
-understanding	1
-cleared	1
-comfort.	1
-doubt	1
-Owls.	1
-indeed--as	1
-Government	1
-mad,	1
-wall.	1
-mad;	1
-chrysolite,	1
-"There	1
-tossing	1
-'Into	1
-Mecca,	1
-lines	1
-spent	1
-rustled	1
-chestnut-tree	1
-Endymion.	1
-voyages	1
-sea-green	1
-hunched	1
-broken	1
-puppets	1
-wood?'	1
-glossy	1
-Church	1
-love.'	1
-trees:	1
-line,	1
-throughout	1
-beyond.	1
-porpoises	1
-galbanum	1
-fourteen	1
-garments	1
-merrily,	1
-saith	1
-sables	1
-share.'	1
-depth	1
-clever	1
-arcade	1
-pale-faced	1
-boldness,	1
-best.	1
-best,	1
-her?	1
-her:	1
-bit	1
-mother.	1
-raiment.	1
-Pope	1
-briars	1
-'Fish	1
-tunnies	1
-personal	1
-hand?	1
-petulance	1
-Art	1
-lies	1
-chamber.	1
-stamping	1
-terraces.	1
-steely	1
-owl,	1
-loom,	1
-administer	1
-Woodcutters,	1
-hell,	1
-girt	1
-edict,	1
-mildew	1
-pattern.	1
-top.	1
-YOUNG	1
-'Tell	1
-mountains,	1
-mountains.	1
-Office,	1
-brothers?'	1
-feed,	1
-uncouth	1
-trumpeters	1
-caravans,	1
-bitter,	1
-bitter.	1
-sitteth	1
-miss	1
-mist	1
-rang	1
-semi-classical	1
-wool.	1
-rank	1
-Marquess	1
-wounded	1
-lace,	1
-juice	1
-blindness	1
-mine,'	1
-hiding	1
-oak-tree	1
-nettles	1
-embalmed	1
-chaunting	1
-England,	1
-needle-wrought	1
-sell?'	1
-obey	1
-rose-leaf	1
-courtyard.	1
-return?'	1
-falconers	1
-Dance	1
-servant.	1
-Huge	1
-Hadrian.	1
-jutting	1
-finding	1
-suffering	1
-hunters	1
-ill	1
-servants	1
-instead	1
-hated,	1
-surprise	1
-depart,	1
-ice.	1
-wreathed	1
-swoon	1
-shouts	1
-performance	1
-sunning	1
-lord,'	1
-curtains.	1
-elbow	1
-Cathedral	1
-practices	1
-steps,	1
-riches	1
-clothe	1
-rowed	1
-waxed	1
-listen,	1
-'Tu-whit!	1
-overboard.	1
-named,	1
-looms.	1
-None	1
-bladders	1
-eye	1
-string	1
-roughly	1
-Sundial,	1
-encompassed	1
-missing,	1
-brother.	1
-follows	1
-Sea-gods	1
-many-figured	1
-rubbing	1
-free,'	1
-troubled,	1
-troubled.	1
-expiration	1
-speedwell,	1
-'thy	1
-awaited	1
-everywhere,	1
-wondering,	1
-wondering.	1
-Torrent	1
-striped	1
-copper.	1
-mantles,	1
-other:	1
-riding	1
-sheathed	1
-soldier's	1
-clumsy	1
-Oxus.	1
-sudden	1
-wires,	1
-pulled	1
-milk-white	1
-folded	1
-crystal,	1
-crystal.	1
-Joy	1
-windows,	1
-calves	1
-hissed	1
-judgment,	1
-sniffing	1
-surmounted	1
-tithe	1
-beasts.	1
-fig-tree	1
-bowed.	1
-minutes	1
-hunch	1
-leman,	1
-spell	1
-caverns	1
-rose-leaves,	1
-pours	1
-mortar,	1
-Young	1
-vow	1
-shells	1
-ringlet	1
-trotted	1
-hungry	1
-sight;	1
-hidden,	1
-cavern,	1
-Bohemia,	1
-primroses	1
-Pedro's	1
-shielding	1
-years,'	1
-movement?	1
-peeped	1
-ruff,	1
-drunk,	1
-sail.	1
-hearken.	1
-seas	1
-thou.'	1
-shuts	1
-sequins,	1
-whizzed	1
-view	1
-also."	1
-retreated.	1
-plea	1
-hang	1
-all,'	1
-hind,	1
-sea!	1
-whoever	1
-sea-	1
-ribands;	1
-barefooted	1
-designs,	1
-Magadae	1
-Jean	1
-orange-tree	1
-suffering,	1
-charged	1
-wilt.'	1
-ruin,	1
-dry.	1
-horns.	1
-bee-haunted	1
-everything,	1
-shroud.'	1
-door?	1
-suspected	1
-lowered	1
-'Thy	1
-berries,	1
-swaying	1
-doing,	1
-violets	1
-Hall,	1
-saints	1
-'therefore	1
-cords.	1
-dignified,	1
-spasm	1
-grind	1
-tomb.	1
-here.'	1
-Sandals,	1
-ministers,	1
-"nor	1
-kinsmen?'	1
-copper,	1
-niece,	1
-gerfalcon	1
-flocks	1
-clumps	1
-gasp,	1
-track	1
-staff.	1
-naturally	1
-Faun	1
-Between	1
-beauty.'	1
-lazuli,	1
-arrived	1
-"I	1
-No;	1
-sounds	1
-stung	1
-No!	1
-wattles,	1
-carbuncles,	1
-merciful,'	1
-slaves,	1
-manners,	1
-suffered.'	1
-dew-drenched	1
-nice	1
-mitre	1
-clutch	1
-vision?	1
-cliffs	1
-graceful	1
-entry	1
-Rose-Tree.	1
-freedom,	1
-accordingly	1
-freedom.	1
-grand	1
-usage	1
-price,'	1
-owl	1
-viper,	1
-evening,	1
-died.'	1
-almond	1
-chide	1
-true?'	1
-peach-blossom	1
-cross-legs,	1
-cities,	1
-lord."	1
-wine-coloured	1
-wilful	1
-soundings.	1
-Not	1
-knit	1
-lacquer,	1
-orchards	1
-Into	1
-granite	1
-son.	1
-thief,	1
-awoke,	1
-city?'	1
-Burgo-master,	1
-does	1
-hired	1
-sons	1
-looming	1
-swinging	1
-song	1
-snow-wreaths	1
-Or	1
-limbs	1
-nurtured,	1
-sunset.	1
-eating	1
-listening	1
-too.	1
-wrists.	1
-remind	1
-wrists,	1
-properties,	1
-juices.	1
-raged	1
-sternly	1
-fretted	1
-cake	1
-munching	1
-Avarice.	1
-fashioned?'	1
-Knowest	1
-seekest	1
-caravan	1
-another,	1
-two,	1
-trembling,	1
-Peacock	1
-counselled	1
-direction.	1
-another?	1
-titter.	1
-worship,'	1
-Riches.	1
-barrier	1
-conveyed	1
-burning,	1
-tulip-trees.	1
-Fever	1
-Monsieur	1
-playing	1
-slime	1
-physician	1
-rime,	1
-PRINCESS	1
-smile--vrai	1
-window.	1
-stanchions.	1
-bruised	1
-thousand	1
-overfeeding.'	1
-shrieking	1
-seas,	1
-daffodil.	1
-quietly	1
-wroth,	1
-slim,	1
-flooded	1
-bride	1
-masts,	1
-wide,	1
-Lady	1
-nor,	1
-Receive	1
-met,	1
-breast.	1
-question.	1
-crawled,	1
-kneeling-stool	1
-depths	1
-prolonged	1
-hearth?	1
-restoration	1
-pilgrims	1
-nautilus	1
-bathed	1
-hearth.	1
-ants.	1
-hall,	1
-daybreak	1
-sore	1
-H.	1
-feedeth	1
-breasts	1
-marvelling	1
-hunting,"	1
-gored	1
-Netherlands	1
-lead.	1
-madly,	1
-coverlet	1
-once,	1
-faster!'	1
-BROOKE--THE	1
-mood,	1
-kinsman	1
-Ague.	1
-thine.	1
-Europe,	1
-Priest:	1
-smoke.	1
-witch.'	1
-creep	1
-habited	1
-mother?	1
-sweat	1
-fluted	1
-kissing	1
-sapphires,	1
-Send	1
-service.'	1
-flushed	1
-wilt,	1
-lashed	1
-oars.	1
-scimitar,	1
-ashes	1
-almonds	1
-Virgin,	1
-Christ.	1
-Soul:	1
-wondered.	1
-waited.	1
-Although	1
-seed-pearls	1
-smote	1
-hand."	1
-span	1
-trotting	1
-weighted	1
-ribands	1
-frame,	1
-paper	1
-well-knit,	1
-Seven	1
-precedence,	1
-sleeps,	1
-flag	1
-unhappy	1
-garden;	1
-task,	1
-yellow-lidded	1
-Though	1
-world.'	1
-COURT--LADY	1
-Birds	1
-heron	1
-Linnets,	1
-provinces	1
-lead,"	1
-deliverance	1
-disgust	1
-often,	1
-fancied	1
-ecstasy	1
-dipped	1
-price.'	1
-telling	1
-fitted	1
-clinging	1
-keels	1
-gong,	1
-pools	1
-father.	1
-haste,	1
-sheepfold	1
-castle	1
-love?'	1
-ebony	1
-fishing-boats	1
-I.	1
-open-mouthed,	1
-beg	1
-device.	1
-gone,'	1
-moaning.	1
-tabouret	1
-feast,"	1
-was?	1
-dwelt.	1
-zithers,	1
-resting.	1
-lilies,	1
-behind,	1
-be?	1
-ways	1
-elaborately	1
-toreadors,	1
-osier	1
-speaking--the	1
-shedding	1
-swim,	1
-'Away!	1
-crier	1
-acted	1
-bowl,	1
-steered	1
-freedom.'	1
-arrow	1
-worthy,	1
-Pleasure	1
-for,'	1
-body.	1
-annoyed	1
-blade	1
-Nuncio,	1
-remorse	1
-plenty	1
-honey-coloured	1
-sunken	1
-abdicated	1
-weak,	1
-offered	1
-amazement	1
-him;	1
-free.'	1
-leaden	1
-turrets	1
-sellers	1
-swooned	1
-gladness.	1
-till,	1
-appeased,	1
-veins	1
-gold?	1
-opal	1
-girdle	1
-frost	1
-snakes	1
-hurt.	1
-Schiraz,	1
-ruled,	1
-eaves	1
-light.	1
-India	1
-possess.'	1
-banished,	1
-'Little	1
-snake,	1
-or,	1
-again?'	1
-same!	1
-terrace,	1
-rose-red	1
-audience;	1
-procure	1
-thoroughly	1
-evilly,	1
-sail,	1
-Salt	1
-admire	1
-MONACO]	1
-tame,	1
-sail;	1
-beetles'	1
-fortune,	1
-it."	1
-eddying	1
-sin.'	1
-pretend	1
-conchs	1
-not;	1
-Once,	1
-Ormuz,	1
-shade	1
-asked,	1
-at?'	1
-pavilion,	1
-Aragon,	1
-Aragon.	1
-blossoms.	1
-hare	1
-dreamer	1
-watch-	1
-lilies	1
-earth.	1
-hind	1
-frankincense	1
-lanes	1
-sounding	1
-slept	1
-'Bare	1
-dreamed	1
-murmurs	1
-hours,	1
-lizard,'	1
-Bithynian	1
-reina!'	1
-thank	1
-ice	1
-art,	1
-mastiff	1
-'Phew!'	1
-poles	1
-tasted	1
-influence	1
-dazzling	1
-Weeping	1
-tumult	1
-arrows	1
-tread	1
-lances	1
-wilt,'	1
-glow-worms	1
-Avarice,	1
-apes.	1
-children;	1
-treat	1
-languor	1
-excessively	1
-splendour	1
-Those	1
-dart	1
-weeds	1
-Sell	1
-manner.'	1
-disks	1
-state?	1
-hunt	1
-released	1
-state,	1
-blessing,	1
-Rabbits	1
-Cactus.	1
-future	1
-moment,	1
-pricked	1
-teeth.	1
-luxurious	1
-Duchess--the	1
-whining.	1
-pale.	1
-sing,	1
-sayest	1
-GRENFELL	1
-liveries,	1
-cords	1
-cinnamon.	1
-please	1
-Take	1
-sorrow,	1
-loin-cloth,	1
-Tulips.	1
-Mole,	1
-myself.	1
-armour,	1
-barley,	1
-termed	1
-lies,	1
-Del	1
-famine,	1
-jerkins	1
-sombre	1
-Cupids;	1
-dropped	1
-commanded	1
-sooner	1
-theatre	1
-enamel.	1
-Nubian,	1
-pastilles,	1
-sped	1
-Flemish	1
-Opinion.	1
-abode	1
-piled	1
-precedents	1
-legs	1
-decided	1
-shaking	1
-water-snakes	1
-foul?	1
-divide	1
-broad	1
-much,	1
-anchor.	1
-Pan	1
-Nile,	1
-sang.	1
-tolls	1
-fires	1
-wounds.	1
-daring	1
-novice	1
-has.	1
-has,	1
-weep	1
-undoubtedly	1
-flame.	1
-selenites.	1
-gone.'	1
-bills,	1
-summer,	1
-served	1
-red-gold	1
-craftsmen	1
-compliments.	1
-cells.	1
-strumming	1
-plain	1
-tremulous	1
-materials	1
-harm.	1
-lanterns	1
-behaviour	1
-eagerness	1
-bewailing	1
-permanent	1
-'You	1
-frontier	1
-slew,	1
-bamboo	1
-squirrels.	1
-jumped	1
-fisher-folk	1
-Grief	1
-sea-coast	1
-thing.'	1
-baked	1
-carries	1
-formal	1
-Nature,	1
-divided	1
-glad.'	1
-quivered	1
-bosom,	1
-tusks,	1
-portfolios	1
-legs.	1
-lying,	1
-that.'	1
-fowler	1
-go,'	1
-horn,	1
-strength,	1
-gain	1
-heart?	1
-dish,	1
-swayed	1
-tulip-cups	1
-flitted	1
-beggar,'	1
-lynx-stones.	1
-drawing	1
-antique	1
-fainter	1
-rendered	1
-'get	1
-longer,	1
-vision	1
-answered:	1
-stabbing	1
-cleaving	1
-Greek	1
-opium-smokers	1
-drink?	1
-evil-visaged	1
-are.	1
-Beauty;	1
-sure-footed	1
-day?'	1
-are?	1
-dignity	1
-wife,	1
-dripping	1
-drinks	1
-bright-eyed	1
-gloomy	1
-thorn	1
-writhed	1
-bayed	1
-heaven,	1
-heaven.	1
-hard-featured	1
-Sadder	1
-fruit	1
-himself:	1
-apparelled	1
-dismounted,	1
-Pale	1
-Cold	1
-herb,	1
-desire,	1
-dancing-girls	1
-yellows	1
-stalks,	1
-sycamore.	1
-Pale,	1
-cactus	1
-herbs	1
-dappled	1
-nuts	1
-Grecian,	1
-whispered.	1
-turbans	1
-whispered,	1
-matter?	1
-ridiculous.'	1
-matter.	1
-lance	1
-peeping	1
-charity,	1
-river-horses	1
-escape.	1
-guarding	1
-tufts	1
-pine-forest.	1
-anodyne	1
-call.	1
-rings.	1
-corn,'	1
-tea-houses	1
-tease	1
-escapes	1
-worthy	1
-emblems	1
-sicken	1
-receive.'	1
-escaped	1
-fire	1
-'Because	1
-scurried	1
-wizened	1
-blossoming.	1
-married	1
-massive	1
-hoarsely	1
-scramble	1
-France,	1
-call?	1
-cold.	1
-cold,	1
-doves	1
-sorcery	1
-braziers	1
-ranged	1
-precious.	1
-complete	1
-purpose."	1
-purpose.'	1
-unused,	1
-"Art	1
-enjoy	1
-truly,'	1
-tunny-fish	1
-'Do	1
-elder	1
-Redder	1
-mere.	1
-dark-veined	1
-return.	1
-listened	1
-joys	1
-large-plumed	1
-turmeric,	1
-outstripped	1
-Kings	1
-Pomegranates,	1
-reaching	1
-H.S.H.	1
-vagrants	1
-Last	1
-Highness	1
-fancy?--the	1
-dog-faced;	1
-bouquets	1
-samphire,	1
-frizzed	1
-motionless	1
-Out	1
-happened	1
-prayer,	1
-Camerera-Mayor	1
-hyacinths	1
-disrobed	1
-world?'	1
-roots,	1
-Outside	1
-gleamed	1
-curl	1
-Maytime	1
-crowding	1
-musk	1
-sea-coral.	1
-terror.	1
-pranced	1
-Sea-folk.	1
-slave.	1
-tide	1
-market-	1
-borne	1
-spears,	1
-spears.	1
-poppies,	1
-tigers'	1
-trappings	1
-herald	1
-highways,	1
-belt,	1
-banner	1
-'Follow	1
-auto-da-fe,	1
-heir.	1
-mercy,	1
-expect.	1
-knee	1
-perfect	1
-weaving?'	1
-pray.	1
-tambourines,	1
-compassed	1
-'Loose	1
-shaped,	1
-wine.	1
-country,	1
-want.	1
-cord,	1
-cord.	1
-camels.	1
-bitterly	1
-promised	1
-'Certainly	1
-one's	1
-favourite	1
-Church.	1
-flee	1
-glades	1
-that,'	1
-grass.'	1
-below.	1
-breasts.	1
-'Inside	1
-gold.'	1
-goblets	1
-three-cornered	1
-flock	1
-misty	1
-amethyst.	1
-thyself,	1
-matchlocks	1
-shaft	1
-Glory	1
-tale.	1
-wines,	1
-frown	1
-gods.	1
-gods,	1
-grows	1
-sport	1
-Bitter,	1
-Aurantes	1
-grown	1
-Cardinal's	1
-them--and,	1
-reed-pipe,	1
-Sabbath,	1
-press,	1
-male	1
-desolate,	1
-Far	1
-funnier	1
-charity	1
-including	1
-cruel,'	1
-Wolf	1
-leaping	1
-moons	1
-strikes	1
-mockingly	1
-silver-studded	1
-strike	1
-company,	1
-company.	1
-net,	1
-net.	1
-fight	1
-pollard	1
-chain,	1
-crown?'	1
-permitted	1
-fire,	1
-Suddenly	1
-merchant.	1
-gipsies,	1
-sewn	1
-'Didst	1
-craft.	1
+	6844	0.15603127921026833
+attired	2	4.559651642614504e-05
+plight	1	2.279825821307252e-05
+leathern	3	6.839477463921757e-05
+defiantly	1	2.279825821307252e-05
+sealed	2	4.559651642614504e-05
+crowding	1	2.279825821307252e-05
+profusion	1	2.279825821307252e-05
+tragedy	1	2.279825821307252e-05
+weave	1	2.279825821307252e-05
+Judas	1	2.279825821307252e-05
+robbers	4	9.119303285229008e-05
+Saragossa	1	2.279825821307252e-05
+hoofs	1	2.279825821307252e-05
+funny	3	6.839477463921757e-05
+pink	4	9.119303285229008e-05
+climb	1	2.279825821307252e-05
+prickly	3	6.839477463921757e-05
+eunuchs	3	6.839477463921757e-05
+Again	1	2.279825821307252e-05
+horse	6	0.00013678954927843514
+wakening	1	2.279825821307252e-05
+apes	4	9.119303285229008e-05
+eight	1	2.279825821307252e-05
+celebration	1	2.279825821307252e-05
+children	33	0.0007523425210313932
+Inside	2	4.559651642614504e-05
+scowling	1	2.279825821307252e-05
+beetles	1	2.279825821307252e-05
+body	24	0.0005471581971137405
+ways	1	2.279825821307252e-05
+sense	1	2.279825821307252e-05
+parrots	2	4.559651642614504e-05
+better	12	0.00027357909855687027
+twitched	2	4.559651642614504e-05
+coverlet	1	2.279825821307252e-05
+Marquess	1	2.279825821307252e-05
+birthday	6	0.00013678954927843514
+iron	5	0.00011399129106536261
+dagger	4	9.119303285229008e-05
+dull	3	6.839477463921757e-05
+branch	2	4.559651642614504e-05
+division	1	2.279825821307252e-05
+age	4	9.119303285229008e-05
+treasure	9	0.0002051843239176527
+performance	2	4.559651642614504e-05
+Was	2	4.559651642614504e-05
+hobbyhorses	1	2.279825821307252e-05
+dolphins	1	2.279825821307252e-05
+Cupids	1	2.279825821307252e-05
+Reformed	1	2.279825821307252e-05
+putting	1	2.279825821307252e-05
+thorn	1	2.279825821307252e-05
+highways	3	6.839477463921757e-05
+advanced	1	2.279825821307252e-05
+treaders	1	2.279825821307252e-05
+Laktroi	1	2.279825821307252e-05
+falling	2	4.559651642614504e-05
+laughs	1	2.279825821307252e-05
+unhappy	1	2.279825821307252e-05
+rustled	1	2.279825821307252e-05
+ones	1	2.279825821307252e-05
+receive	2	4.559651642614504e-05
+invisible	1	2.279825821307252e-05
+valleys	2	4.559651642614504e-05
+gates	7	0.00015958780749150765
+entrance	7	0.00015958780749150765
+neighs	1	2.279825821307252e-05
+So	43	0.0009803251031621184
+charmed	1	2.279825821307252e-05
+carrying	6	0.00013678954927843514
+devices	1	2.279825821307252e-05
+cactus	1	2.279825821307252e-05
+interpreter	1	2.279825821307252e-05
+tea	2	4.559651642614504e-05
+hatred	1	2.279825821307252e-05
+charmer	1	2.279825821307252e-05
+ALICE	1	2.279825821307252e-05
+stone	8	0.00018238606570458016
+heavily	3	6.839477463921757e-05
+Turtle	1	2.279825821307252e-05
+vision	2	4.559651642614504e-05
+pilgrims	1	2.279825821307252e-05
+leaf	1	2.279825821307252e-05
+Avarice	8	0.00018238606570458016
+lead	5	0.00011399129106536261
+merchant	12	0.00027357909855687027
+loom	2	4.559651642614504e-05
+my	103	0.0023482205959464695
+look	21	0.00047876342247452297
+hour	4	9.119303285229008e-05
+bryony	1	2.279825821307252e-05
+me	236	0.005380388938285115
+leap	2	4.559651642614504e-05
+Phew	1	2.279825821307252e-05
+poppy	1	2.279825821307252e-05
+worship	4	9.119303285229008e-05
+bridal	1	2.279825821307252e-05
+kinsmen	1	2.279825821307252e-05
+sides	2	4.559651642614504e-05
+dainty	2	4.559651642614504e-05
+terribly	2	4.559651642614504e-05
+clusters	2	4.559651642614504e-05
+noblest	1	2.279825821307252e-05
+Why	18	0.0004103686478353054
+cabinet	2	4.559651642614504e-05
+terrible	6	0.00013678954927843514
+taint	1	2.279825821307252e-05
+shields	3	6.839477463921757e-05
+veil	5	0.00011399129106536261
+Persia	1	2.279825821307252e-05
+murmured	8	0.00018238606570458016
+depth	1	2.279825821307252e-05
+plunged	4	9.119303285229008e-05
+soldier	1	2.279825821307252e-05
+chance	1	2.279825821307252e-05
+entreated	3	6.839477463921757e-05
+food	3	6.839477463921757e-05
+speak	15	0.00034197387319608784
+none	11	0.00025078084034379773
+fool	1	2.279825821307252e-05
+Bitter	1	2.279825821307252e-05
+alas	1	2.279825821307252e-05
+chandelier	1	2.279825821307252e-05
+success	1	2.279825821307252e-05
+wolves	2	4.559651642614504e-05
+sickly	1	2.279825821307252e-05
+when	120	0.0027357909855687027
+crowned	2	4.559651642614504e-05
+rows	3	6.839477463921757e-05
+three	18	0.0004103686478353054
+killed	1	2.279825821307252e-05
+lightly	1	2.279825821307252e-05
+conveyed	1	2.279825821307252e-05
+standing	5	0.00011399129106536261
+Look	2	4.559651642614504e-05
+red	38	0.0008663338120967558
+couch	8	0.00018238606570458016
+touch	6	0.00013678954927843514
+Silver	1	2.279825821307252e-05
+All	4	9.119303285229008e-05
+branches	4	9.119303285229008e-05
+burn	1	2.279825821307252e-05
+stamping	1	2.279825821307252e-05
+mother	25	0.0005699564553268131
+Pomegranates	1	2.279825821307252e-05
+baskets	2	4.559651642614504e-05
+Child	43	0.0009803251031621184
+sunset	7	0.00015958780749150765
+Show	3	6.839477463921757e-05
+Fauns	3	6.839477463921757e-05
+gain	1	2.279825821307252e-05
+sicken	1	2.279825821307252e-05
+lapis	1	2.279825821307252e-05
+square	2	4.559651642614504e-05
+mauve	1	2.279825821307252e-05
+Venetian	1	2.279825821307252e-05
+givest	1	2.279825821307252e-05
+Triumph	1	2.279825821307252e-05
+temptations	2	4.559651642614504e-05
+limped	1	2.279825821307252e-05
+gnaw	1	2.279825821307252e-05
+tide	1	2.279825821307252e-05
+stated	1	2.279825821307252e-05
+knitting	1	2.279825821307252e-05
+Etiquette	1	2.279825821307252e-05
+Certainly	4	9.119303285229008e-05
+belt	4	9.119303285229008e-05
+soft	5	0.00011399129106536261
+gravity	3	6.839477463921757e-05
+deal	4	9.119303285229008e-05
+named	2	4.559651642614504e-05
+Tree	1	2.279825821307252e-05
+dead	13	0.00029637735676994276
+stories	1	2.279825821307252e-05
+fixed	2	4.559651642614504e-05
+formally	2	4.559651642614504e-05
+make	24	0.0005471581971137405
+bell	2	4.559651642614504e-05
+Witch	16	0.0003647721314091603
+worms	1	2.279825821307252e-05
+humourous	1	2.279825821307252e-05
+allowed	3	6.839477463921757e-05
+run	5	0.00011399129106536261
+wedded	1	2.279825821307252e-05
+acorn	1	2.279825821307252e-05
+beating	4	9.119303285229008e-05
+Bohemia	1	2.279825821307252e-05
+African	1	2.279825821307252e-05
+tower	2	4.559651642614504e-05
+bourgeon	1	2.279825821307252e-05
+cover	1	2.279825821307252e-05
+amusing	2	4.559651642614504e-05
+sweetly	3	6.839477463921757e-05
+flout	1	2.279825821307252e-05
+dried	1	2.279825821307252e-05
+houses	4	9.119303285229008e-05
+besides	1	2.279825821307252e-05
+carpet	5	0.00011399129106536261
+fly	4	9.119303285229008e-05
+sprawling	2	4.559651642614504e-05
+failed	1	2.279825821307252e-05
+bodyguard	1	2.279825821307252e-05
+whiter	4	9.119303285229008e-05
+elaborate	2	4.559651642614504e-05
+sore	2	4.559651642614504e-05
+street	3	6.839477463921757e-05
+veiled	3	6.839477463921757e-05
+before	52	0.001185509427079771
+tedious	1	2.279825821307252e-05
+pleasaunce	1	2.279825821307252e-05
+Grand	4	9.119303285229008e-05
+pause	1	2.279825821307252e-05
+planted	1	2.279825821307252e-05
+after	37	0.0008435355538836832
+Rabbits	1	2.279825821307252e-05
+drawing	1	2.279825821307252e-05
+hundred	7	0.00015958780749150765
+wells	2	4.559651642614504e-05
+bridegroom	2	4.559651642614504e-05
+creamy	1	2.279825821307252e-05
+forgetting	1	2.279825821307252e-05
+lamb	2	4.559651642614504e-05
+hanging	3	6.839477463921757e-05
+kinglike	1	2.279825821307252e-05
+whenever	1	2.279825821307252e-05
+nails	2	4.559651642614504e-05
+grand	1	2.279825821307252e-05
+young	110	0.0025078084034379773
+brown	6	0.00013678954927843514
+Parma	1	2.279825821307252e-05
+purple	14	0.0003191756149830153
+Should	1	2.279825821307252e-05
+fancied	1	2.279825821307252e-05
+born	3	6.839477463921757e-05
+Alack	2	4.559651642614504e-05
+charity	2	4.559651642614504e-05
+pirates	1	2.279825821307252e-05
+Wherefore	6	0.00013678954927843514
+fretting	1	2.279825821307252e-05
+brows	2	4.559651642614504e-05
+KING	1	2.279825821307252e-05
+precious	5	0.00011399129106536261
+myrrh	2	4.559651642614504e-05
+flour	1	2.279825821307252e-05
+eyelids	4	9.119303285229008e-05
+brightest	1	2.279825821307252e-05
+MISS	1	2.279825821307252e-05
+wander	5	0.00011399129106536261
+vessels	3	6.839477463921757e-05
+ashore	1	2.279825821307252e-05
+mighty	1	2.279825821307252e-05
+Across	2	4.559651642614504e-05
+hauled	1	2.279825821307252e-05
+Cold	1	2.279825821307252e-05
+mayest	2	4.559651642614504e-05
+antimony	1	2.279825821307252e-05
+money	4	9.119303285229008e-05
+Into	2	4.559651642614504e-05
+calling	5	0.00011399129106536261
+jesting	1	2.279825821307252e-05
+chimney	1	2.279825821307252e-05
+accordingly	1	2.279825821307252e-05
+forgiven	1	2.279825821307252e-05
+ripe	3	6.839477463921757e-05
+there	77	0.001755465882406584
+retorted	1	2.279825821307252e-05
+dance	31	0.0007067460046052481
+outside	3	6.839477463921757e-05
+Sellers	1	2.279825821307252e-05
+pail	1	2.279825821307252e-05
+person	2	4.559651642614504e-05
+ASQUITH	1	2.279825821307252e-05
+fought	2	4.559651642614504e-05
+filled	18	0.0004103686478353054
+blood	4	9.119303285229008e-05
+Lord	3	6.839477463921757e-05
+watching	6	0.00013678954927843514
+lances	1	2.279825821307252e-05
+sodden	1	2.279825821307252e-05
+elaborately	1	2.279825821307252e-05
+minutes	1	2.279825821307252e-05
+anodyne	1	2.279825821307252e-05
+roots	3	6.839477463921757e-05
+exclaimed	1	2.279825821307252e-05
+scarlet	5	0.00011399129106536261
+shuts	1	2.279825821307252e-05
+going	4	9.119303285229008e-05
+tambourines	1	2.279825821307252e-05
+dreamer	1	2.279825821307252e-05
+pomp	1	2.279825821307252e-05
+opal	1	2.279825821307252e-05
+greater	4	9.119303285229008e-05
+rolled	1	2.279825821307252e-05
+near	7	0.00015958780749150765
+cleaving	1	2.279825821307252e-05
+My	10	0.00022798258213072522
+twin	1	2.279825821307252e-05
+want	2	4.559651642614504e-05
+prepared	2	4.559651642614504e-05
+shrugged	3	6.839477463921757e-05
+pallid	3	6.839477463921757e-05
+pollard	1	2.279825821307252e-05
+roof	4	9.119303285229008e-05
+image	5	0.00011399129106536261
+cups	7	0.00015958780749150765
+fifteen	1	2.279825821307252e-05
+room	18	0.0004103686478353054
+cling	2	4.559651642614504e-05
+mules	2	4.559651642614504e-05
+nor	41	0.0009347285867359734
+sits	2	4.559651642614504e-05
+not	199	0.004536853384401432
+nightingale	3	6.839477463921757e-05
+walls	11	0.00025078084034379773
+now	16	0.0003647721314091603
+prevail	2	4.559651642614504e-05
+yellow	28	0.0006383512299660306
+profit	3	6.839477463921757e-05
+eaves	1	2.279825821307252e-05
+I	377	0.00859494334632834
+land	7	0.00015958780749150765
+flutter	1	2.279825821307252e-05
+nod	1	2.279825821307252e-05
+spray	5	0.00011399129106536261
+huge	12	0.00027357909855687027
+hidden	5	0.00011399129106536261
+task	1	2.279825821307252e-05
+also	22	0.0005015616806875955
+quivered	1	2.279825821307252e-05
+enters	1	2.279825821307252e-05
+marching	1	2.279825821307252e-05
+tassels	1	2.279825821307252e-05
+moue	1	2.279825821307252e-05
+fired	1	2.279825821307252e-05
+dwells	1	2.279825821307252e-05
+trellis	1	2.279825821307252e-05
+ragged	2	4.559651642614504e-05
+manner	7	0.00015958780749150765
+windows	6	0.00013678954927843514
+prettier	1	2.279825821307252e-05
+holding	2	4.559651642614504e-05
+petals	2	4.559651642614504e-05
+hurried	4	9.119303285229008e-05
+death	2	4.559651642614504e-05
+lined	1	2.279825821307252e-05
+growled	1	2.279825821307252e-05
+Be	4	9.119303285229008e-05
+fashioned	5	0.00011399129106536261
+Out	1	2.279825821307252e-05
+chalice	1	2.279825821307252e-05
+Our	4	9.119303285229008e-05
+Great	3	6.839477463921757e-05
+tame	1	2.279825821307252e-05
+waddling	1	2.279825821307252e-05
+hurriedly	2	4.559651642614504e-05
+mounted	2	4.559651642614504e-05
+strumming	1	2.279825821307252e-05
+cords	2	4.559651642614504e-05
+toil	5	0.00011399129106536261
+passed	29	0.0006611494881791031
+Geraniums	1	2.279825821307252e-05
+sand	9	0.0002051843239176527
+pick	1	2.279825821307252e-05
+suggested	1	2.279825821307252e-05
+basket	1	2.279825821307252e-05
+silently	1	2.279825821307252e-05
+Ring	2	4.559651642614504e-05
+joys	2	4.559651642614504e-05
+who	130	0.0029637735676994277
+wrapped	4	9.119303285229008e-05
+fault	1	2.279825821307252e-05
+great	80	0.0018238606570458017
+stool	1	2.279825821307252e-05
+mastiff	1	2.279825821307252e-05
+carlots	1	2.279825821307252e-05
+petit	1	2.279825821307252e-05
+Everybody	1	2.279825821307252e-05
+daring	1	2.279825821307252e-05
+pinched	1	2.279825821307252e-05
+why	5	0.00011399129106536261
+plea	1	2.279825821307252e-05
+didst	11	0.00025078084034379773
+traffic	3	6.839477463921757e-05
+long	31	0.0007067460046052481
+abode	1	2.279825821307252e-05
+sailors	2	4.559651642614504e-05
+leaves	14	0.0003191756149830153
+ugly	8	0.00018238606570458016
+Drink	2	4.559651642614504e-05
+apt	1	2.279825821307252e-05
+standeth	1	2.279825821307252e-05
+marvellous	12	0.00027357909855687027
+leaved	1	2.279825821307252e-05
+Only	1	2.279825821307252e-05
+journey	9	0.0002051843239176527
+door	18	0.0004103686478353054
+Sidon	1	2.279825821307252e-05
+lest	7	0.00015958780749150765
+stray	1	2.279825821307252e-05
+lustily	1	2.279825821307252e-05
+lizard	1	2.279825821307252e-05
+less	3	6.839477463921757e-05
+whips	1	2.279825821307252e-05
+bloodless	1	2.279825821307252e-05
+porpoises	1	2.279825821307252e-05
+top	7	0.00015958780749150765
+trust	1	2.279825821307252e-05
+too	18	0.0004103686478353054
+charged	1	2.279825821307252e-05
+Hapsburg	1	2.279825821307252e-05
+rags	3	6.839477463921757e-05
+himself	42	0.0009575268449490459
+kingdom	1	2.279825821307252e-05
+stand	5	0.00011399129106536261
+Plague	2	4.559651642614504e-05
+HOUSE	1	2.279825821307252e-05
+complete	1	2.279825821307252e-05
+Really	1	2.279825821307252e-05
+dog	4	9.119303285229008e-05
+smitten	1	2.279825821307252e-05
+annoyed	1	2.279825821307252e-05
+wild	22	0.0005015616806875955
+stupid	1	2.279825821307252e-05
+youngest	2	4.559651642614504e-05
+will	93	0.0021202380138157445
+split	2	4.559651642614504e-05
+aloes	1	2.279825821307252e-05
+like	60	0.0013678954927843514
+towers	2	4.559651642614504e-05
+led	13	0.00029637735676994276
+arrangements	1	2.279825821307252e-05
+shrill	2	4.559651642614504e-05
+sun	11	0.00025078084034379773
+faded	1	2.279825821307252e-05
+double	1	2.279825821307252e-05
+crevices	1	2.279825821307252e-05
+beggars	2	4.559651642614504e-05
+envoys	1	2.279825821307252e-05
+station	1	2.279825821307252e-05
+spin	1	2.279825821307252e-05
+giveth	1	2.279825821307252e-05
+well	11	0.00025078084034379773
+piled	1	2.279825821307252e-05
+hindereth	1	2.279825821307252e-05
+washed	1	2.279825821307252e-05
+pieces	6	0.00013678954927843514
+heels	1	2.279825821307252e-05
+loss	1	2.279825821307252e-05
+hornbeam	3	6.839477463921757e-05
+glided	1	2.279825821307252e-05
+glove	1	2.279825821307252e-05
+heeded	3	6.839477463921757e-05
+dressed	2	4.559651642614504e-05
+gloomy	1	2.279825821307252e-05
+misfortunes	1	2.279825821307252e-05
+sword	5	0.00011399129106536261
+wearied	1	2.279825821307252e-05
+forest	34	0.0007751407792444657
+lingered	1	2.279825821307252e-05
+penthouse	1	2.279825821307252e-05
+dresses	2	4.559651642614504e-05
+remorse	1	2.279825821307252e-05
+partly	2	4.559651642614504e-05
+homage	3	6.839477463921757e-05
+things	35	0.0007979390374575383
+Bravo	2	4.559651642614504e-05
+burned	4	9.119303285229008e-05
+listen	3	6.839477463921757e-05
+keep	7	0.00015958780749150765
+male	1	2.279825821307252e-05
+niece	1	2.279825821307252e-05
+monstrous	1	2.279825821307252e-05
+shaggy	2	4.559651642614504e-05
+These	1	2.279825821307252e-05
+lilies	2	4.559651642614504e-05
+slanting	1	2.279825821307252e-05
+kindness	4	9.119303285229008e-05
+chain	7	0.00015958780749150765
+charcoal	7	0.00015958780749150765
+summer	1	2.279825821307252e-05
+Bishop	5	0.00011399129106536261
+rested	1	2.279825821307252e-05
+boldness	1	2.279825821307252e-05
+charge	1	2.279825821307252e-05
+drew	11	0.00025078084034379773
+mullet	1	2.279825821307252e-05
+cool	3	6.839477463921757e-05
+bless	2	4.559651642614504e-05
+stretch	2	4.559651642614504e-05
+terrified	1	2.279825821307252e-05
+folds	2	4.559651642614504e-05
+awoke	1	2.279825821307252e-05
+Hell	1	2.279825821307252e-05
+chair	2	4.559651642614504e-05
+COURT	1	2.279825821307252e-05
+intolerable	1	2.279825821307252e-05
+gaunt	2	4.559651642614504e-05
+capering	1	2.279825821307252e-05
+leave	10	0.00022798258213072522
+sigh	1	2.279825821307252e-05
+swooned	1	2.279825821307252e-05
+TENNANT	1	2.279825821307252e-05
+nodding	2	4.559651642614504e-05
+farthest	1	2.279825821307252e-05
+save	8	0.00018238606570458016
+New	2	4.559651642614504e-05
+destroy	1	2.279825821307252e-05
+Hall	2	4.559651642614504e-05
+streaming	3	6.839477463921757e-05
+staircase	2	4.559651642614504e-05
+artist	1	2.279825821307252e-05
+family	1	2.279825821307252e-05
+byres	1	2.279825821307252e-05
+buy	5	0.00011399129106536261
+procure	1	2.279825821307252e-05
+but	149	0.0033969404737478055
+wrath	3	6.839477463921757e-05
+stabbed	2	4.559651642614504e-05
+An	2	4.559651642614504e-05
+As	16	0.0003647721314091603
+month	2	4.559651642614504e-05
+At	13	0.00029637735676994276
+tarried	1	2.279825821307252e-05
+Ay	1	2.279825821307252e-05
+wouldst	2	4.559651642614504e-05
+precedence	1	2.279825821307252e-05
+Aragon	2	4.559651642614504e-05
+lines	1	2.279825821307252e-05
+chide	1	2.279825821307252e-05
+cloak	15	0.00034197387319608784
+lean	2	4.559651642614504e-05
+quill	1	2.279825821307252e-05
+elder	1	2.279825821307252e-05
+apart	1	2.279825821307252e-05
+beryls	2	4.559651642614504e-05
+faint	2	4.559651642614504e-05
+shaft	1	2.279825821307252e-05
+dragons	3	6.839477463921757e-05
+velvet	7	0.00015958780749150765
+Joyeuse	1	2.279825821307252e-05
+foolishness	1	2.279825821307252e-05
+barley	1	2.279825821307252e-05
+listening	1	2.279825821307252e-05
+Sundial	1	2.279825821307252e-05
+window	9	0.0002051843239176527
+escape	3	6.839477463921757e-05
+pranced	1	2.279825821307252e-05
+sewn	1	2.279825821307252e-05
+cathedral	5	0.00011399129106536261
+river	9	0.0002051843239176527
+delay	1	2.279825821307252e-05
+vervain	1	2.279825821307252e-05
+Scorpion	1	2.279825821307252e-05
+poverty	1	2.279825821307252e-05
+period	1	2.279825821307252e-05
+etiquette	1	2.279825821307252e-05
+walked	8	0.00018238606570458016
+Endymion	1	2.279825821307252e-05
+view	1	2.279825821307252e-05
+sight	7	0.00015958780749150765
+merchants	12	0.00027357909855687027
+somehow	1	2.279825821307252e-05
+often	7	0.00015958780749150765
+Kraken	1	2.279825821307252e-05
+coming	12	0.00027357909855687027
+Many	2	4.559651642614504e-05
+present	2	4.559651642614504e-05
+lidded	1	2.279825821307252e-05
+earth	4	9.119303285229008e-05
+ring	7	0.00015958780749150765
+harnessed	1	2.279825821307252e-05
+counters	1	2.279825821307252e-05
+sultry	1	2.279825821307252e-05
+From	9	0.0002051843239176527
+swear	2	4.559651642614504e-05
+halberts	3	6.839477463921757e-05
+showing	1	2.279825821307252e-05
+Wisdom	8	0.00018238606570458016
+sees	1	2.279825821307252e-05
+Mother	4	9.119303285229008e-05
+chrysolite	1	2.279825821307252e-05
+still	14	0.0003191756149830153
+pipe	6	0.00013678954927843514
+shepherd	1	2.279825821307252e-05
+faster	3	6.839477463921757e-05
+trunk	1	2.279825821307252e-05
+temple	2	4.559651642614504e-05
+smooth	3	6.839477463921757e-05
+glanced	2	4.559651642614504e-05
+Hare	13	0.00029637735676994276
+maize	1	2.279825821307252e-05
+sounds	1	2.279825821307252e-05
+seed	3	6.839477463921757e-05
+seek	6	0.00013678954927843514
+carpets	6	0.00013678954927843514
+slumbered	1	2.279825821307252e-05
+ministers	2	4.559651642614504e-05
+sunlight	9	0.0002051843239176527
+No	5	0.00011399129106536261
+flies	2	4.559651642614504e-05
+deliverance	1	2.279825821307252e-05
+goat	3	6.839477463921757e-05
+laid	4	9.119303285229008e-05
+indignant	1	2.279825821307252e-05
+courtesy	1	2.279825821307252e-05
+keepest	1	2.279825821307252e-05
+Bronze	1	2.279825821307252e-05
+Grey	1	2.279825821307252e-05
+lessons	1	2.279825821307252e-05
+eat	5	0.00011399129106536261
+rowed	1	2.279825821307252e-05
+difference	2	4.559651642614504e-05
+stibium	1	2.279825821307252e-05
+bade	8	0.00018238606570458016
+ear	4	9.119303285229008e-05
+organ	1	2.279825821307252e-05
+Toledo	1	2.279825821307252e-05
+divided	2	4.559651642614504e-05
+stopped	9	0.0002051843239176527
+restoration	1	2.279825821307252e-05
+rope	1	2.279825821307252e-05
+use	5	0.00011399129106536261
+waist	3	6.839477463921757e-05
+targe	1	2.279825821307252e-05
+business	3	6.839477463921757e-05
+tunny	1	2.279825821307252e-05
+flight	1	2.279825821307252e-05
+hearsay	1	2.279825821307252e-05
+blank	1	2.279825821307252e-05
+talk	1	2.279825821307252e-05
+once	9	0.0002051843239176527
+tall	6	0.00013678954927843514
+wont	4	9.119303285229008e-05
+flat	5	0.00011399129106536261
+ponder	1	2.279825821307252e-05
+bulls	1	2.279825821307252e-05
+tale	3	6.839477463921757e-05
+something	3	6.839477463921757e-05
+perfume	2	4.559651642614504e-05
+fringed	3	6.839477463921757e-05
+thank	1	2.279825821307252e-05
+caught	11	0.00025078084034379773
+flag	1	2.279825821307252e-05
+Indeed	7	0.00015958780749150765
+hands	37	0.0008435355538836832
+boats	1	2.279825821307252e-05
+name	12	0.00027357909855687027
+ashes	2	4.559651642614504e-05
+reeds	3	6.839477463921757e-05
+tolls	1	2.279825821307252e-05
+coals	1	2.279825821307252e-05
+bronze	6	0.00013678954927843514
+snapping	1	2.279825821307252e-05
+shroud	1	2.279825821307252e-05
+cloves	1	2.279825821307252e-05
+fourteen	1	2.279825821307252e-05
+madest	1	2.279825821307252e-05
+dancers	2	4.559651642614504e-05
+grouped	1	2.279825821307252e-05
+moons	1	2.279825821307252e-05
+sentinels	1	2.279825821307252e-05
+shriller	2	4.559651642614504e-05
+rejected	1	2.279825821307252e-05
+initials	1	2.279825821307252e-05
+carries	1	2.279825821307252e-05
+latch	1	2.279825821307252e-05
+satin	1	2.279825821307252e-05
+altar	9	0.0002051843239176527
+wrists	2	4.559651642614504e-05
+deserted	1	2.279825821307252e-05
+nest	1	2.279825821307252e-05
+foot	4	9.119303285229008e-05
+hurt	3	6.839477463921757e-05
+moved	13	0.00029637735676994276
+dovecot	1	2.279825821307252e-05
+somewhat	1	2.279825821307252e-05
+sobs	1	2.279825821307252e-05
+paint	1	2.279825821307252e-05
+daughters	2	4.559651642614504e-05
+tissue	5	0.00011399129106536261
+girdle	2	4.559651642614504e-05
+violets	1	2.279825821307252e-05
+held	17	0.00038757038962223286
+butter	1	2.279825821307252e-05
+lynx	1	2.279825821307252e-05
+stopping	1	2.279825821307252e-05
+hell	1	2.279825821307252e-05
+juices	1	2.279825821307252e-05
+curtain	2	4.559651642614504e-05
+utmost	1	2.279825821307252e-05
+days	9	0.0002051843239176527
+burnt	4	9.119303285229008e-05
+call	15	0.00034197387319608784
+as	194	0.004422862093336069
+comrade	4	9.119303285229008e-05
+former	1	2.279825821307252e-05
+Snow	1	2.279825821307252e-05
+snarled	2	4.559651642614504e-05
+half	6	0.00013678954927843514
+Dost	2	4.559651642614504e-05
+loathed	1	2.279825821307252e-05
+hall	2	4.559651642614504e-05
+mockingly	1	2.279825821307252e-05
+fringes	1	2.279825821307252e-05
+POMEGRANATES	1	2.279825821307252e-05
+accompanied	3	6.839477463921757e-05
+And	323	0.0073638374028224245
+twice	4	9.119303285229008e-05
+gored	1	2.279825821307252e-05
+alive	1	2.279825821307252e-05
+lonely	4	9.119303285229008e-05
+large	8	0.00018238606570458016
+weather	3	6.839477463921757e-05
+outlaws	1	2.279825821307252e-05
+one	74	0.0016870711077673665
+threw	13	0.00029637735676994276
+willows	1	2.279825821307252e-05
+canst	5	0.00011399129106536261
+hurrying	1	2.279825821307252e-05
+resting	1	2.279825821307252e-05
+rather	3	6.839477463921757e-05
+glow	1	2.279825821307252e-05
+returned	8	0.00018238606570458016
+fans	3	6.839477463921757e-05
+moments	5	0.00011399129106536261
+intricate	1	2.279825821307252e-05
+Its	4	9.119303285229008e-05
+Behind	2	4.559651642614504e-05
+sheepskin	2	4.559651642614504e-05
+saints	1	2.279825821307252e-05
+hill	5	0.00011399129106536261
+customary	1	2.279825821307252e-05
+lord	13	0.00029637735676994276
+mid	1	2.279825821307252e-05
+which	59	0.0013450972345712788
+hiding	1	2.279825821307252e-05
+beads	3	6.839477463921757e-05
+dish	2	4.559651642614504e-05
+butterflies	2	4.559651642614504e-05
+seems	1	2.279825821307252e-05
+deck	3	6.839477463921757e-05
+odour	6	0.00013678954927843514
+eating	1	2.279825821307252e-05
+Valley	1	2.279825821307252e-05
+administer	1	2.279825821307252e-05
+lure	1	2.279825821307252e-05
+stones	10	0.00022798258213072522
+pointed	3	6.839477463921757e-05
+surprise	1	2.279825821307252e-05
+representing	2	4.559651642614504e-05
+Vermilion	1	2.279825821307252e-05
+There	23	0.000524359938900668
+habited	1	2.279825821307252e-05
+separate	2	4.559651642614504e-05
+Koran	1	2.279825821307252e-05
+servants	6	0.00013678954927843514
+he	569	0.012972208923238264
+wreck	1	2.279825821307252e-05
+Ugh	1	2.279825821307252e-05
+fir	2	4.559651642614504e-05
+beckoned	1	2.279825821307252e-05
+Cactus	1	2.279825821307252e-05
+falconers	1	2.279825821307252e-05
+joy	17	0.00038757038962223286
+INFANTA	1	2.279825821307252e-05
+nibbling	1	2.279825821307252e-05
+handle	3	6.839477463921757e-05
+benches	1	2.279825821307252e-05
+shadows	2	4.559651642614504e-05
+guest	2	4.559651642614504e-05
+Englishmen	1	2.279825821307252e-05
+tremulous	1	2.279825821307252e-05
+everybody	1	2.279825821307252e-05
+bedfellow	1	2.279825821307252e-05
+seven	3	6.839477463921757e-05
+equal	1	2.279825821307252e-05
+shadowy	2	4.559651642614504e-05
+worships	1	2.279825821307252e-05
+Court	5	0.00011399129106536261
+many	23	0.000524359938900668
+citizens	2	4.559651642614504e-05
+Priest	13	0.00029637735676994276
+knife	5	0.00011399129106536261
+reading	3	6.839477463921757e-05
+beat	12	0.00027357909855687027
+waters	3	6.839477463921757e-05
+humming	1	2.279825821307252e-05
+face	40	0.0009119303285229009
+bear	5	0.00011399129106536261
+lowered	1	2.279825821307252e-05
+serve	4	9.119303285229008e-05
+MARGARET	1	2.279825821307252e-05
+summits	1	2.279825821307252e-05
+immense	2	4.559651642614504e-05
+hoarsely	1	2.279825821307252e-05
+bead	1	2.279825821307252e-05
+furniture	1	2.279825821307252e-05
+mane	1	2.279825821307252e-05
+vow	1	2.279825821307252e-05
+answer	12	0.00027357909855687027
+five	4	9.119303285229008e-05
+exquisite	1	2.279825821307252e-05
+throat	3	6.839477463921757e-05
+banner	1	2.279825821307252e-05
+craft	2	4.559651642614504e-05
+overfeeding	1	2.279825821307252e-05
+feeling	2	4.559651642614504e-05
+Moon	6	0.00013678954927843514
+Oxus	1	2.279825821307252e-05
+mower	1	2.279825821307252e-05
+tempered	1	2.279825821307252e-05
+hairy	1	2.279825821307252e-05
+designs	1	2.279825821307252e-05
+charring	1	2.279825821307252e-05
+geometrical	1	2.279825821307252e-05
+quick	2	4.559651642614504e-05
+fact	1	2.279825821307252e-05
+Nuestra	1	2.279825821307252e-05
+for	254	0.00579075758612042
+swim	1	2.279825821307252e-05
+unrobed	1	2.279825821307252e-05
+step	2	4.559651642614504e-05
+give	30	0.0006839477463921757
+battle	2	4.559651642614504e-05
+aback	1	2.279825821307252e-05
+Moors	1	2.279825821307252e-05
+strikes	1	2.279825821307252e-05
+Virgin	1	2.279825821307252e-05
+globe	1	2.279825821307252e-05
+amused	1	2.279825821307252e-05
+angrily	3	6.839477463921757e-05
+auto	1	2.279825821307252e-05
+fluttering	3	6.839477463921757e-05
+right	6	0.00013678954927843514
+candles	3	6.839477463921757e-05
+secret	6	0.00013678954927843514
+courtiers	3	6.839477463921757e-05
+sombre	1	2.279825821307252e-05
+sets	1	2.279825821307252e-05
+mountains	4	9.119303285229008e-05
+dusky	2	4.559651642614504e-05
+needs	2	4.559651642614504e-05
+Trappist	1	2.279825821307252e-05
+lying	15	0.00034197387319608784
+seated	6	0.00013678954927843514
+Death	13	0.00029637735676994276
+months	2	4.559651642614504e-05
+bowl	5	0.00011399129106536261
+league	3	6.839477463921757e-05
+Over	1	2.279825821307252e-05
+portfolios	1	2.279825821307252e-05
+ran	30	0.0006839477463921757
+throughout	1	2.279825821307252e-05
+explanations	1	2.279825821307252e-05
+oranges	2	4.559651642614504e-05
+Get	8	0.00018238606570458016
+brain	1	2.279825821307252e-05
+shedding	1	2.279825821307252e-05
+unrobe	1	2.279825821307252e-05
+sulphurous	1	2.279825821307252e-05
+bows	3	6.839477463921757e-05
+Thinkest	1	2.279825821307252e-05
+Ague	1	2.279825821307252e-05
+soldiers	7	0.00015958780749150765
+tasted	1	2.279825821307252e-05
+fat	1	2.279825821307252e-05
+far	5	0.00011399129106536261
+cheek	2	4.559651642614504e-05
+screaming	3	6.839477463921757e-05
+crumbs	1	2.279825821307252e-05
+dived	1	2.279825821307252e-05
+Salt	1	2.279825821307252e-05
+tired	4	9.119303285229008e-05
+mulberries	1	2.279825821307252e-05
+Giaours	1	2.279825821307252e-05
+noses	2	4.559651642614504e-05
+saddle	2	4.559651642614504e-05
+fan	5	0.00011399129106536261
+broth	2	4.559651642614504e-05
+sobbed	1	2.279825821307252e-05
+peered	6	0.00013678954927843514
+thighs	1	2.279825821307252e-05
+heads	7	0.00015958780749150765
+trumpeters	1	2.279825821307252e-05
+disclosed	1	2.279825821307252e-05
+orchard	3	6.839477463921757e-05
+worth	4	9.119303285229008e-05
+bay	8	0.00018238606570458016
+caftan	1	2.279825821307252e-05
+frame	1	2.279825821307252e-05
+loaded	1	2.279825821307252e-05
+wall	6	0.00013678954927843514
+dismounted	1	2.279825821307252e-05
+bag	1	2.279825821307252e-05
+bad	2	4.559651642614504e-05
+roam	1	2.279825821307252e-05
+vinedresser	1	2.279825821307252e-05
+pastilles	1	2.279825821307252e-05
+anchor	2	4.559651642614504e-05
+muffled	1	2.279825821307252e-05
+natural	4	9.119303285229008e-05
+gate	12	0.00027357909855687027
+Lorraine	1	2.279825821307252e-05
+avails	1	2.279825821307252e-05
+fens	1	2.279825821307252e-05
+sponges	1	2.279825821307252e-05
+must	19	0.0004331669060483779
+boys	7	0.00015958780749150765
+Office	2	4.559651642614504e-05
+linen	4	9.119303285229008e-05
+musk	1	2.279825821307252e-05
+back	42	0.0009575268449490459
+Council	1	2.279825821307252e-05
+troubled	4	9.119303285229008e-05
+naked	4	9.119303285229008e-05
+overtake	1	2.279825821307252e-05
+size	1	2.279825821307252e-05
+kings	6	0.00013678954927843514
+stole	3	6.839477463921757e-05
+bubbled	1	2.279825821307252e-05
+slow	2	4.559651642614504e-05
+beasts	2	4.559651642614504e-05
+blessing	1	2.279825821307252e-05
+governs	1	2.279825821307252e-05
+thyself	3	6.839477463921757e-05
+snow	7	0.00015958780749150765
+bubbles	2	4.559651642614504e-05
+tilted	1	2.279825821307252e-05
+woven	2	4.559651642614504e-05
+purses	4	9.119303285229008e-05
+go	46	0.001048719877801336
+swung	1	2.279825821307252e-05
+watched	13	0.00029637735676994276
+famine	3	6.839477463921757e-05
+hanged	1	2.279825821307252e-05
+straight	2	4.559651642614504e-05
+Maytime	1	2.279825821307252e-05
+done	12	0.00027357909855687027
+morning	16	0.0003647721314091603
+ask	3	6.839477463921757e-05
+mere	2	4.559651642614504e-05
+beseemeth	1	2.279825821307252e-05
+rice	1	2.279825821307252e-05
+topazes	1	2.279825821307252e-05
+cornered	1	2.279825821307252e-05
+rainy	1	2.279825821307252e-05
+Torrent	1	2.279825821307252e-05
+retired	3	6.839477463921757e-05
+eddying	1	2.279825821307252e-05
+behalf	1	2.279825821307252e-05
+hawks	2	4.559651642614504e-05
+lashed	1	2.279825821307252e-05
+trencher	2	4.559651642614504e-05
+lamps	1	2.279825821307252e-05
+antique	1	2.279825821307252e-05
+without	8	0.00018238606570458016
+got	2	4.559651642614504e-05
+maniple	1	2.279825821307252e-05
+succour	1	2.279825821307252e-05
+Ambassador	1	2.279825821307252e-05
+swaying	1	2.279825821307252e-05
+lives	3	6.839477463921757e-05
+backs	1	2.279825821307252e-05
+jade	5	0.00011399129106536261
+coast	1	2.279825821307252e-05
+Ethiops	1	2.279825821307252e-05
+angry	1	2.279825821307252e-05
+herald	1	2.279825821307252e-05
+become	1	2.279825821307252e-05
+plaited	1	2.279825821307252e-05
+Besides	1	2.279825821307252e-05
+tulips	3	6.839477463921757e-05
+brocaded	1	2.279825821307252e-05
+Rose	1	2.279825821307252e-05
+Here	1	2.279825821307252e-05
+heaven	5	0.00011399129106536261
+watches	1	2.279825821307252e-05
+shoulders	6	0.00013678954927843514
+coup	1	2.279825821307252e-05
+sunning	1	2.279825821307252e-05
+Heavy	1	2.279825821307252e-05
+tigers	2	4.559651642614504e-05
+waits	1	2.279825821307252e-05
+aloud	3	6.839477463921757e-05
+twittered	1	2.279825821307252e-05
+taking	6	0.00013678954927843514
+osier	1	2.279825821307252e-05
+pot	1	2.279825821307252e-05
+sourire	1	2.279825821307252e-05
+escapes	1	2.279825821307252e-05
+ugliness	2	4.559651642614504e-05
+set	36	0.0008207372956706108
+Del	1	2.279825821307252e-05
+sower	1	2.279825821307252e-05
+tongue	1	2.279825821307252e-05
+though	21	0.00047876342247452297
+grotesque	4	9.119303285229008e-05
+bodies	2	4.559651642614504e-05
+stirred	4	9.119303285229008e-05
+bought	1	2.279825821307252e-05
+sea	52	0.001185509427079771
+clatter	1	2.279825821307252e-05
+see	23	0.000524359938900668
+pine	1	2.279825821307252e-05
+came	95	0.0021658345302418896
+fluted	1	2.279825821307252e-05
+completely	1	2.279825821307252e-05
+hollow	1	2.279825821307252e-05
+compliments	1	2.279825821307252e-05
+tempted	5	0.00011399129106536261
+remembered	5	0.00011399129106536261
+cinnamon	1	2.279825821307252e-05
+silver	39	0.0008891320703098283
+birth	3	6.839477463921757e-05
+ate	2	4.559651642614504e-05
+Bid	1	2.279825821307252e-05
+chests	2	4.559651642614504e-05
+ecstasy	1	2.279825821307252e-05
+Elizabeth	1	2.279825821307252e-05
+lilac	2	4.559651642614504e-05
+cities	4	9.119303285229008e-05
+lotus	1	2.279825821307252e-05
+arcades	1	2.279825821307252e-05
+about	25	0.0005699564553268131
+were	130	0.0029637735676994277
+deaf	1	2.279825821307252e-05
+shrine	3	6.839477463921757e-05
+stature	4	9.119303285229008e-05
+Let	6	0.00013678954927843514
+follows	1	2.279825821307252e-05
+cells	1	2.279825821307252e-05
+Oftentimes	1	2.279825821307252e-05
+Albuquerque	1	2.279825821307252e-05
+clipped	2	4.559651642614504e-05
+skirt	1	2.279825821307252e-05
+Kings	2	4.559651642614504e-05
+unconsciousness	1	2.279825821307252e-05
+frowning	2	4.559651642614504e-05
+highest	1	2.279825821307252e-05
+mend	1	2.279825821307252e-05
+luxury	1	2.279825821307252e-05
+cultivated	1	2.279825821307252e-05
+buried	1	2.279825821307252e-05
+spoken	3	6.839477463921757e-05
+everywhere	1	2.279825821307252e-05
+vermilion	2	4.559651642614504e-05
+suspicion	1	2.279825821307252e-05
+breakfast	1	2.279825821307252e-05
+dawned	1	2.279825821307252e-05
+None	1	2.279825821307252e-05
+villages	2	4.559651642614504e-05
+tried	6	0.00013678954927843514
+ladies	1	2.279825821307252e-05
+dungeon	3	6.839477463921757e-05
+sunrise	2	4.559651642614504e-05
+felt	9	0.0002051843239176527
+favourite	1	2.279825821307252e-05
+stir	1	2.279825821307252e-05
+bewailing	1	2.279825821307252e-05
+took	37	0.0008435355538836832
+fell	21	0.00047876342247452297
+Cathedral	1	2.279825821307252e-05
+grabbled	2	4.559651642614504e-05
+nearer	10	0.00022798258213072522
+anywhere	4	9.119303285229008e-05
+hind	2	4.559651642614504e-05
+so	82	0.0018694571734719468
+Church	2	4.559651642614504e-05
+whir	1	2.279825821307252e-05
+enclosure	1	2.279825821307252e-05
+break	2	4.559651642614504e-05
+fawned	1	2.279825821307252e-05
+whit	2	4.559651642614504e-05
+Woodpecker	1	2.279825821307252e-05
+buskins	1	2.279825821307252e-05
+dates	2	4.559651642614504e-05
+fall	3	6.839477463921757e-05
+old	22	0.0005015616806875955
+Mermen	2	4.559651642614504e-05
+dwarf	5	0.00011399129106536261
+amuse	2	4.559651642614504e-05
+because	2	4.559651642614504e-05
+true	3	6.839477463921757e-05
+Lucca	1	2.279825821307252e-05
+Woodcutters	2	4.559651642614504e-05
+perfect	1	2.279825821307252e-05
+knows	2	4.559651642614504e-05
+according	1	2.279825821307252e-05
+overjoyed	1	2.279825821307252e-05
+past	3	6.839477463921757e-05
+slippers	1	2.279825821307252e-05
+roasting	1	2.279825821307252e-05
+pass	4	9.119303285229008e-05
+kissing	1	2.279825821307252e-05
+cakes	2	4.559651642614504e-05
+oath	1	2.279825821307252e-05
+private	1	2.279825821307252e-05
+grandee	1	2.279825821307252e-05
+suffering	2	4.559651642614504e-05
+graved	2	4.559651642614504e-05
+known	3	6.839477463921757e-05
+subtlest	1	2.279825821307252e-05
+life	11	0.00025078084034379773
+cord	4	9.119303285229008e-05
+gestures	4	9.119303285229008e-05
+Mole	2	4.559651642614504e-05
+deep	13	0.00029637735676994276
+drunk	1	2.279825821307252e-05
+stronger	3	6.839477463921757e-05
+wear	5	0.00011399129106536261
+corn	7	0.00015958780749150765
+abdicated	1	2.279825821307252e-05
+cork	1	2.279825821307252e-05
+weak	2	4.559651642614504e-05
+baked	1	2.279825821307252e-05
+grinding	1	2.279825821307252e-05
+Didst	1	2.279825821307252e-05
+country	7	0.00015958780749150765
+slime	1	2.279825821307252e-05
+earthly	1	2.279825821307252e-05
+picketed	1	2.279825821307252e-05
+Adonis	1	2.279825821307252e-05
+alcove	1	2.279825821307252e-05
+intrude	1	2.279825821307252e-05
+wave	2	4.559651642614504e-05
+surf	5	0.00011399129106536261
+sure	2	4.559651642614504e-05
+loosened	2	4.559651642614504e-05
+feelings	1	2.279825821307252e-05
+scornfully	1	2.279825821307252e-05
+battens	2	4.559651642614504e-05
+hounds	1	2.279825821307252e-05
+Egypt	3	6.839477463921757e-05
+immediately	1	2.279825821307252e-05
+MRS	2	4.559651642614504e-05
+stung	1	2.279825821307252e-05
+inside	1	2.279825821307252e-05
+sparkling	1	2.279825821307252e-05
+empty	6	0.00013678954927843514
+anemones	2	4.559651642614504e-05
+stepped	2	4.559651642614504e-05
+pinks	1	2.279825821307252e-05
+brake	3	6.839477463921757e-05
+excessively	1	2.279825821307252e-05
+terror	8	0.00018238606570458016
+obliged	1	2.279825821307252e-05
+lantern	3	6.839477463921757e-05
+whispering	1	2.279825821307252e-05
+vultures	1	2.279825821307252e-05
+rabbits	1	2.279825821307252e-05
+toyed	1	2.279825821307252e-05
+Armenian	1	2.279825821307252e-05
+Sibans	1	2.279825821307252e-05
+Monsieur	1	2.279825821307252e-05
+bats	1	2.279825821307252e-05
+tastefully	1	2.279825821307252e-05
+hollowed	2	4.559651642614504e-05
+ceiling	3	6.839477463921757e-05
+sieve	1	2.279825821307252e-05
+sobbing	2	4.559651642614504e-05
+letters	1	2.279825821307252e-05
+wrinkled	1	2.279825821307252e-05
+Infanta	36	0.0008207372956706108
+wondered	1	2.279825821307252e-05
+frowned	8	0.00018238606570458016
+shivered	1	2.279825821307252e-05
+wagged	1	2.279825821307252e-05
+friends	1	2.279825821307252e-05
+dunes	1	2.279825821307252e-05
+Moorish	3	6.839477463921757e-05
+misshapen	3	6.839477463921757e-05
+tunic	4	9.119303285229008e-05
+rose	53	0.0012083076852928436
+here	15	0.00034197387319608784
+clipt	1	2.279825821307252e-05
+telling	1	2.279825821307252e-05
+herb	1	2.279825821307252e-05
+Holbein	1	2.279825821307252e-05
+pearls	13	0.00029637735676994276
+inn	3	6.839477463921757e-05
+monsters	1	2.279825821307252e-05
+Send	1	2.279825821307252e-05
+dappled	1	2.279825821307252e-05
+luxurious	1	2.279825821307252e-05
+fastening	1	2.279825821307252e-05
+vines	1	2.279825821307252e-05
+put	30	0.0006839477463921757
+tune	1	2.279825821307252e-05
+visaged	1	2.279825821307252e-05
+wood	18	0.0004103686478353054
+sniffed	2	4.559651642614504e-05
+hastily	3	6.839477463921757e-05
+head	34	0.0007751407792444657
+wool	2	4.559651642614504e-05
+rank	2	4.559651642614504e-05
+Duke	1	2.279825821307252e-05
+smeared	1	2.279825821307252e-05
+bier	1	2.279825821307252e-05
+shawls	1	2.279825821307252e-05
+adoration	1	2.279825821307252e-05
+polished	6	0.00013678954927843514
+nought	6	0.00013678954927843514
+winged	1	2.279825821307252e-05
+dared	1	2.279825821307252e-05
+either	4	9.119303285229008e-05
+Her	8	0.00018238606570458016
+happened	2	4.559651642614504e-05
+parentage	1	2.279825821307252e-05
+streamers	1	2.279825821307252e-05
+fulness	1	2.279825821307252e-05
+lions	4	9.119303285229008e-05
+India	2	4.559651642614504e-05
+bouquets	1	2.279825821307252e-05
+lanes	1	2.279825821307252e-05
+tabouret	1	2.279825821307252e-05
+wandered	7	0.00015958780749150765
+goblets	1	2.279825821307252e-05
+merely	2	4.559651642614504e-05
+night	26	0.0005927547135398855
+deerskin	1	2.279825821307252e-05
+rescued	1	2.279825821307252e-05
+muslin	1	2.279825821307252e-05
+Three	3	6.839477463921757e-05
+die	8	0.00018238606570458016
+surely	7	0.00015958780749150765
+are	66	0.0015046850420627864
+Beauty	3	6.839477463921757e-05
+clump	1	2.279825821307252e-05
+horn	5	0.00011399129106536261
+pleasant	1	2.279825821307252e-05
+Prior	1	2.279825821307252e-05
+repose	1	2.279825821307252e-05
+camel	3	6.839477463921757e-05
+coronation	4	9.119303285229008e-05
+grim	1	2.279825821307252e-05
+art	33	0.0007523425210313932
+black	32	0.0007295442628183206
+years	16	0.0003647721314091603
+low	7	0.00015958780749150765
+corded	1	2.279825821307252e-05
+fleece	1	2.279825821307252e-05
+arena	8	0.00018238606570458016
+passing	2	4.559651642614504e-05
+scurried	1	2.279825821307252e-05
+whose	15	0.00034197387319608784
+price	18	0.0004103686478353054
+places	1	2.279825821307252e-05
+no	75	0.001709869365980439
+dais	1	2.279825821307252e-05
+tapestry	1	2.279825821307252e-05
+H	3	6.839477463921757e-05
+truly	1	2.279825821307252e-05
+haired	3	6.839477463921757e-05
+Burgos	1	2.279825821307252e-05
+Samaris	1	2.279825821307252e-05
+mocked	11	0.00025078084034379773
+trappings	1	2.279825821307252e-05
+wanted	2	4.559651642614504e-05
+Agazonbae	1	2.279825821307252e-05
+foxes	1	2.279825821307252e-05
+stately	3	6.839477463921757e-05
+waning	1	2.279825821307252e-05
+cross	2	4.559651642614504e-05
+companion	3	6.839477463921757e-05
+faced	2	4.559651642614504e-05
+pillars	2	4.559651642614504e-05
+icicles	1	2.279825821307252e-05
+Nile	2	4.559651642614504e-05
+bubble	1	2.279825821307252e-05
+weeping	15	0.00034197387319608784
+scourge	1	2.279825821307252e-05
+really	8	0.00018238606570458016
+extremely	4	9.119303285229008e-05
+embossed	1	2.279825821307252e-05
+nature	1	2.279825821307252e-05
+footprints	1	2.279825821307252e-05
+prophesied	1	2.279825821307252e-05
+tulip	2	4.559651642614504e-05
+mourning	3	6.839477463921757e-05
+joyously	1	2.279825821307252e-05
+mood	1	2.279825821307252e-05
+harps	2	4.559651642614504e-05
+dost	6	0.00013678954927843514
+mildew	1	2.279825821307252e-05
+thanks	2	4.559651642614504e-05
+recognition	1	2.279825821307252e-05
+Loose	1	2.279825821307252e-05
+fantastically	1	2.279825821307252e-05
+wistfully	1	2.279825821307252e-05
+cages	1	2.279825821307252e-05
+forty	2	4.559651642614504e-05
+remind	1	2.279825821307252e-05
+rebuked	1	2.279825821307252e-05
+died	7	0.00015958780749150765
+caged	1	2.279825821307252e-05
+boots	2	4.559651642614504e-05
+Even	6	0.00013678954927843514
+silly	2	4.559651642614504e-05
+ringlet	1	2.279825821307252e-05
+hand	53	0.0012083076852928436
+began	16	0.0003647721314091603
+alliance	1	2.279825821307252e-05
+Philip	1	2.279825821307252e-05
+Emperor	17	0.00038757038962223286
+heir	1	2.279825821307252e-05
+strew	1	2.279825821307252e-05
+expect	1	2.279825821307252e-05
+gladness	3	6.839477463921757e-05
+broken	2	4.559651642614504e-05
+stars	7	0.00015958780749150765
+ceremonious	1	2.279825821307252e-05
+desert	1	2.279825821307252e-05
+hunger	4	9.119303285229008e-05
+real	8	0.00018238606570458016
+extreme	1	2.279825821307252e-05
+Jewellers	1	2.279825821307252e-05
+crossbeams	1	2.279825821307252e-05
+comfort	1	2.279825821307252e-05
+whatever	4	9.119303285229008e-05
+mouldy	1	2.279825821307252e-05
+arcade	1	2.279825821307252e-05
+wonder	11	0.00025078084034379773
+glare	2	4.559651642614504e-05
+hostages	1	2.279825821307252e-05
+forward	2	4.559651642614504e-05
+itching	1	2.279825821307252e-05
+portal	1	2.279825821307252e-05
+bearing	3	6.839477463921757e-05
+Because	1	2.279825821307252e-05
+lateen	1	2.279825821307252e-05
+shown	6	0.00013678954927843514
+pebbles	1	2.279825821307252e-05
+interlude	1	2.279825821307252e-05
+Palace	7	0.00015958780749150765
+priest	10	0.00022798258213072522
+wept	9	0.0002051843239176527
+beards	2	4.559651642614504e-05
+beard	2	4.559651642614504e-05
+bruised	1	2.279825821307252e-05
+terrace	7	0.00015958780749150765
+Glory	1	2.279825821307252e-05
+nowhere	3	6.839477463921757e-05
+mystical	1	2.279825821307252e-05
+shows	1	2.279825821307252e-05
+gazing	1	2.279825821307252e-05
+reached	15	0.00034197387319608784
+village	7	0.00015958780749150765
+tell	19	0.0004331669060483779
+orient	1	2.279825821307252e-05
+gowns	1	2.279825821307252e-05
+ebony	3	6.839477463921757e-05
+twelve	2	4.559651642614504e-05
+waving	4	9.119303285229008e-05
+floating	2	4.559651642614504e-05
+has	30	0.0006839477463921757
+lance	1	2.279825821307252e-05
+Mayor	1	2.279825821307252e-05
+sudden	1	2.279825821307252e-05
+ordained	1	2.279825821307252e-05
+home	5	0.00011399129106536261
+suffered	4	9.119303285229008e-05
+retreated	1	2.279825821307252e-05
+fast	3	6.839477463921757e-05
+waved	2	4.559651642614504e-05
+whole	17	0.00038757038962223286
+outstripped	1	2.279825821307252e-05
+Indian	1	2.279825821307252e-05
+galbanum	1	2.279825821307252e-05
+garments	1	2.279825821307252e-05
+dogs	1	2.279825821307252e-05
+appeared	2	4.559651642614504e-05
+richly	2	4.559651642614504e-05
+decorated	1	2.279825821307252e-05
+strike	1	2.279825821307252e-05
+vagrants	1	2.279825821307252e-05
+kiss	4	9.119303285229008e-05
+climbed	2	4.559651642614504e-05
+gleamed	1	2.279825821307252e-05
+crimson	2	4.559651642614504e-05
+rang	1	2.279825821307252e-05
+rode	5	0.00011399129106536261
+part	7	0.00015958780749150765
+negroes	11	0.00025078084034379773
+punishment	2	4.559651642614504e-05
+tithe	1	2.279825821307252e-05
+beach	1	2.279825821307252e-05
+ceremonies	2	4.559651642614504e-05
+repaid	1	2.279825821307252e-05
+playmate	2	4.559651642614504e-05
+drag	1	2.279825821307252e-05
+ware	1	2.279825821307252e-05
+TAPLOW	1	2.279825821307252e-05
+craftsmen	1	2.279825821307252e-05
+could	33	0.0007523425210313932
+wherever	4	9.119303285229008e-05
+draw	3	6.839477463921757e-05
+gangway	1	2.279825821307252e-05
+cruel	12	0.00027357909855687027
+buyer	1	2.279825821307252e-05
+tarriest	1	2.279825821307252e-05
+catkins	1	2.279825821307252e-05
+longer	5	0.00011399129106536261
+cost	1	2.279825821307252e-05
+drums	1	2.279825821307252e-05
+searched	3	6.839477463921757e-05
+singers	1	2.279825821307252e-05
+forget	1	2.279825821307252e-05
+time	25	0.0005699564553268131
+howls	1	2.279825821307252e-05
+lifted	2	4.559651642614504e-05
+marsh	2	4.559651642614504e-05
+presented	1	2.279825821307252e-05
+drank	2	4.559651642614504e-05
+matter	7	0.00015958780749150765
+trotting	1	2.279825821307252e-05
+laden	1	2.279825821307252e-05
+breath	5	0.00011399129106536261
+two	20	0.00045596516426145043
+Ice	1	2.279825821307252e-05
+future	1	2.279825821307252e-05
+flute	1	2.279825821307252e-05
+lit	6	0.00013678954927843514
+answered	82	0.0018694571734719468
+liveries	1	2.279825821307252e-05
+crooked	4	9.119303285229008e-05
+mystery	1	2.279825821307252e-05
+caparisoned	1	2.279825821307252e-05
+tabernacle	1	2.279825821307252e-05
+exaggerated	1	2.279825821307252e-05
+should	29	0.0006611494881791031
+Suddenly	2	4.559651642614504e-05
+lie	3	6.839477463921757e-05
+panels	1	2.279825821307252e-05
+tells	1	2.279825821307252e-05
+elephant	2	4.559651642614504e-05
+Wilt	4	9.119303285229008e-05
+audience	2	4.559651642614504e-05
+fowler	1	2.279825821307252e-05
+caravan	2	4.559651642614504e-05
+panting	2	4.559651642614504e-05
+Sandals	1	2.279825821307252e-05
+strung	1	2.279825821307252e-05
+parted	1	2.279825821307252e-05
+mackerel	1	2.279825821307252e-05
+silent	2	4.559651642614504e-05
+grove	1	2.279825821307252e-05
+travelled	1	2.279825821307252e-05
+motioned	1	2.279825821307252e-05
+knowest	6	0.00013678954927843514
+Dwarf	16	0.0003647721314091603
+merchandise	2	4.559651642614504e-05
+sugar	1	2.279825821307252e-05
+mouldering	1	2.279825821307252e-05
+mirror	10	0.00022798258213072522
+needle	1	2.279825821307252e-05
+mule	1	2.279825821307252e-05
+leaned	5	0.00011399129106536261
+doorway	2	4.559651642614504e-05
+beyond	3	6.839477463921757e-05
+useless	1	2.279825821307252e-05
+walks	3	6.839477463921757e-05
+tremble	1	2.279825821307252e-05
+primroses	1	2.279825821307252e-05
+swinging	1	2.279825821307252e-05
+mantles	1	2.279825821307252e-05
+brow	2	4.559651642614504e-05
+musicians	2	4.559651642614504e-05
+masters	1	2.279825821307252e-05
+messenger	1	2.279825821307252e-05
+prolonged	1	2.279825821307252e-05
+whisper	3	6.839477463921757e-05
+slapped	1	2.279825821307252e-05
+perchance	1	2.279825821307252e-05
+listless	1	2.279825821307252e-05
+chattered	4	9.119303285229008e-05
+He	88	0.002006246722750382
+horned	3	6.839477463921757e-05
+nine	5	0.00011399129106536261
+nobly	1	2.279825821307252e-05
+evil	32	0.0007295442628183206
+Much	1	2.279825821307252e-05
+and	1829	0.04169801427170964
+spiced	1	2.279825821307252e-05
+delightful	2	4.559651642614504e-05
+bossy	1	2.279825821307252e-05
+thing	27	0.000615552971752958
+rule	2	4.559651642614504e-05
+thine	15	0.00034197387319608784
+wines	1	2.279825821307252e-05
+grave	7	0.00015958780749150765
+toiling	1	2.279825821307252e-05
+drivers	1	2.279825821307252e-05
+spices	2	4.559651642614504e-05
+haunted	1	2.279825821307252e-05
+noble	2	4.559651642614504e-05
+Papal	2	4.559651642614504e-05
+We	13	0.00029637735676994276
+slay	13	0.00029637735676994276
+guarding	1	2.279825821307252e-05
+milk	4	9.119303285229008e-05
+Flowers	2	4.559651642614504e-05
+am	33	0.0007523425210313932
+although	1	2.279825821307252e-05
+an	45	0.0010259216195882635
+parent	1	2.279825821307252e-05
+lived	4	9.119303285229008e-05
+recently	1	2.279825821307252e-05
+at	195	0.004445660351549142
+people	24	0.0005471581971137405
+chaunting	1	2.279825821307252e-05
+whirled	3	6.839477463921757e-05
+quite	21	0.00047876342247452297
+lanterns	1	2.279825821307252e-05
+t	4	9.119303285229008e-05
+Sin	1	2.279825821307252e-05
+screens	1	2.279825821307252e-05
+deathbed	1	2.279825821307252e-05
+drooped	3	6.839477463921757e-05
+granite	1	2.279825821307252e-05
+accursed	4	9.119303285229008e-05
+charming	2	4.559651642614504e-05
+Perhaps	3	6.839477463921757e-05
+clung	2	4.559651642614504e-05
+piece	27	0.000615552971752958
+passion	3	6.839477463921757e-05
+wages	1	2.279825821307252e-05
+procession	2	4.559651642614504e-05
+placed	9	0.0002051843239176527
+Ormuz	1	2.279825821307252e-05
+Fish	1	2.279825821307252e-05
+pall	1	2.279825821307252e-05
+hyacinths	1	2.279825821307252e-05
+handsome	2	4.559651642614504e-05
+That	2	4.559651642614504e-05
+birds	15	0.00034197387319608784
+piteously	1	2.279825821307252e-05
+corset	1	2.279825821307252e-05
+safe	1	2.279825821307252e-05
+Highness	1	2.279825821307252e-05
+provided	1	2.279825821307252e-05
+cup	12	0.00027357909855687027
+understand	1	2.279825821307252e-05
+palace	18	0.0004103686478353054
+cut	4	9.119303285229008e-05
+winding	1	2.279825821307252e-05
+splendid	5	0.00011399129106536261
+rafts	1	2.279825821307252e-05
+perfectly	1	2.279825821307252e-05
+highway	1	2.279825821307252e-05
+god	19	0.0004331669060483779
+chamber	12	0.00027357909855687027
+circled	2	4.559651642614504e-05
+nice	1	2.279825821307252e-05
+angels	1	2.279825821307252e-05
+mantle	1	2.279825821307252e-05
+danced	2	4.559651642614504e-05
+statues	2	4.559651642614504e-05
+daylight	1	2.279825821307252e-05
+disdain	2	4.559651642614504e-05
+dances	10	0.00022798258213072522
+fowls	1	2.279825821307252e-05
+deacons	1	2.279825821307252e-05
+Sayest	1	2.279825821307252e-05
+wagging	1	2.279825821307252e-05
+clutch	1	2.279825821307252e-05
+heretics	1	2.279825821307252e-05
+equals	1	2.279825821307252e-05
+showed	7	0.00015958780749150765
+be	98	0.0022342293048811072
+forms	1	2.279825821307252e-05
+Him	3	6.839477463921757e-05
+flitted	1	2.279825821307252e-05
+lengthened	1	2.279825821307252e-05
+Fontainebleau	1	2.279825821307252e-05
+crystal	5	0.00011399129106536261
+thrust	5	0.00011399129106536261
+opium	1	2.279825821307252e-05
+understood	1	2.279825821307252e-05
+repeated	2	4.559651642614504e-05
+care	7	0.00015958780749150765
+waked	1	2.279825821307252e-05
+leman	3	6.839477463921757e-05
+streamed	1	2.279825821307252e-05
+wind	15	0.00034197387319608784
+waggons	2	4.559651642614504e-05
+the	2422	0.05521738139206165
+doors	3	6.839477463921757e-05
+trumpet	1	2.279825821307252e-05
+sunken	1	2.279825821307252e-05
+love	41	0.0009347285867359734
+value	3	6.839477463921757e-05
+snakes	2	4.559651642614504e-05
+thy	75	0.001709869365980439
+Two	2	4.559651642614504e-05
+creeps	1	2.279825821307252e-05
+hat	2	4.559651642614504e-05
+flushed	1	2.279825821307252e-05
+circlet	1	2.279825821307252e-05
+Nuncio	2	4.559651642614504e-05
+glass	4	9.119303285229008e-05
+waste	1	2.279825821307252e-05
+blue	15	0.00034197387319608784
+very	16	0.0003647721314091603
+scarf	3	6.839477463921757e-05
+live	8	0.00018238606570458016
+had	235	0.005357590680072043
+banished	1	2.279825821307252e-05
+Like	2	4.559651642614504e-05
+Canst	1	2.279825821307252e-05
+hold	3	6.839477463921757e-05
+fleet	1	2.279825821307252e-05
+sovereigns	1	2.279825821307252e-05
+bidding	6	0.00013678954927843514
+BROOKE	1	2.279825821307252e-05
+porcelain	1	2.279825821307252e-05
+eyebrows	1	2.279825821307252e-05
+bordered	1	2.279825821307252e-05
+sold	1	2.279825821307252e-05
+playing	2	4.559651642614504e-05
+motionless	1	2.279825821307252e-05
+gerfalcon	1	2.279825821307252e-05
+matchlocks	1	2.279825821307252e-05
+sewing	1	2.279825821307252e-05
+enamel	3	6.839477463921757e-05
+wrist	1	2.279825821307252e-05
+spy	1	2.279825821307252e-05
+holy	3	6.839477463921757e-05
+theory	1	2.279825821307252e-05
+Bedouins	1	2.279825821307252e-05
+lieth	1	2.279825821307252e-05
+promised	1	2.279825821307252e-05
+peer	1	2.279825821307252e-05
+followed	13	0.00029637735676994276
+arrived	1	2.279825821307252e-05
+ostentatious	1	2.279825821307252e-05
+threaded	1	2.279825821307252e-05
+laughter	4	9.119303285229008e-05
+gavest	3	6.839477463921757e-05
+ribands	2	4.559651642614504e-05
+happy	5	0.00011399129106536261
+sounded	1	2.279825821307252e-05
+dreamed	3	6.839477463921757e-05
+blind	3	6.839477463921757e-05
+reina	2	4.559651642614504e-05
+looms	1	2.279825821307252e-05
+s	73	0.001664272849554294
+shrieking	1	2.279825821307252e-05
+Weet	1	2.279825821307252e-05
+oars	2	4.559651642614504e-05
+testing	1	2.279825821307252e-05
+apparelled	1	2.279825821307252e-05
+rise	4	9.119303285229008e-05
+dawn	9	0.0002051843239176527
+express	1	2.279825821307252e-05
+bred	1	2.279825821307252e-05
+churchyard	1	2.279825821307252e-05
+breasts	4	9.119303285229008e-05
+fern	1	2.279825821307252e-05
+screamed	3	6.839477463921757e-05
+having	11	0.00025078084034379773
+exception	1	2.279825821307252e-05
+banks	2	4.559651642614504e-05
+fight	4	9.119303285229008e-05
+affected	2	4.559651642614504e-05
+rate	1	2.279825821307252e-05
+Catholic	1	2.279825821307252e-05
+faggots	2	4.559651642614504e-05
+Apes	1	2.279825821307252e-05
+anybody	1	2.279825821307252e-05
+weaving	1	2.279825821307252e-05
+Holy	3	6.839477463921757e-05
+possession	1	2.279825821307252e-05
+embalmers	1	2.279825821307252e-05
+much	25	0.0005699564553268131
+drink	7	0.00015958780749150765
+perilous	1	2.279825821307252e-05
+Indies	1	2.279825821307252e-05
+smiling	6	0.00013678954927843514
+desiring	2	4.559651642614504e-05
+Love	6	0.00013678954927843514
+loathsome	2	4.559651642614504e-05
+arras	1	2.279825821307252e-05
+bounds	1	2.279825821307252e-05
+showest	1	2.279825821307252e-05
+wisdom	1	2.279825821307252e-05
+Upon	1	2.279825821307252e-05
+keenly	1	2.279825821307252e-05
+
+	3501	0.0798167020039669
+Poverty	1	2.279825821307252e-05
+coils	1	2.279825821307252e-05
+islands	1	2.279825821307252e-05
+yet	9	0.0002051843239176527
+shoulder	2	4.559651642614504e-05
+open	10	0.00022798258213072522
+track	1	2.279825821307252e-05
+married	2	4.559651642614504e-05
+balcony	2	4.559651642614504e-05
+edge	1	2.279825821307252e-05
+Follow	1	2.279825821307252e-05
+their	169	0.003852905638009256
+provinces	1	2.279825821307252e-05
+loosed	1	2.279825821307252e-05
+balls	1	2.279825821307252e-05
+OF	5	0.00011399129106536261
+pound	1	2.279825821307252e-05
+Asturias	1	2.279825821307252e-05
+grown	3	6.839477463921757e-05
+rock	2	4.559651642614504e-05
+ships	3	6.839477463921757e-05
+chapel	4	9.119303285229008e-05
+On	14	0.0003191756149830153
+dripped	2	4.559651642614504e-05
+Tartary	2	4.559651642614504e-05
+suite	1	2.279825821307252e-05
+Of	7	0.00015958780749150765
+Strange	1	2.279825821307252e-05
+than	51	0.0011627111688666985
+gold	78	0.0017782641406196566
+bills	1	2.279825821307252e-05
+distress	1	2.279825821307252e-05
+Certain	1	2.279825821307252e-05
+tamarisk	1	2.279825821307252e-05
+Martin	1	2.279825821307252e-05
+morn	1	2.279825821307252e-05
+dignity	2	4.559651642614504e-05
+wire	2	4.559651642614504e-05
+that	401	0.009142101543442081
+calves	1	2.279825821307252e-05
+Arabs	1	2.279825821307252e-05
+mariners	1	2.279825821307252e-05
+pretty	13	0.00029637735676994276
+Or	1	2.279825821307252e-05
+surmounted	1	2.279825821307252e-05
+basin	1	2.279825821307252e-05
+carried	2	4.559651642614504e-05
+travelling	1	2.279825821307252e-05
+building	1	2.279825821307252e-05
+command	2	4.559651642614504e-05
+veils	1	2.279825821307252e-05
+white	55	0.0012539042017189886
+argument	1	2.279825821307252e-05
+Sell	1	2.279825821307252e-05
+crawls	1	2.279825821307252e-05
+sleeves	1	2.279825821307252e-05
+blindness	1	2.279825821307252e-05
+handkerchiefs	1	2.279825821307252e-05
+latter	1	2.279825821307252e-05
+tomb	1	2.279825821307252e-05
+sent	8	0.00018238606570458016
+lay	23	0.000524359938900668
+fine	13	0.00029637735676994276
+find	19	0.0004331669060483779
+cases	1	2.279825821307252e-05
+Greek	1	2.279825821307252e-05
+feeds	1	2.279825821307252e-05
+send	18	0.0004103686478353054
+established	1	2.279825821307252e-05
+goodman	1	2.279825821307252e-05
+Take	5	0.00011399129106536261
+fins	1	2.279825821307252e-05
+field	4	9.119303285229008e-05
+AND	1	2.279825821307252e-05
+millers	1	2.279825821307252e-05
+green	27	0.000615552971752958
+round	51	0.0011627111688666985
+late	1	2.279825821307252e-05
+acted	1	2.279825821307252e-05
+nigher	1	2.279825821307252e-05
+sing	4	9.119303285229008e-05
+strong	4	9.119303285229008e-05
+struck	8	0.00018238606570458016
+de	4	9.119303285229008e-05
+simply	1	2.279825821307252e-05
+sheepfold	1	2.279825821307252e-05
+tail	3	6.839477463921757e-05
+irresistible	1	2.279825821307252e-05
+do	35	0.0007979390374575383
+spires	1	2.279825821307252e-05
+notorious	1	2.279825821307252e-05
+Outside	1	2.279825821307252e-05
+spake	13	0.00029637735676994276
+lustre	1	2.279825821307252e-05
+hope	1	2.279825821307252e-05
+startled	2	4.559651642614504e-05
+copper	6	0.00013678954927843514
+Comprachos	1	2.279825821307252e-05
+grow	3	6.839477463921757e-05
+journeyed	7	0.00015958780749150765
+rubbing	1	2.279825821307252e-05
+peeping	1	2.279825821307252e-05
+telleth	1	2.279825821307252e-05
+Spanish	5	0.00011399129106536261
+Away	2	4.559651642614504e-05
+paved	1	2.279825821307252e-05
+fourth	1	2.279825821307252e-05
+swayed	1	2.279825821307252e-05
+neither	5	0.00011399129106536261
+journeys	1	2.279825821307252e-05
+feathers	3	6.839477463921757e-05
+oratorical	1	2.279825821307252e-05
+keels	1	2.279825821307252e-05
+marshes	4	9.119303285229008e-05
+Duchess	2	4.559651642614504e-05
+coral	2	4.559651642614504e-05
+within	7	0.00015958780749150765
+arrows	1	2.279825821307252e-05
+nard	1	2.279825821307252e-05
+bleeding	2	4.559651642614504e-05
+bazaar	2	4.559651642614504e-05
+destined	1	2.279825821307252e-05
+lacquer	3	6.839477463921757e-05
+Charles	2	4.559651642614504e-05
+Saint	1	2.279825821307252e-05
+drawn	4	9.119303285229008e-05
+jealous	1	2.279825821307252e-05
+expiration	1	2.279825821307252e-05
+disks	2	4.559651642614504e-05
+mind	3	6.839477463921757e-05
+mine	8	0.00018238606570458016
+animal	3	6.839477463921757e-05
+discovery	1	2.279825821307252e-05
+Pale	2	4.559651642614504e-05
+ankles	1	2.279825821307252e-05
+stayed	2	4.559651642614504e-05
+road	5	0.00011399129106536261
+fish	8	0.00018238606570458016
+legs	6	0.00013678954927843514
+atomic	1	2.279825821307252e-05
+comes	4	9.119303285229008e-05
+Heaven	1	2.279825821307252e-05
+idol	3	6.839477463921757e-05
+camp	1	2.279825821307252e-05
+duty	1	2.279825821307252e-05
+pillow	1	2.279825821307252e-05
+changeling	1	2.279825821307252e-05
+affairs	2	4.559651642614504e-05
+bundle	1	2.279825821307252e-05
+actually	1	2.279825821307252e-05
+Smite	1	2.279825821307252e-05
+third	14	0.0003191756149830153
+became	8	0.00018238606570458016
+deer	1	2.279825821307252e-05
+end	6	0.00013678954927843514
+titular	1	2.279825821307252e-05
+agate	2	4.559651642614504e-05
+Lady	2	4.559651642614504e-05
+fairer	5	0.00011399129106536261
+dripping	1	2.279825821307252e-05
+desirest	2	4.559651642614504e-05
+cursed	2	4.559651642614504e-05
+Sir	1	2.279825821307252e-05
+flowered	1	2.279825821307252e-05
+gave	23	0.000524359938900668
+chief	4	9.119303285229008e-05
+cast	4	9.119303285229008e-05
+snared	5	0.00011399129106536261
+was	353	0.0080477851492146
+war	4	9.119303285229008e-05
+ends	1	2.279825821307252e-05
+prayed	6	0.00013678954927843514
+Linnet	2	4.559651642614504e-05
+Most	1	2.279825821307252e-05
+eagerness	1	2.279825821307252e-05
+petal	3	6.839477463921757e-05
+withered	3	6.839477463921757e-05
+wax	5	0.00011399129106536261
+shelter	2	4.559651642614504e-05
+hunters	2	4.559651642614504e-05
+priests	7	0.00015958780749150765
+drinks	1	2.279825821307252e-05
+East	2	4.559651642614504e-05
+state	2	4.559651642614504e-05
+permanent	1	2.279825821307252e-05
+false	3	6.839477463921757e-05
+play	10	0.00022798258213072522
+daggers	1	2.279825821307252e-05
+tents	1	2.279825821307252e-05
+stamped	3	6.839477463921757e-05
+say	11	0.00025078084034379773
+saw	59	0.0013450972345712788
+vases	1	2.279825821307252e-05
+GRENFELL	1	2.279825821307252e-05
+nicer	1	2.279825821307252e-05
+Naked	1	2.279825821307252e-05
+courtyard	1	2.279825821307252e-05
+gay	4	9.119303285229008e-05
+plumed	3	6.839477463921757e-05
+FISHERMAN	1	2.279825821307252e-05
+Venus	2	4.559651642614504e-05
+wife	8	0.00018238606570458016
+hast	37	0.0008435355538836832
+wove	1	2.279825821307252e-05
+Venice	1	2.279825821307252e-05
+juggler	2	4.559651642614504e-05
+shade	1	2.279825821307252e-05
+plucked	3	6.839477463921757e-05
+looked	39	0.0008891320703098283
+light	4	9.119303285229008e-05
+Alas	4	9.119303285229008e-05
+delight	6	0.00013678954927843514
+Government	2	4.559651642614504e-05
+relief	1	2.279825821307252e-05
+reason	5	0.00011399129106536261
+personal	1	2.279825821307252e-05
+each	33	0.0007523425210313932
+cat	2	4.559651642614504e-05
+secrets	1	2.279825821307252e-05
+meshes	1	2.279825821307252e-05
+cap	2	4.559651642614504e-05
+can	17	0.00038757038962223286
+dim	8	0.00018238606570458016
+quickly	3	6.839477463921757e-05
+enamoured	2	4.559651642614504e-05
+Las	1	2.279825821307252e-05
+did	51	0.0011627111688666985
+creep	1	2.279825821307252e-05
+loves	4	9.119303285229008e-05
+wilt	11	0.00025078084034379773
+swords	3	6.839477463921757e-05
+canopy	4	9.119303285229008e-05
+loud	4	9.119303285229008e-05
+pay	5	0.00011399129106536261
+shout	1	2.279825821307252e-05
+scented	3	6.839477463921757e-05
+Torres	1	2.279825821307252e-05
+rubies	5	0.00011399129106536261
+borne	1	2.279825821307252e-05
+covering	1	2.279825821307252e-05
+such	13	0.00029637735676994276
+girls	2	4.559651642614504e-05
+vulgarising	1	2.279825821307252e-05
+tribe	1	2.279825821307252e-05
+sow	1	2.279825821307252e-05
+skins	3	6.839477463921757e-05
+Fullers	4	9.119303285229008e-05
+forfeited	1	2.279825821307252e-05
+striped	1	2.279825821307252e-05
+royal	3	6.839477463921757e-05
+copying	1	2.279825821307252e-05
+cloaks	2	4.559651642614504e-05
+wearily	2	4.559651642614504e-05
+physician	2	4.559651642614504e-05
+gemmed	1	2.279825821307252e-05
+fro	3	6.839477463921757e-05
+till	17	0.00038757038962223286
+free	6	0.00013678954927843514
+Hast	3	6.839477463921757e-05
+soul	28	0.0006383512299660306
+lords	1	2.279825821307252e-05
+leadership	1	2.279825821307252e-05
+chafe	1	2.279825821307252e-05
+titter	1	2.279825821307252e-05
+sport	1	2.279825821307252e-05
+incessant	1	2.279825821307252e-05
+almond	1	2.279825821307252e-05
+tops	2	4.559651642614504e-05
+Others	1	2.279825821307252e-05
+moment	4	9.119303285229008e-05
+kinsman	1	2.279825821307252e-05
+succoured	3	6.839477463921757e-05
+a	649	0.014796069580284066
+roses	4	9.119303285229008e-05
+fiery	1	2.279825821307252e-05
+understanding	1	2.279825821307252e-05
+witcheries	1	2.279825821307252e-05
+direction	1	2.279825821307252e-05
+ridiculous	2	4.559651642614504e-05
+eldest	1	2.279825821307252e-05
+tinkle	2	4.559651642614504e-05
+page	4	9.119303285229008e-05
+colour	3	6.839477463921757e-05
+opening	1	2.279825821307252e-05
+clumsy	1	2.279825821307252e-05
+surrender	1	2.279825821307252e-05
+Earth	3	6.839477463921757e-05
+bare	9	0.0002051843239176527
+arms	22	0.0005015616806875955
+Such	1	2.279825821307252e-05
+pikes	1	2.279825821307252e-05
+tempt	5	0.00011399129106536261
+warily	1	2.279825821307252e-05
+regular	1	2.279825821307252e-05
+Escurial	1	2.279825821307252e-05
+shells	3	6.839477463921757e-05
+hazels	1	2.279825821307252e-05
+Some	5	0.00011399129106536261
+longest	1	2.279825821307252e-05
+every	17	0.00038757038962223286
+couched	4	9.119303285229008e-05
+rings	5	0.00011399129106536261
+departure	1	2.279825821307252e-05
+courtier	1	2.279825821307252e-05
+hunch	1	2.279825821307252e-05
+chalcedonies	1	2.279825821307252e-05
+BIRTHDAY	1	2.279825821307252e-05
+beheld	2	4.559651642614504e-05
+custom	1	2.279825821307252e-05
+bind	2	4.559651642614504e-05
+attitudes	1	2.279825821307252e-05
+snake	1	2.279825821307252e-05
+metal	3	6.839477463921757e-05
+marble	5	0.00011399129106536261
+robe	16	0.0003647721314091603
+shalt	14	0.0003191756149830153
+front	9	0.0002051843239176527
+seat	1	2.279825821307252e-05
+seas	2	4.559651642614504e-05
+eyelets	1	2.279825821307252e-05
+horrible	4	9.119303285229008e-05
+seen	21	0.00047876342247452297
+Cross	1	2.279825821307252e-05
+seal	3	6.839477463921757e-05
+dusty	2	4.559651642614504e-05
+paid	4	9.119303285229008e-05
+worshipper	1	2.279825821307252e-05
+pain	11	0.00025078084034379773
+witches	4	9.119303285229008e-05
+mount	1	2.279825821307252e-05
+shall	36	0.0008207372956706108
+Rimini	1	2.279825821307252e-05
+By	3	6.839477463921757e-05
+shadow	10	0.00022798258213072522
+Blood	1	2.279825821307252e-05
+RANEE	1	2.279825821307252e-05
+sware	1	2.279825821307252e-05
+sweet	15	0.00034197387319608784
+sixteen	1	2.279825821307252e-05
+anklets	1	2.279825821307252e-05
+grows	1	2.279825821307252e-05
+Birds	1	2.279825821307252e-05
+Mermaid	21	0.00047876342247452297
+shell	1	2.279825821307252e-05
+gasp	1	2.279825821307252e-05
+acknowledged	2	4.559651642614504e-05
+box	2	4.559651642614504e-05
+dream	7	0.00015958780749150765
+adder	6	0.00013678954927843514
+story	1	2.279825821307252e-05
+Sometimes	2	4.559651642614504e-05
+church	1	2.279825821307252e-05
+towards	14	0.0003191756149830153
+Suffer	2	4.559651642614504e-05
+movement	1	2.279825821307252e-05
+wounded	2	4.559651642614504e-05
+pressed	4	9.119303285229008e-05
+storm	1	2.279825821307252e-05
+seeking	8	0.00018238606570458016
+guitar	1	2.279825821307252e-05
+hopping	1	2.279825821307252e-05
+enjoy	1	2.279825821307252e-05
+different	1	2.279825821307252e-05
+ruby	3	6.839477463921757e-05
+White	2	4.559651642614504e-05
+told	15	0.00034197387319608784
+carriage	1	2.279825821307252e-05
+couldst	1	2.279825821307252e-05
+tufts	1	2.279825821307252e-05
+cattle	2	4.559651642614504e-05
+knee	1	2.279825821307252e-05
+Inquisitor	4	9.119303285229008e-05
+betrothed	1	2.279825821307252e-05
+last	13	0.00029637735676994276
+entered	18	0.0004103686478353054
+assembling	1	2.279825821307252e-05
+Caffarelli	1	2.279825821307252e-05
+ambassadors	2	4.559651642614504e-05
+Accursed	2	4.559651642614504e-05
+knew	17	0.00038757038962223286
+writhed	1	2.279825821307252e-05
+relations	1	2.279825821307252e-05
+gauntleted	1	2.279825821307252e-05
+Often	2	4.559651642614504e-05
+Is	11	0.00025078084034379773
+It	49	0.0011171146524405536
+looming	1	2.279825821307252e-05
+proud	6	0.00013678954927843514
+trembling	3	6.839477463921757e-05
+threshold	2	4.559651642614504e-05
+applause	1	2.279825821307252e-05
+In	16	0.0003647721314091603
+trembled	10	0.00022798258213072522
+missing	1	2.279825821307252e-05
+pleasure	11	0.00025078084034379773
+If	10	0.00022798258213072522
+depart	2	4.559651642614504e-05
+solemn	2	4.559651642614504e-05
+boy	8	0.00018238606570458016
+Redder	1	2.279825821307252e-05
+received	1	2.279825821307252e-05
+Syria	1	2.279825821307252e-05
+woke	4	9.119303285229008e-05
+bow	5	0.00011399129106536261
+II	1	2.279825821307252e-05
+all	78	0.0017782641406196566
+Misery	1	2.279825821307252e-05
+thick	5	0.00011399129106536261
+sell	10	0.00022798258213072522
+delighted	1	2.279825821307252e-05
+alb	1	2.279825821307252e-05
+jumping	1	2.279825821307252e-05
+bitterly	5	0.00011399129106536261
+foul	9	0.0002051843239176527
+doves	2	4.559651642614504e-05
+watered	1	2.279825821307252e-05
+book	1	2.279825821307252e-05
+thus	1	2.279825821307252e-05
+To	5	0.00011399129106536261
+Hadrian	1	2.279825821307252e-05
+turquoise	3	6.839477463921757e-05
+silk	8	0.00018238606570458016
+kneeling	3	6.839477463921757e-05
+Tu	4	9.119303285229008e-05
+Little	1	2.279825821307252e-05
+trees	16	0.0003647721314091603
+marriage	4	9.119303285229008e-05
+take	15	0.00034197387319608784
+high	11	0.00025078084034379773
+horror	3	6.839477463921757e-05
+possess	4	9.119303285229008e-05
+mortar	1	2.279825821307252e-05
+decided	1	2.279825821307252e-05
+plumage	1	2.279825821307252e-05
+denied	4	9.119303285229008e-05
+makes	3	6.839477463921757e-05
+TO	4	9.119303285229008e-05
+limbs	2	4.559651642614504e-05
+just	15	0.00034197387319608784
+dart	1	2.279825821307252e-05
+samphire	1	2.279825821307252e-05
+mouths	2	4.559651642614504e-05
+kid	2	4.559651642614504e-05
+reflecteth	2	4.559651642614504e-05
+left	14	0.0003191756149830153
+Then	13	0.00029637735676994276
+slave	12	0.00027357909855687027
+threads	3	6.839477463921757e-05
+fire	5	0.00011399129106536261
+Granada	2	4.559651642614504e-05
+frankincense	1	2.279825821307252e-05
+only	29	0.0006611494881791031
+Tartars	5	0.00011399129106536261
+makest	1	2.279825821307252e-05
+knees	6	0.00013678954927843514
+other	32	0.0007295442628183206
+crown	15	0.00034197387319608784
+place	34	0.0007751407792444657
+carven	1	2.279825821307252e-05
+steel	2	4.559651642614504e-05
+henna	1	2.279825821307252e-05
+carved	10	0.00022798258213072522
+crowd	5	0.00011399129106536261
+embalmed	1	2.279825821307252e-05
+Woodcutter	13	0.00029637735676994276
+How	10	0.00022798258213072522
+caps	1	2.279825821307252e-05
+dealt	1	2.279825821307252e-05
+wheel	1	2.279825821307252e-05
+She	23	0.000524359938900668
+steep	1	2.279825821307252e-05
+cruelty	2	4.559651642614504e-05
+cry	17	0.00038757038962223286
+bottles	1	2.279825821307252e-05
+mock	4	9.119303285229008e-05
+woman	20	0.00045596516426145043
+truth	8	0.00018238606570458016
+yellows	1	2.279825821307252e-05
+robed	1	2.279825821307252e-05
+brushed	4	9.119303285229008e-05
+common	1	2.279825821307252e-05
+Squirrels	1	2.279825821307252e-05
+bread	11	0.00025078084034379773
+fading	1	2.279825821307252e-05
+bartered	1	2.279825821307252e-05
+rivers	1	2.279825821307252e-05
+robes	2	4.559651642614504e-05
+brushwood	1	2.279825821307252e-05
+names	1	2.279825821307252e-05
+haste	1	2.279825821307252e-05
+kisses	2	4.559651642614504e-05
+corridor	4	9.119303285229008e-05
+harm	4	9.119303285229008e-05
+materials	1	2.279825821307252e-05
+snows	1	2.279825821307252e-05
+angel	1	2.279825821307252e-05
+hare	1	2.279825821307252e-05
+hard	14	0.0003191756149830153
+Whiter	1	2.279825821307252e-05
+asleep	11	0.00025078084034379773
+kissed	14	0.0003191756149830153
+anger	3	6.839477463921757e-05
+Before	1	2.279825821307252e-05
+Street	3	6.839477463921757e-05
+down	76	0.0017326676241935116
+With	5	0.00011399129106536261
+ribbed	1	2.279825821307252e-05
+sceptre	10	0.00022798258213072522
+lips	29	0.0006611494881791031
+some	47	0.0010715181360144085
+mare	1	2.279825821307252e-05
+flung	12	0.00027357909855687027
+been	60	0.0013678954927843514
+trap	2	4.559651642614504e-05
+stretched	5	0.00011399129106536261
+madly	4	9.119303285229008e-05
+manes	1	2.279825821307252e-05
+mark	2	4.559651642614504e-05
+Riches	3	6.839477463921757e-05
+stood	44	0.001003123361375191
+power	3	6.839477463921757e-05
+tend	1	2.279825821307252e-05
+Count	3	6.839477463921757e-05
+shaking	1	2.279825821307252e-05
+spasm	1	2.279825821307252e-05
+Their	7	0.00015958780749150765
+hangs	1	2.279825821307252e-05
+wedge	1	2.279825821307252e-05
+favoured	3	6.839477463921757e-05
+voyages	1	2.279825821307252e-05
+vinegar	1	2.279825821307252e-05
+Sirens	1	2.279825821307252e-05
+caves	3	6.839477463921757e-05
+paper	1	2.279825821307252e-05
+curtains	4	9.119303285229008e-05
+pacing	1	2.279825821307252e-05
+Aurantes	1	2.279825821307252e-05
+driven	3	6.839477463921757e-05
+hearken	1	2.279825821307252e-05
+level	1	2.279825821307252e-05
+properties	1	2.279825821307252e-05
+behind	17	0.00038757038962223286
+foreign	2	4.559651642614504e-05
+shining	2	4.559651642614504e-05
+artificers	1	2.279825821307252e-05
+owl	2	4.559651642614504e-05
+sorrow	8	0.00018238606570458016
+own	27	0.000615552971752958
+grain	2	4.559651642614504e-05
+girt	1	2.279825821307252e-05
+shield	3	6.839477463921757e-05
+father	6	0.00013678954927843514
+fisher	1	2.279825821307252e-05
+knowing	1	2.279825821307252e-05
+raiment	13	0.00029637735676994276
+year	14	0.0003191756149830153
+never	19	0.0004331669060483779
+You	2	4.559651642614504e-05
+horses	9	0.0002051843239176527
+girl	2	4.559651642614504e-05
+made	57	0.0012995007181451337
+heavy	14	0.0003191756149830153
+pitching	1	2.279825821307252e-05
+figs	1	2.279825821307252e-05
+doth	4	9.119303285229008e-05
+orange	2	4.559651642614504e-05
+caverns	1	2.279825821307252e-05
+drill	1	2.279825821307252e-05
+bearers	2	4.559651642614504e-05
+corks	1	2.279825821307252e-05
+afraid	9	0.0002051843239176527
+thousand	1	2.279825821307252e-05
+jewels	3	6.839477463921757e-05
+clasped	3	6.839477463921757e-05
+brightly	4	9.119303285229008e-05
+maimed	1	2.279825821307252e-05
+grassy	1	2.279825821307252e-05
+caked	1	2.279825821307252e-05
+cracked	1	2.279825821307252e-05
+hunter	1	2.279825821307252e-05
+guns	1	2.279825821307252e-05
+curiously	5	0.00011399129106536261
+Round	3	6.839477463921757e-05
+sweeter	1	2.279825821307252e-05
+several	3	6.839477463921757e-05
+fallen	4	9.119303285229008e-05
+few	9	0.0002051843239176527
+lute	4	9.119303285229008e-05
+beneath	9	0.0002051843239176527
+fen	1	2.279825821307252e-05
+Pretty	1	2.279825821307252e-05
+pinches	1	2.279825821307252e-05
+pomegranates	4	9.119303285229008e-05
+blew	8	0.00018238606570458016
+upon	79	0.0018010623988327292
+cleft	4	9.119303285229008e-05
+sparrows	2	4.559651642614504e-05
+poisonous	2	4.559651642614504e-05
+full	13	0.00029637735676994276
+slippery	1	2.279825821307252e-05
+offered	1	2.279825821307252e-05
+weavers	2	4.559651642614504e-05
+orders	3	6.839477463921757e-05
+besought	7	0.00015958780749150765
+monstrance	2	4.559651642614504e-05
+bright	16	0.0003647721314091603
+noise	1	2.279825821307252e-05
+Grief	2	4.559651642614504e-05
+shame	4	9.119303285229008e-05
+running	6	0.00013678954927843514
+blossomed	2	4.559651642614504e-05
+fanatics	1	2.279825821307252e-05
+dyed	4	9.119303285229008e-05
+lizards	3	6.839477463921757e-05
+pricked	1	2.279825821307252e-05
+classical	1	2.279825821307252e-05
+rod	3	6.839477463921757e-05
+gone	15	0.00034197387319608784
+gong	1	2.279825821307252e-05
+afflicted	1	2.279825821307252e-05
+Bare	1	2.279825821307252e-05
+grief	1	2.279825821307252e-05
+new	3	6.839477463921757e-05
+net	7	0.00015958780749150765
+trumpets	1	2.279825821307252e-05
+daffodil	1	2.279825821307252e-05
+cliffs	1	2.279825821307252e-05
+sort	2	4.559651642614504e-05
+pit	1	2.279825821307252e-05
+S	1	2.279825821307252e-05
+smote	1	2.279825821307252e-05
+dipped	1	2.279825821307252e-05
+amongst	2	4.559651642614504e-05
+pressing	2	4.559651642614504e-05
+cushions	1	2.279825821307252e-05
+Flemish	1	2.279825821307252e-05
+appeased	1	2.279825821307252e-05
+written	2	4.559651642614504e-05
+javelins	1	2.279825821307252e-05
+rushing	2	4.559651642614504e-05
+Pope	1	2.279825821307252e-05
+brazier	1	2.279825821307252e-05
+Cain	1	2.279825821307252e-05
+abide	2	4.559651642614504e-05
+Seville	2	4.559651642614504e-05
+wait	3	6.839477463921757e-05
+started	5	0.00011399129106536261
+ye	14	0.0003191756149830153
+moonlight	2	4.559651642614504e-05
+bank	1	2.279825821307252e-05
+Lo	2	4.559651642614504e-05
+puppet	1	2.279825821307252e-05
+STAR	1	2.279825821307252e-05
+La	1	2.279825821307252e-05
+raised	4	9.119303285229008e-05
+WILLIAM	1	2.279825821307252e-05
+distance	1	2.279825821307252e-05
+captain	4	9.119303285229008e-05
+Do	5	0.00011399129106536261
+permission	1	2.279825821307252e-05
+wafer	2	4.559651642614504e-05
+clinging	1	2.279825821307252e-05
+mountain	4	9.119303285229008e-05
+turmeric	1	2.279825821307252e-05
+grinning	1	2.279825821307252e-05
+floor	7	0.00015958780749150765
+sung	1	2.279825821307252e-05
+rooms	2	4.559651642614504e-05
+stops	1	2.279825821307252e-05
+merciful	1	2.279825821307252e-05
+instigation	1	2.279825821307252e-05
+finds	1	2.279825821307252e-05
+sitteth	1	2.279825821307252e-05
+good	12	0.00027357909855687027
+salt	5	0.00011399129106536261
+shouted	1	2.279825821307252e-05
+doing	3	6.839477463921757e-05
+laughing	9	0.0002051843239176527
+bells	4	9.119303285229008e-05
+Castile	1	2.279825821307252e-05
+hunchbacked	2	4.559651642614504e-05
+finished	5	0.00011399129106536261
+State	3	6.839477463921757e-05
+next	3	6.839477463921757e-05
+thought	17	0.00038757038962223286
+smite	1	2.279825821307252e-05
+comforted	1	2.279825821307252e-05
+One	5	0.00011399129106536261
+semi	1	2.279825821307252e-05
+seller	2	4.559651642614504e-05
+Pink	1	2.279825821307252e-05
+veined	2	4.559651642614504e-05
+spear	3	6.839477463921757e-05
+signal	1	2.279825821307252e-05
+scimitar	2	4.559651642614504e-05
+pilgrim	2	4.559651642614504e-05
+dropped	1	2.279825821307252e-05
+Thrice	1	2.279825821307252e-05
+ever	13	0.00029637735676994276
+hung	14	0.0003191756149830153
+stalks	1	2.279825821307252e-05
+staff	2	4.559651642614504e-05
+slowly	7	0.00015958780749150765
+slew	1	2.279825821307252e-05
+Between	1	2.279825821307252e-05
+even	30	0.0006839477463921757
+fruitsellers	1	2.279825821307252e-05
+steered	1	2.279825821307252e-05
+occupied	3	6.839477463921757e-05
+hunt	2	4.559651642614504e-05
+lobes	1	2.279825821307252e-05
+crawling	1	2.279825821307252e-05
+Linnets	1	2.279825821307252e-05
+device	1	2.279825821307252e-05
+eager	2	4.559651642614504e-05
+French	3	6.839477463921757e-05
+frizzed	1	2.279825821307252e-05
+dancing	5	0.00011399129106536261
+hunched	1	2.279825821307252e-05
+hawthorn	1	2.279825821307252e-05
+including	1	2.279825821307252e-05
+sways	1	2.279825821307252e-05
+flowers	14	0.0003191756149830153
+built	4	9.119303285229008e-05
+pagan	1	2.279825821307252e-05
+sayest	4	9.119303285229008e-05
+bride	2	4.559651642614504e-05
+Surely	16	0.0003647721314091603
+hillside	1	2.279825821307252e-05
+except	1	2.279825821307252e-05
+Thee	1	2.279825821307252e-05
+knit	2	4.559651642614504e-05
+absurd	3	6.839477463921757e-05
+stage	1	2.279825821307252e-05
+pulled	1	2.279825821307252e-05
+crocodile	1	2.279825821307252e-05
+They	34	0.0007751407792444657
+garden	18	0.0004103686478353054
+being	11	0.00025078084034379773
+speakest	2	4.559651642614504e-05
+more	30	0.0006839477463921757
+address	2	4.559651642614504e-05
+dive	1	2.279825821307252e-05
+forced	1	2.279825821307252e-05
+brackish	1	2.279825821307252e-05
+therefore	4	9.119303285229008e-05
+sized	1	2.279825821307252e-05
+da	1	2.279825821307252e-05
+minion	1	2.279825821307252e-05
+pearl	11	0.00025078084034379773
+hunting	4	9.119303285229008e-05
+depths	1	2.279825821307252e-05
+plainly	1	2.279825821307252e-05
+basking	1	2.279825821307252e-05
+ranged	1	2.279825821307252e-05
+proportion	1	2.279825821307252e-05
+portholes	1	2.279825821307252e-05
+Madrid	3	6.839477463921757e-05
+swift	1	2.279825821307252e-05
+don	2	4.559651642614504e-05
+Faster	2	4.559651642614504e-05
+heresy	1	2.279825821307252e-05
+caravans	1	2.279825821307252e-05
+singing	6	0.00013678954927843514
+divination	1	2.279825821307252e-05
+moonstones	2	4.559651642614504e-05
+we	63	0.0014362902674235688
+short	4	9.119303285229008e-05
+forgiveness	5	0.00011399129106536261
+everything	5	0.00011399129106536261
+rendered	1	2.279825821307252e-05
+Father	3	6.839477463921757e-05
+sleeps	1	2.279825821307252e-05
+sink	2	4.559651642614504e-05
+shore	18	0.0004103686478353054
+Opinion	1	2.279825821307252e-05
+HIS	1	2.279825821307252e-05
+shuttle	1	2.279825821307252e-05
+More	1	2.279825821307252e-05
+mask	1	2.279825821307252e-05
+mouthed	1	2.279825821307252e-05
+shark	1	2.279825821307252e-05
+whiteness	1	2.279825821307252e-05
+windy	1	2.279825821307252e-05
+apartments	1	2.279825821307252e-05
+raged	1	2.279825821307252e-05
+share	2	4.559651642614504e-05
+string	1	2.279825821307252e-05
+song	3	6.839477463921757e-05
+seest	1	2.279825821307252e-05
+featured	1	2.279825821307252e-05
+sleeping	3	6.839477463921757e-05
+however	5	0.00011399129106536261
+mass	1	2.279825821307252e-05
+sharp	3	6.839477463921757e-05
+sons	1	2.279825821307252e-05
+grated	2	4.559651642614504e-05
+terraces	1	2.279825821307252e-05
+related	1	2.279825821307252e-05
+doesn	1	2.279825821307252e-05
+order	3	6.839477463921757e-05
+weaver	5	0.00011399129106536261
+week	1	2.279825821307252e-05
+dwelt	6	0.00013678954927843514
+alone	10	0.00022798258213072522
+along	4	9.119303285229008e-05
+weet	2	4.559651642614504e-05
+merrily	1	2.279825821307252e-05
+weep	3	6.839477463921757e-05
+monster	12	0.00027357909855687027
+amusement	1	2.279825821307252e-05
+artists	2	4.559651642614504e-05
+funnier	1	2.279825821307252e-05
+Shall	3	6.839477463921757e-05
+try	2	4.559651642614504e-05
+carry	4	9.119303285229008e-05
+magnificence	1	2.279825821307252e-05
+sail	4	9.119303285229008e-05
+sunk	1	2.279825821307252e-05
+clock	1	2.279825821307252e-05
+seized	9	0.0002051843239176527
+broad	1	2.279825821307252e-05
+said	171	0.003898502154435401
+troop	1	2.279825821307252e-05
+tiny	5	0.00011399129106536261
+selenites	1	2.279825821307252e-05
+frightened	1	2.279825821307252e-05
+dignified	1	2.279825821307252e-05
+Birthday	1	2.279825821307252e-05
+prophet	4	9.119303285229008e-05
+knocked	6	0.00013678954927843514
+anything	8	0.00018238606570458016
+nautilus	1	2.279825821307252e-05
+splashing	1	2.279825821307252e-05
+tangled	1	2.279825821307252e-05
+leaping	2	4.559651642614504e-05
+despised	1	2.279825821307252e-05
+poles	1	2.279825821307252e-05
+saffron	1	2.279825821307252e-05
+MARGOT	1	2.279825821307252e-05
+sign	5	0.00011399129106536261
+coarse	4	9.119303285229008e-05
+wet	3	6.839477463921757e-05
+leaped	1	2.279825821307252e-05
+defect	1	2.279825821307252e-05
+bird	7	0.00015958780749150765
+against	9	0.0002051843239176527
+sellers	3	6.839477463921757e-05
+sadly	2	4.559651642614504e-05
+winds	1	2.279825821307252e-05
+wounds	3	6.839477463921757e-05
+citrons	1	2.279825821307252e-05
+its	51	0.0011627111688666985
+widows	2	4.559651642614504e-05
+upset	1	2.279825821307252e-05
+worm	1	2.279825821307252e-05
+turban	3	6.839477463921757e-05
+roofed	1	2.279825821307252e-05
+fresh	2	4.559651642614504e-05
+taught	2	4.559651642614504e-05
+orchards	1	2.279825821307252e-05
+wicket	2	4.559651642614504e-05
+disappointment	1	2.279825821307252e-05
+weakly	1	2.279825821307252e-05
+CHILD	1	2.279825821307252e-05
+charm	1	2.279825821307252e-05
+cloth	6	0.00013678954927843514
+Lilies	1	2.279825821307252e-05
+copes	1	2.279825821307252e-05
+swingers	2	4.559651642614504e-05
+learned	3	6.839477463921757e-05
+magic	2	4.559651642614504e-05
+beholds	1	2.279825821307252e-05
+Fisherman	75	0.001709869365980439
+Ask	1	2.279825821307252e-05
+tusks	1	2.279825821307252e-05
+flame	1	2.279825821307252e-05
+divide	1	2.279825821307252e-05
+clumps	1	2.279825821307252e-05
+seeing	8	0.00018238606570458016
+council	2	4.559651642614504e-05
+vase	1	2.279825821307252e-05
+inlaid	4	9.119303285229008e-05
+over	63	0.0014362902674235688
+forgot	2	4.559651642614504e-05
+emerald	2	4.559651642614504e-05
+Mermaids	1	2.279825821307252e-05
+Dead	1	2.279825821307252e-05
+petulance	1	2.279825821307252e-05
+gull	1	2.279825821307252e-05
+God	17	0.00038757038962223286
+noon	8	0.00018238606570458016
+Burgo	1	2.279825821307252e-05
+ladder	3	6.839477463921757e-05
+chase	2	4.559651642614504e-05
+autumn	2	4.559651642614504e-05
+philosopher	1	2.279825821307252e-05
+looking	7	0.00015958780749150765
+elsewhere	1	2.279825821307252e-05
+Nor	6	0.00013678954927843514
+Not	1	2.279825821307252e-05
+blessed	3	6.839477463921757e-05
+Now	6	0.00013678954927843514
+portrait	1	2.279825821307252e-05
+galloping	3	6.839477463921757e-05
+refused	1	2.279825821307252e-05
+may	35	0.0007979390374575383
+tarry	8	0.00018238606570458016
+bring	12	0.00027357909855687027
+Queen	9	0.0002051843239176527
+flecked	1	2.279825821307252e-05
+leather	6	0.00013678954927843514
+Jean	1	2.279825821307252e-05
+man	41	0.0009347285867359734
+Sadder	1	2.279825821307252e-05
+then	15	0.00034197387319608784
+them	154	0.003510931764813168
+seekest	1	2.279825821307252e-05
+Peacock	2	4.559651642614504e-05
+cushion	2	4.559651642614504e-05
+rim	1	2.279825821307252e-05
+Better	1	2.279825821307252e-05
+hidalgo	1	2.279825821307252e-05
+thee	151	0.0034425369901739506
+judgment	1	2.279825821307252e-05
+turn	4	9.119303285229008e-05
+rid	4	9.119303285229008e-05
+torches	2	4.559651642614504e-05
+hook	1	2.279825821307252e-05
+What	34	0.0007751407792444657
+combed	1	2.279825821307252e-05
+prow	1	2.279825821307252e-05
+gloves	2	4.559651642614504e-05
+blossoms	4	9.119303285229008e-05
+pierced	4	9.119303285229008e-05
+moaned	1	2.279825821307252e-05
+comely	2	4.559651642614504e-05
+Tell	8	0.00018238606570458016
+festooned	2	4.559651642614504e-05
+living	1	2.279825821307252e-05
+mud	1	2.279825821307252e-05
+midnight	2	4.559651642614504e-05
+clay	2	4.559651642614504e-05
+weighed	2	4.559651642614504e-05
+drave	3	6.839477463921757e-05
+Later	1	2.279825821307252e-05
+moving	1	2.279825821307252e-05
+indeed	15	0.00034197387319608784
+lemons	2	4.559651642614504e-05
+gauze	4	9.119303285229008e-05
+funniest	2	4.559651642614504e-05
+thief	2	4.559651642614504e-05
+toad	6	0.00013678954927843514
+blinded	1	2.279825821307252e-05
+bowed	10	0.00022798258213072522
+Who	8	0.00018238606570458016
+bit	2	4.559651642614504e-05
+grass	13	0.00029637735676994276
+outskirts	3	6.839477463921757e-05
+asses	1	2.279825821307252e-05
+Star	46	0.001048719877801336
+solemnly	2	4.559651642614504e-05
+violence	2	4.559651642614504e-05
+big	6	0.00013678954927843514
+bid	5	0.00011399129106536261
+dwell	3	6.839477463921757e-05
+thistle	1	2.279825821307252e-05
+napkin	1	2.279825821307252e-05
+agony	2	4.559651642614504e-05
+immensely	1	2.279825821307252e-05
+scowled	2	4.559651642614504e-05
+South	2	4.559651642614504e-05
+starlings	1	2.279825821307252e-05
+erected	1	2.279825821307252e-05
+Stay	1	2.279825821307252e-05
+ivory	13	0.00029637735676994276
+willow	3	6.839477463921757e-05
+pleased	3	6.839477463921757e-05
+pray	11	0.00025078084034379773
+negro	1	2.279825821307252e-05
+disgust	1	2.279825821307252e-05
+boat	6	0.00013678954927843514
+side	27	0.000615552971752958
+used	3	6.839477463921757e-05
+through	78	0.0017782641406196566
+beside	6	0.00013678954927843514
+rosettes	1	2.279825821307252e-05
+language	1	2.279825821307252e-05
+carbuncles	1	2.279825821307252e-05
+trouble	4	9.119303285229008e-05
+knolls	1	2.279825821307252e-05
+lo	14	0.0003191756149830153
+beaten	2	4.559651642614504e-05
+Echo	1	2.279825821307252e-05
+Don	8	0.00018238606570458016
+on	195	0.004445660351549142
+search	3	6.839477463921757e-05
+swoon	2	4.559651642614504e-05
+fascinated	2	4.559651642614504e-05
+bridge	1	2.279825821307252e-05
+galloped	4	9.119303285229008e-05
+lies	2	4.559651642614504e-05
+hideous	1	2.279825821307252e-05
+of	1100	0.025078084034379774
+heed	4	9.119303285229008e-05
+speedwell	1	2.279825821307252e-05
+shoes	1	2.279825821307252e-05
+goatherd	4	9.119303285229008e-05
+airs	1	2.279825821307252e-05
+ox	1	2.279825821307252e-05
+released	1	2.279825821307252e-05
+whipping	1	2.279825821307252e-05
+or	39	0.0008891320703098283
+suffers	2	4.559651642614504e-05
+wearest	1	2.279825821307252e-05
+island	1	2.279825821307252e-05
+crying	1	2.279825821307252e-05
+Sun	2	4.559651642614504e-05
+wide	3	6.839477463921757e-05
+Nature	1	2.279825821307252e-05
+trotted	1	2.279825821307252e-05
+Magician	11	0.00025078084034379773
+space	4	9.119303285229008e-05
+frown	1	2.279825821307252e-05
+onyx	3	6.839477463921757e-05
+scramble	1	2.279825821307252e-05
+pavement	3	6.839477463921757e-05
+rushes	2	4.559651642614504e-05
+stored	2	4.559651642614504e-05
+receiving	1	2.279825821307252e-05
+Every	4	9.119303285229008e-05
+expressed	1	2.279825821307252e-05
+lighted	2	4.559651642614504e-05
+strangely	5	0.00011399129106536261
+booths	3	6.839477463921757e-05
+human	2	4.559651642614504e-05
+stroked	1	2.279825821307252e-05
+usually	2	4.559651642614504e-05
+fortune	3	6.839477463921757e-05
+Never	2	4.559651642614504e-05
+sounding	2	4.559651642614504e-05
+following	4	9.119303285229008e-05
+reed	7	0.00015958780749150765
+plain	4	9.119303285229008e-05
+diver	2	4.559651642614504e-05
+ten	2	4.559651642614504e-05
+holes	1	2.279825821307252e-05
+suns	1	2.279825821307252e-05
+water	33	0.0007523425210313932
+remained	1	2.279825821307252e-05
+glossy	1	2.279825821307252e-05
+Camerera	4	9.119303285229008e-05
+stumbled	1	2.279825821307252e-05
+leper	12	0.00027357909855687027
+mitre	1	2.279825821307252e-05
+span	1	2.279825821307252e-05
+gatherer	1	2.279825821307252e-05
+sickness	1	2.279825821307252e-05
+soon	4	9.119303285229008e-05
+deny	1	2.279825821307252e-05
+damask	1	2.279825821307252e-05
+nothing	9	0.0002051843239176527
+jutting	1	2.279825821307252e-05
+Illel	1	2.279825821307252e-05
+escaped	1	2.279825821307252e-05
+mate	1	2.279825821307252e-05
+ceremonial	1	2.279825821307252e-05
+Could	4	9.119303285229008e-05
+drive	5	0.00011399129106536261
+suddenly	3	6.839477463921757e-05
+precedents	1	2.279825821307252e-05
+Eat	2	4.559651642614504e-05
+broidered	5	0.00011399129106536261
+capital	1	2.279825821307252e-05
+wonderfully	1	2.279825821307252e-05
+honour	3	6.839477463921757e-05
+facing	2	4.559651642614504e-05
+burner	1	2.279825821307252e-05
+dew	1	2.279825821307252e-05
+Sophonisba	1	2.279825821307252e-05
+Shame	1	2.279825821307252e-05
+lights	2	4.559651642614504e-05
+childish	2	4.559651642614504e-05
+promise	4	9.119303285229008e-05
+freedom	4	9.119303285229008e-05
+Krimnians	1	2.279825821307252e-05
+visit	1	2.279825821307252e-05
+sank	5	0.00011399129106536261
+sorely	1	2.279825821307252e-05
+humility	1	2.279825821307252e-05
+gushed	1	2.279825821307252e-05
+sang	9	0.0002051843239176527
+But	80	0.0018238606570458017
+out	115	0.00262179969450334
+our	24	0.0005471581971137405
+suit	1	2.279825821307252e-05
+merry	8	0.00018238606570458016
+coiled	1	2.279825821307252e-05
+fires	1	2.279825821307252e-05
+sacristy	1	2.279825821307252e-05
+while	13	0.00029637735676994276
+cowl	1	2.279825821307252e-05
+horns	5	0.00011399129106536261
+Snare	1	2.279825821307252e-05
+spirits	1	2.279825821307252e-05
+return	10	0.00022798258213072522
+Sabbath	1	2.279825821307252e-05
+opals	1	2.279825821307252e-05
+questioned	1	2.279825821307252e-05
+beams	1	2.279825821307252e-05
+levied	1	2.279825821307252e-05
+let	28	0.0006383512299660306
+phantoms	1	2.279825821307252e-05
+studded	6	0.00013678954927843514
+revolted	1	2.279825821307252e-05
+blossoming	1	2.279825821307252e-05
+served	1	2.279825821307252e-05
+throw	4	9.119303285229008e-05
+fade	1	2.279825821307252e-05
+uncovering	1	2.279825821307252e-05
+Schiraz	1	2.279825821307252e-05
+clutching	1	2.279825821307252e-05
+helmet	2	4.559651642614504e-05
+breathed	2	4.559651642614504e-05
+Cardinal	1	2.279825821307252e-05
+footed	1	2.279825821307252e-05
+hungry	1	2.279825821307252e-05
+marvel	2	4.559651642614504e-05
+throne	7	0.00015958780749150765
+what	51	0.0011627111688666985
+crag	3	6.839477463921757e-05
+veins	1	2.279825821307252e-05
+conchs	1	2.279825821307252e-05
+runner	1	2.279825821307252e-05
+entertainment	1	2.279825821307252e-05
+novice	1	2.279825821307252e-05
+secular	1	2.279825821307252e-05
+magicians	1	2.279825821307252e-05
+please	1	2.279825821307252e-05
+guard	5	0.00011399129106536261
+sound	8	0.00018238606570458016
+chill	1	2.279825821307252e-05
+gardens	2	4.559651642614504e-05
+Netherlands	2	4.559651642614504e-05
+remote	2	4.559651642614504e-05
+herbs	1	2.279825821307252e-05
+child	25	0.0005699564553268131
+throwing	1	2.279825821307252e-05
+alms	1	2.279825821307252e-05
+Ashter	1	2.279825821307252e-05
+Are	2	4.559651642614504e-05
+shaped	5	0.00011399129106536261
+scattered	1	2.279825821307252e-05
+bull	8	0.00018238606570458016
+wickedness	1	2.279825821307252e-05
+perish	1	2.279825821307252e-05
+juice	2	4.559651642614504e-05
+aware	1	2.279825821307252e-05
+Art	2	4.559651642614504e-05
+romped	1	2.279825821307252e-05
+niches	2	4.559651642614504e-05
+rayed	1	2.279825821307252e-05
+abased	1	2.279825821307252e-05
+ivy	1	2.279825821307252e-05
+Trouble	1	2.279825821307252e-05
+Europe	1	2.279825821307252e-05
+hearts	2	4.559651642614504e-05
+pealed	1	2.279825821307252e-05
+trow	2	4.559651642614504e-05
+tightrope	1	2.279825821307252e-05
+perched	1	2.279825821307252e-05
+given	17	0.00038757038962223286
+influence	1	2.279825821307252e-05
+sharing	1	2.279825821307252e-05
+board	4	9.119303285229008e-05
+hearth	2	4.559651642614504e-05
+Pleasure	1	2.279825821307252e-05
+Faun	2	4.559651642614504e-05
+amethysts	1	2.279825821307252e-05
+jerkins	1	2.279825821307252e-05
+closed	6	0.00013678954927843514
+V	2	4.559651642614504e-05
+briar	1	2.279825821307252e-05
+presence	3	6.839477463921757e-05
+frost	2	4.559651642614504e-05
+clear	6	0.00013678954927843514
+spread	2	4.559651642614504e-05
+closer	1	2.279825821307252e-05
+tightly	2	4.559651642614504e-05
+Six	2	4.559651642614504e-05
+early	2	4.559651642614504e-05
+away	60	0.0013678954927843514
+clothe	1	2.279825821307252e-05
+fairness	1	2.279825821307252e-05
+discovered	3	6.839477463921757e-05
+rocks	4	9.119303285229008e-05
+sought	13	0.00029637735676994276
+toro	2	4.559651642614504e-05
+torn	1	2.279825821307252e-05
+toreadors	1	2.279825821307252e-05
+berries	4	9.119303285229008e-05
+tore	2	4.559651642614504e-05
+sequins	1	2.279825821307252e-05
+eye	2	4.559651642614504e-05
+selfish	1	2.279825821307252e-05
+ordinary	1	2.279825821307252e-05
+signs	4	9.119303285229008e-05
+fierce	3	6.839477463921757e-05
+biting	1	2.279825821307252e-05
+candle	3	6.839477463921757e-05
+moonflowers	1	2.279825821307252e-05
+golden	3	6.839477463921757e-05
+swarmed	1	2.279825821307252e-05
+blade	1	2.279825821307252e-05
+brother	5	0.00011399129106536261
+emblems	1	2.279825821307252e-05
+England	3	6.839477463921757e-05
+way	17	0.00038757038962223286
+ears	11	0.00025078084034379773
+mouth	4	9.119303285229008e-05
+ruff	1	2.279825821307252e-05
+grape	1	2.279825821307252e-05
+roughly	1	2.279825821307252e-05
+figure	4	9.119303285229008e-05
+course	4	9.119303285229008e-05
+bales	2	4.559651642614504e-05
+dismissed	1	2.279825821307252e-05
+alack	1	2.279825821307252e-05
+Chamberlain	6	0.00013678954927843514
+wondering	2	4.559651642614504e-05
+air	19	0.0004331669060483779
+Mecca	1	2.279825821307252e-05
+trail	1	2.279825821307252e-05
+Nevertheless	2	4.559651642614504e-05
+gipsy	1	2.279825821307252e-05
+nigh	2	4.559651642614504e-05
+think	3	6.839477463921757e-05
+narcissus	1	2.279825821307252e-05
+riders	1	2.279825821307252e-05
+moss	2	4.559651642614504e-05
+gipsies	3	6.839477463921757e-05
+most	10	0.00022798258213072522
+warp	1	2.279825821307252e-05
+Injustice	1	2.279825821307252e-05
+forehead	6	0.00013678954927843514
+midst	2	4.559651642614504e-05
+warm	3	6.839477463921757e-05
+accentuated	1	2.279825821307252e-05
+crept	9	0.0002051843239176527
+knotted	1	2.279825821307252e-05
+butts	1	2.279825821307252e-05
+fishing	1	2.279825821307252e-05
+stained	3	6.839477463921757e-05
+evilly	3	6.839477463921757e-05
+heaped	1	2.279825821307252e-05
+justice	3	6.839477463921757e-05
+offence	1	2.279825821307252e-05
+reception	2	4.559651642614504e-05
+cave	7	0.00015958780749150765
+flocks	1	2.279825821307252e-05
+stricken	1	2.279825821307252e-05
+matters	3	6.839477463921757e-05
+played	5	0.00011399129106536261
+passes	1	2.279825821307252e-05
+incensed	1	2.279825821307252e-05
+travellers	2	4.559651642614504e-05
+trampled	4	9.119303285229008e-05
+miss	1	2.279825821307252e-05
+by	100	0.0022798258213072523
+eater	1	2.279825821307252e-05
+sad	5	0.00011399129106536261
+mist	1	2.279825821307252e-05
+beautiful	25	0.0005699564553268131
+aside	7	0.00015958780749150765
+glades	1	2.279825821307252e-05
+aged	1	2.279825821307252e-05
+Receive	1	2.279825821307252e-05
+dazzling	1	2.279825821307252e-05
+usage	1	2.279825821307252e-05
+unfinished	1	2.279825821307252e-05
+Therefore	12	0.00027357909855687027
+eaten	2	4.559651642614504e-05
+hath	2	4.559651642614504e-05
+listened	6	0.00013678954927843514
+already	5	0.00011399129106536261
+hate	2	4.559651642614504e-05
+her	264	0.0060187401682511455
+greatness	1	2.279825821307252e-05
+glistened	1	2.279825821307252e-05
+Circassian	1	2.279825821307252e-05
+fate	2	4.559651642614504e-05
+cleave	1	2.279825821307252e-05
+wiser	2	4.559651642614504e-05
+Barbary	2	4.559651642614504e-05
+Pygmies	1	2.279825821307252e-05
+smelling	2	4.559651642614504e-05
+beggar	17	0.00038757038962223286
+hats	3	6.839477463921757e-05
+cannot	8	0.00018238606570458016
+administered	1	2.279825821307252e-05
+spell	2	4.559651642614504e-05
+tossing	1	2.279825821307252e-05
+riding	2	4.559651642614504e-05
+follow	3	6.839477463921757e-05
+north	2	4.559651642614504e-05
+weight	1	2.279825821307252e-05
+Last	1	2.279825821307252e-05
+shoals	1	2.279825821307252e-05
+poison	2	4.559651642614504e-05
+action	1	2.279825821307252e-05
+Although	1	2.279825821307252e-05
+jest	2	4.559651642614504e-05
+concourse	1	2.279825821307252e-05
+hooded	2	4.559651642614504e-05
+waiting	5	0.00011399129106536261
+sat	17	0.00038757038962223286
+off	12	0.00027357909855687027
+whom	18	0.0004103686478353054
+whoo	2	4.559651642614504e-05
+helmets	1	2.279825821307252e-05
+hollows	1	2.279825821307252e-05
+Those	1	2.279825821307252e-05
+fantastic	2	4.559651642614504e-05
+logs	2	4.559651642614504e-05
+quench	2	4.559651642614504e-05
+dotted	1	2.279825821307252e-05
+smoke	3	6.839477463921757e-05
+treat	1	2.279825821307252e-05
+lovely	4	9.119303285229008e-05
+pear	1	2.279825821307252e-05
+meet	19	0.0004331669060483779
+incense	1	2.279825821307252e-05
+house	26	0.0005927547135398855
+armour	3	6.839477463921757e-05
+darting	1	2.279825821307252e-05
+blowing	1	2.279825821307252e-05
+slipped	3	6.839477463921757e-05
+silken	3	6.839477463921757e-05
+Joy	1	2.279825821307252e-05
+suspected	1	2.279825821307252e-05
+hide	9	0.0002051843239176527
+peacocks	7	0.00015958780749150765
+counselled	1	2.279825821307252e-05
+locking	1	2.279825821307252e-05
+city	58	0.0013222989763582063
+consented	1	2.279825821307252e-05
+saying	10	0.00022798258213072522
+moonbeams	1	2.279825821307252e-05
+tapestries	1	2.279825821307252e-05
+THE	6	0.00013678954927843514
+axes	1	2.279825821307252e-05
+vaulting	1	2.279825821307252e-05
+uncouth	1	2.279825821307252e-05
+DESBOROUGH	1	2.279825821307252e-05
+enter	11	0.00025078084034379773
+during	3	6.839477463921757e-05
+awaited	1	2.279825821307252e-05
+Dragons	1	2.279825821307252e-05
+bosom	1	2.279825821307252e-05
+tapestried	1	2.279825821307252e-05
+lion	4	9.119303285229008e-05
+Book	1	2.279825821307252e-05
+SARAWAK	1	2.279825821307252e-05
+sandal	1	2.279825821307252e-05
+swallow	1	2.279825821307252e-05
+frontier	1	2.279825821307252e-05
+dark	5	0.00011399129106536261
+appearance	3	6.839477463921757e-05
+twilight	2	4.559651642614504e-05
+hissed	1	2.279825821307252e-05
+Pilar	2	4.559651642614504e-05
+wings	10	0.00022798258213072522
+tread	1	2.279825821307252e-05
+hair	22	0.0005015616806875955
+sprang	2	4.559651642614504e-05
+gentlemen	1	2.279825821307252e-05
+asked	19	0.0004331669060483779
+magnolia	1	2.279825821307252e-05
+filigrane	1	2.279825821307252e-05
+beast	2	4.559651642614504e-05
+darkness	1	2.279825821307252e-05
+myself	5	0.00011399129106536261
+munching	1	2.279825821307252e-05
+For	21	0.00047876342247452297
+wishes	1	2.279825821307252e-05
+Fou	1	2.279825821307252e-05
+tears	10	0.00022798258213072522
+parcelled	1	2.279825821307252e-05
+tugged	2	4.559651642614504e-05
+Violets	2	4.559651642614504e-05
+cake	1	2.279825821307252e-05
+smokers	1	2.279825821307252e-05
+rein	1	2.279825821307252e-05
+beseech	1	2.279825821307252e-05
+wished	1	2.279825821307252e-05
+dealest	1	2.279825821307252e-05
+sauntered	1	2.279825821307252e-05
+spring	4	9.119303285229008e-05
+amazed	1	2.279825821307252e-05
+gyves	1	2.279825821307252e-05
+coffers	2	4.559651642614504e-05
+silence	3	6.839477463921757e-05
+steely	1	2.279825821307252e-05
+Accept	1	2.279825821307252e-05
+philosophical	1	2.279825821307252e-05
+swiftly	6	0.00013678954927843514
+bereft	1	2.279825821307252e-05
+playmates	1	2.279825821307252e-05
+turrets	1	2.279825821307252e-05
+blown	1	2.279825821307252e-05
+stanchions	1	2.279825821307252e-05
+honey	5	0.00011399129106536261
+almonds	1	2.279825821307252e-05
+struggled	1	2.279825821307252e-05
+enemy	1	2.279825821307252e-05
+quarrel	1	2.279825821307252e-05
+slaves	9	0.0002051843239176527
+tenderly	1	2.279825821307252e-05
+March	1	2.279825821307252e-05
+cisterns	1	2.279825821307252e-05
+palms	1	2.279825821307252e-05
+encompassed	1	2.279825821307252e-05
+plumes	3	6.839477463921757e-05
+vrai	1	2.279825821307252e-05
+jewelled	3	6.839477463921757e-05
+swam	2	4.559651642614504e-05
+instead	1	2.279825821307252e-05
+Isis	1	2.279825821307252e-05
+teeth	3	6.839477463921757e-05
+pools	1	2.279825821307252e-05
+strict	1	2.279825821307252e-05
+LADY	2	4.559651642614504e-05
+Thief	1	2.279825821307252e-05
+Underneath	1	2.279825821307252e-05
+heart	31	0.0007067460046052481
+believe	2	4.559651642614504e-05
+entirely	1	2.279825821307252e-05
+wroth	4	9.119303285229008e-05
+arm	1	2.279825821307252e-05
+certain	2	4.559651642614504e-05
+tellest	1	2.279825821307252e-05
+heard	16	0.0003647721314091603
+gardener	1	2.279825821307252e-05
+pitiless	1	2.279825821307252e-05
+mocking	3	6.839477463921757e-05
+single	1	2.279825821307252e-05
+necklace	1	2.279825821307252e-05
+wicker	1	2.279825821307252e-05
+sawn	1	2.279825821307252e-05
+imitated	1	2.279825821307252e-05
+touches	1	2.279825821307252e-05
+worthy	2	4.559651642614504e-05
+fig	1	2.279825821307252e-05
+arrow	2	4.559651642614504e-05
+flesh	2	4.559651642614504e-05
+Osiris	1	2.279825821307252e-05
+ruled	4	9.119303285229008e-05
+touched	14	0.0003191756149830153
+pigeons	2	4.559651642614504e-05
+between	5	0.00011399129106536261
+itself	3	6.839477463921757e-05
+jasper	3	6.839477463921757e-05
+forsook	1	2.279825821307252e-05
+mirrors	2	4.559651642614504e-05
+Where	5	0.00011399129106536261
+Pedro	8	0.00018238606570458016
+flying	4	9.119303285229008e-05
+bending	2	4.559651642614504e-05
+Nay	25	0.0005699564553268131
+grace	4	9.119303285229008e-05
+plant	2	4.559651642614504e-05
+heron	1	2.279825821307252e-05
+shrieked	1	2.279825821307252e-05
+commanded	1	2.279825821307252e-05
+palm	1	2.279825821307252e-05
+dust	7	0.00015958780749150765
+misty	1	2.279825821307252e-05
+pale	15	0.00034197387319608784
+weeks	1	2.279825821307252e-05
+breaking	1	2.279825821307252e-05
+mists	1	2.279825821307252e-05
+scaled	1	2.279825821307252e-05
+clever	1	2.279825821307252e-05
+bundles	1	2.279825821307252e-05
+number	1	2.279825821307252e-05
+bleed	1	2.279825821307252e-05
+Sprinkle	1	2.279825821307252e-05
+despair	1	2.279825821307252e-05
+squirrels	1	2.279825821307252e-05
+officers	3	6.839477463921757e-05
+reward	2	4.559651642614504e-05
+scales	2	4.559651642614504e-05
+ice	2	4.559651642614504e-05
+grovelled	1	2.279825821307252e-05
+hemlock	3	6.839477463921757e-05
+she	182	0.004149282994779199
+battlements	1	2.279825821307252e-05
+cedar	1	2.279825821307252e-05
+cloths	1	2.279825821307252e-05
+sometimes	5	0.00011399129106536261
+tight	1	2.279825821307252e-05
+wears	1	2.279825821307252e-05
+Professor	1	2.279825821307252e-05
+pretend	1	2.279825821307252e-05
+shuddered	3	6.839477463921757e-05
+finned	1	2.279825821307252e-05
+grind	1	2.279825821307252e-05
+fainter	2	4.559651642614504e-05
+weary	7	0.00015958780749150765
+softness	1	2.279825821307252e-05
+cared	1	2.279825821307252e-05
+siesta	1	2.279825821307252e-05
+sandals	2	4.559651642614504e-05
+Senora	1	2.279825821307252e-05
+plates	2	4.559651642614504e-05
+walled	3	6.839477463921757e-05
+moaning	1	2.279825821307252e-05
+Soul	70	0.0015958780749150765
+forgotten	5	0.00011399129106536261
+whistled	3	6.839477463921757e-05
+seemed	27	0.000615552971752958
+hardly	4	9.119303285229008e-05
+again	35	0.0007979390374575383
+waxed	1	2.279825821307252e-05
+PRINCESS	1	2.279825821307252e-05
+flock	1	2.279825821307252e-05
+insisted	1	2.279825821307252e-05
+figures	4	9.119303285229008e-05
+wreathed	1	2.279825821307252e-05
+Once	9	0.0002051843239176527
+dwelling	2	4.559651642614504e-05
+YOUNG	1	2.279825821307252e-05
+nets	7	0.00015958780749150765
+mechanically	1	2.279825821307252e-05
+dying	1	2.279825821307252e-05
+bottom	4	9.119303285229008e-05
+Gryphons	1	2.279825821307252e-05
+wasn	1	2.279825821307252e-05
+Flee	3	6.839477463921757e-05
+wash	2	4.559651642614504e-05
+figured	4	9.119303285229008e-05
+know	22	0.0005015616806875955
+rigging	1	2.279825821307252e-05
+picture	4	9.119303285229008e-05
+hence	7	0.00015958780749150765
+noting	1	2.279825821307252e-05
+remarked	1	2.279825821307252e-05
+toying	1	2.279825821307252e-05
+slim	3	6.839477463921757e-05
+Christ	3	6.839477463921757e-05
+with	388	0.008845724186672139
+wallets	1	2.279825821307252e-05
+thread	2	4.559651642614504e-05
+might	16	0.0003647721314091603
+drenched	1	2.279825821307252e-05
+Sea	12	0.00027357909855687027
+pride	2	4.559651642614504e-05
+See	2	4.559651642614504e-05
+dome	2	4.559651642614504e-05
+hired	1	2.279825821307252e-05
+glens	1	2.279825821307252e-05
+son	15	0.00034197387319608784
+Shouldst	1	2.279825821307252e-05
+bringest	5	0.00011399129106536261
+castle	1	2.279825821307252e-05
+sensibly	1	2.279825821307252e-05
+retraced	1	2.279825821307252e-05
+massive	1	2.279825821307252e-05
+words	6	0.00013678954927843514
+stripes	2	4.559651642614504e-05
+galley	7	0.00015958780749150765
+gesture	1	2.279825821307252e-05
+Rise	3	6.839477463921757e-05
+sensible	1	2.279825821307252e-05
+Nonsense	1	2.279825821307252e-05
+foam	8	0.00018238606570458016
+oak	3	6.839477463921757e-05
+wattles	1	2.279825821307252e-05
+word	9	0.0002051843239176527
+wore	4	9.119303285229008e-05
+despatches	1	2.279825821307252e-05
+approached	1	2.279825821307252e-05
+is	237	0.005403187196498188
+work	6	0.00013678954927843514
+it	322	0.007341039144609352
+worn	1	2.279825821307252e-05
+aught	4	9.119303285229008e-05
+idle	2	4.559651642614504e-05
+get	10	0.00022798258213072522
+wattled	4	9.119303285229008e-05
+soundings	1	2.279825821307252e-05
+This	11	0.00025078084034379773
+liked	3	6.839477463921757e-05
+company	5	0.00011399129106536261
+uncorded	1	2.279825821307252e-05
+if	27	0.000615552971752958
+Lizards	2	4.559651642614504e-05
+narrow	1	2.279825821307252e-05
+florid	2	4.559651642614504e-05
+corner	7	0.00015958780749150765
+saith	1	2.279825821307252e-05
+Mountain	1	2.279825821307252e-05
+feed	5	0.00011399129106536261
+brought	18	0.0004103686478353054
+dug	3	6.839477463921757e-05
+both	1	2.279825821307252e-05
+catch	1	2.279825821307252e-05
+crouched	3	6.839477463921757e-05
+under	9	0.0002051843239176527
+graceful	1	2.279825821307252e-05
+vices	1	2.279825821307252e-05
+nuts	1	2.279825821307252e-05
+Mohammed	1	2.279825821307252e-05
+acting	1	2.279825821307252e-05
+risen	1	2.279825821307252e-05
+where	29	0.0006611494881791031
+husband	1	2.279825821307252e-05
+teach	1	2.279825821307252e-05
+obey	1	2.279825821307252e-05
+locusts	1	2.279825821307252e-05
+skin	5	0.00011399129106536261
+Castle	1	2.279825821307252e-05
+mad	8	0.00018238606570458016
+whether	1	2.279825821307252e-05
+thinking	2	4.559651642614504e-05
+World	1	2.279825821307252e-05
+trains	1	2.279825821307252e-05
+sky	2	4.559651642614504e-05
+market	8	0.00018238606570458016
+feared	1	2.279825821307252e-05
+watch	3	6.839477463921757e-05
+curious	10	0.00022798258213072522
+sham	1	2.279825821307252e-05
+amazement	1	2.279825821307252e-05
+vessel	2	4.559651642614504e-05
+gem	1	2.279825821307252e-05
+blooms	1	2.279825821307252e-05
+covered	11	0.00025078084034379773
+Atocha	1	2.279825821307252e-05
+wakes	1	2.279825821307252e-05
+hours	4	9.119303285229008e-05
+bury	2	4.559651642614504e-05
+Magadae	1	2.279825821307252e-05
+dry	6	0.00013678954927843514
+redder	1	2.279825821307252e-05
+have	119	0.00271299272735563
+limbed	3	6.839477463921757e-05
+lost	10	0.00022798258213072522
+shuttles	2	4.559651642614504e-05
+properly	1	2.279825821307252e-05
+nail	1	2.279825821307252e-05
+sake	1	2.279825821307252e-05
+faces	6	0.00013678954927843514
+turbaned	1	2.279825821307252e-05
+zithers	3	6.839477463921757e-05
+loving	2	4.559651642614504e-05
+spent	1	2.279825821307252e-05
+shone	1	2.279825821307252e-05
+costly	1	2.279825821307252e-05
+tricks	2	4.559651642614504e-05
+unused	1	2.279825821307252e-05
+always	10	0.00022798258213072522
+bathed	1	2.279825821307252e-05
+means	1	2.279825821307252e-05
+lazuli	1	2.279825821307252e-05
+mercy	5	0.00011399129106536261
+streets	7	0.00015958780749150765
+wilful	1	2.279825821307252e-05
+ceremony	2	4.559651642614504e-05
+tray	1	2.279825821307252e-05
+melancholy	2	4.559651642614504e-05
+in	462	0.010532795294439505
+vile	3	6.839477463921757e-05
+fear	2	4.559651642614504e-05
+his	473	0.010783576134783302
+him	369	0.00841255728062376
+glad	7	0.00015958780749150765
+Yes	4	9.119303285229008e-05
+compassed	1	2.279825821307252e-05
+changed	1	2.279825821307252e-05
+hid	8	0.00018238606570458016
+monotonously	1	2.279825821307252e-05
+question	2	4.559651642614504e-05
+trance	1	2.279825821307252e-05
+leading	1	2.279825821307252e-05
+stiffly	1	2.279825821307252e-05
+fitted	1	2.279825821307252e-05
+languor	1	2.279825821307252e-05
+pours	1	2.279825821307252e-05
+tease	1	2.279825821307252e-05
+malady	1	2.279825821307252e-05
+your	3	6.839477463921757e-05
+together	8	0.00018238606570458016
+Fever	1	2.279825821307252e-05
+crook	1	2.279825821307252e-05
+tumult	1	2.279825821307252e-05
+Nubian	3	6.839477463921757e-05
+archer	1	2.279825821307252e-05
+pottery	1	2.279825821307252e-05
+easier	1	2.279825821307252e-05
+smiled	10	0.00022798258213072522
+Bithynian	1	2.279825821307252e-05
+barren	3	6.839477463921757e-05
+delirium	1	2.279825821307252e-05
+overflowed	1	2.279825821307252e-05
+Tyre	1	2.279825821307252e-05
+goats	1	2.279825821307252e-05
+feel	1	2.279825821307252e-05
+desolate	1	2.279825821307252e-05
+evening	12	0.00027357909855687027
+around	5	0.00011399129106536261
+twigs	1	2.279825821307252e-05
+claws	3	6.839477463921757e-05
+turning	2	4.559651642614504e-05
+dazzled	1	2.279825821307252e-05
+breast	7	0.00015958780749150765
+tarrieth	1	2.279825821307252e-05
+Egyptians	1	2.279825821307252e-05
+Archduchess	1	2.279825821307252e-05
+younger	4	9.119303285229008e-05
+naturally	1	2.279825821307252e-05
+instinct	1	2.279825821307252e-05
+table	4	9.119303285229008e-05
+found	16	0.0003647721314091603
+Young	1	2.279825821307252e-05
+walking	1	2.279825821307252e-05
+laughed	30	0.0006839477463921757
+attached	1	2.279825821307252e-05
+tortoise	1	2.279825821307252e-05
+souls	1	2.279825821307252e-05
+others	11	0.00025078084034379773
+cavern	3	6.839477463921757e-05
+riches	2	4.559651642614504e-05
+richer	3	6.839477463921757e-05
+same	11	0.00025078084034379773
+sting	2	4.559651642614504e-05
+from	175	0.003989695187287691
+pouring	1	2.279825821307252e-05
+bent	3	6.839477463921757e-05
+loins	1	2.279825821307252e-05
+clattered	1	2.279825821307252e-05
+Sorrow	2	4.559651642614504e-05
+stumpy	1	2.279825821307252e-05
+court	5	0.00011399129106536261
+fascination	1	2.279825821307252e-05
+they	195	0.004445660351549142
+burners	4	9.119303285229008e-05
+masts	1	2.279825821307252e-05
+rearing	1	2.279825821307252e-05
+passers	1	2.279825821307252e-05
+costumes	1	2.279825821307252e-05
+pure	1	2.279825821307252e-05
+newly	2	4.559651642614504e-05
+leaning	3	6.839477463921757e-05
+sitting	2	4.559651642614504e-05
+Dervish	1	2.279825821307252e-05
+bladders	1	2.279825821307252e-05
+fruits	2	4.559651642614504e-05
+cloud	2	4.559651642614504e-05
+wares	1	2.279825821307252e-05
+daughter	6	0.00013678954927843514
+witch	1	2.279825821307252e-05
+broke	5	0.00011399129106536261
+blows	2	4.559651642614504e-05
+statue	2	4.559651642614504e-05
+viper	4	9.119303285229008e-05
+cold	15	0.00034197387319608784
+wires	1	2.279825821307252e-05
+banners	1	2.279825821307252e-05
+flints	1	2.279825821307252e-05
+grasshoppers	1	2.279825821307252e-05
+palanquin	2	4.559651642614504e-05
+little	118	0.0026901944691425576
+clothes	1	2.279825821307252e-05
+Tierra	3	6.839477463921757e-05
+drift	1	2.279825821307252e-05
+loved	8	0.00018238606570458016
+emeralds	2	4.559651642614504e-05
+jasmine	1	2.279825821307252e-05
+sleep	7	0.00015958780749150765
+feet	33	0.0007523425210313932
+prayer	2	4.559651642614504e-05
+clothed	1	2.279825821307252e-05
+splendour	1	2.279825821307252e-05
+porphyry	3	6.839477463921757e-05
+muttered	5	0.00011399129106536261
+circle	3	6.839477463921757e-05
+drove	2	4.559651642614504e-05
+Mi	3	6.839477463921757e-05
+Tritons	4	9.119303285229008e-05
+smile	8	0.00018238606570458016
+need	13	0.00029637735676994276
+Afghans	1	2.279825821307252e-05
+brandishing	1	2.279825821307252e-05
+curls	3	6.839477463921757e-05
+cried	65	0.0014818867838497138
+France	2	4.559651642614504e-05
+service	5	0.00011399129106536261
+close	12	0.00027357909855687027
+crier	1	2.279825821307252e-05
+opened	16	0.0003647721314091603
+situation	1	2.279825821307252e-05
+desire	10	0.00022798258213072522
+folded	1	2.279825821307252e-05
+thin	10	0.00022798258213072522
+peach	2	4.559651642614504e-05
+fretted	1	2.279825821307252e-05
+tossed	4	9.119303285229008e-05
+peace	11	0.00025078084034379773
+brass	10	0.00022798258213072522
+this	92	0.002097439755602672
+plucking	1	2.279825821307252e-05
+d	10	0.00022798258213072522
+Princesa	1	2.279825821307252e-05
+rides	1	2.279825821307252e-05
+times	7	0.00015958780749150765
+gods	3	6.839477463921757e-05
+Grecian	1	2.279825821307252e-05
+change	1	2.279825821307252e-05
+tissued	3	6.839477463921757e-05
+blossom	4	9.119303285229008e-05
+roofs	1	2.279825821307252e-05
+briars	1	2.279825821307252e-05
+suffer	12	0.00027357909855687027
+tombs	2	4.559651642614504e-05
+whizzed	1	2.279825821307252e-05
+clenched	4	9.119303285229008e-05
+gnarled	2	4.559651642614504e-05
+booth	1	2.279825821307252e-05
+King	59	0.0013450972345712788
+Field	4	9.119303285229008e-05
+fashion	3	6.839477463921757e-05
+guards	5	0.00011399129106536261
+embroidered	7	0.00015958780749150765
+Famine	1	2.279825821307252e-05
+wallet	4	9.119303285229008e-05
+sapphires	1	2.279825821307252e-05
+desired	1	2.279825821307252e-05
+grapes	2	4.559651642614504e-05
+winter	6	0.00013678954927843514
+remarkable	1	2.279825821307252e-05
+galleys	2	4.559651642614504e-05
+to	700	0.015958780749150765
+poisoned	3	6.839477463921757e-05
+leopard	1	2.279825821307252e-05
+thoughts	1	2.279825821307252e-05
+does	1	2.279825821307252e-05
+hut	2	4.559651642614504e-05
+guttural	1	2.279825821307252e-05
+fountain	2	4.559651642614504e-05
+careth	2	4.559651642614504e-05
+disk	1	2.279825821307252e-05
+spotted	2	4.559651642614504e-05
+crosses	1	2.279825821307252e-05
+tanned	2	4.559651642614504e-05
+Princess	7	0.00015958780749150765
+chestnut	2	4.559651642614504e-05
+sailing	1	2.279825821307252e-05
+treated	2	4.559651642614504e-05
+jennet	1	2.279825821307252e-05
+mosaiced	1	2.279825821307252e-05
+crossed	1	2.279825821307252e-05
+cranes	1	2.279825821307252e-05
+else	1	2.279825821307252e-05
+Tulips	1	2.279825821307252e-05
+clutched	2	4.559651642614504e-05
+Contents	1	2.279825821307252e-05
+performed	3	6.839477463921757e-05
+combat	1	2.279825821307252e-05
+le	1	2.279825821307252e-05
+hang	1	2.279825821307252e-05
+taste	1	2.279825821307252e-05
+would	64	0.0014590885256366413
+nettles	1	2.279825821307252e-05
+treble	1	2.279825821307252e-05
+alabaster	1	2.279825821307252e-05
+brim	1	2.279825821307252e-05
+romantic	1	2.279825821307252e-05
+spoke	5	0.00011399129106536261
+Narcissus	1	2.279825821307252e-05
+rippled	1	2.279825821307252e-05
+statement	1	2.279825821307252e-05
+Godspeed	1	2.279825821307252e-05
+mole	2	4.559651642614504e-05
+occasion	7	0.00015958780749150765
+nestled	1	2.279825821307252e-05
+nearly	2	4.559651642614504e-05
+Though	1	2.279825821307252e-05
+gifts	1	2.279825821307252e-05
+women	5	0.00011399129106536261
+rare	1	2.279825821307252e-05
+thoroughly	1	2.279825821307252e-05
+grains	1	2.279825821307252e-05
+slain	6	0.00013678954927843514
+ostrich	2	4.559651642614504e-05
+servant	5	0.00011399129106536261
+strange	21	0.00047876342247452297
+sweetest	1	2.279825821307252e-05
+beauty	11	0.00025078084034379773
+spears	3	6.839477463921757e-05
+disrobed	1	2.279825821307252e-05
+feast	3	6.839477463921757e-05
+missed	2	4.559651642614504e-05
+rough	6	0.00013678954927843514
+dragon	1	2.279825821307252e-05
+limit	1	2.279825821307252e-05
+haughty	1	2.279825821307252e-05
+Squirrel	2	4.559651642614504e-05
+empire	1	2.279825821307252e-05
+practices	1	2.279825821307252e-05
+harsh	4	9.119303285229008e-05
+heat	2	4.559651642614504e-05
+hear	4	9.119303285229008e-05
+heap	1	2.279825821307252e-05
+jar	1	2.279825821307252e-05
+quietly	1	2.279825821307252e-05
+submitted	1	2.279825821307252e-05
+tiles	1	2.279825821307252e-05
+loin	1	2.279825821307252e-05
+herself	8	0.00018238606570458016
+dashed	2	4.559651642614504e-05
+awe	2	4.559651642614504e-05
+Thou	26	0.0005927547135398855
+heal	2	4.559651642614504e-05
+surrounded	1	2.279825821307252e-05
+forth	17	0.00038757038962223286
+bracelets	2	4.559651642614504e-05
+overboard	1	2.279825821307252e-05
+knelt	8	0.00018238606570458016
+seriously	1	2.279825821307252e-05
+melons	2	4.559651642614504e-05
+takes	1	2.279825821307252e-05
+taken	5	0.00011399129106536261
+sternly	1	2.279825821307252e-05
+gulls	1	2.279825821307252e-05
+strewing	1	2.279825821307252e-05
+whispered	7	0.00015958780749150765
+public	3	6.839477463921757e-05
+nurtured	1	2.279825821307252e-05
+Spain	9	0.0002051843239176527
+pavilion	5	0.00011399129106536261
+inquiry	2	4.559651642614504e-05
+braziers	1	2.279825821307252e-05
+small	3	6.839477463921757e-05
+indoors	1	2.279825821307252e-05
+shod	1	2.279825821307252e-05
+shook	5	0.00011399129106536261
+any	30	0.0006839477463921757
+whales	1	2.279825821307252e-05
+wiped	1	2.279825821307252e-05
+tortoises	2	4.559651642614504e-05
+murmurs	1	2.279825821307252e-05
+Libya	1	2.279825821307252e-05
+cuttlefish	1	2.279825821307252e-05
+shot	4	9.119303285229008e-05
+show	9	0.0002051843239176527
+tap	2	4.559651642614504e-05
+sunless	1	2.279825821307252e-05
+sit	6	0.00013678954927843514
+mosque	1	2.279825821307252e-05
+shut	2	4.559651642614504e-05
+After	5	0.00011399129106536261
+pommel	2	4.559651642614504e-05
+across	16	0.0003647721314091603
+sables	1	2.279825821307252e-05
+haggard	2	4.559651642614504e-05
+six	1	2.279825821307252e-05
+powdered	4	9.119303285229008e-05
+second	9	0.0002051843239176527
+Will	1	2.279825821307252e-05
+sin	5	0.00011399129106536261
+stall	1	2.279825821307252e-05
+shielding	1	2.279825821307252e-05
+jointed	2	4.559651642614504e-05
+Weeping	1	2.279825821307252e-05
+since	1	2.279825821307252e-05
+foxgloves	1	2.279825821307252e-05
+swimming	1	2.279825821307252e-05
+nobles	6	0.00013678954927843514
+into	91	0.0020746414973895995
+talked	1	2.279825821307252e-05
+inferiors	1	2.279825821307252e-05
+curiosity	1	2.279825821307252e-05
+coloured	9	0.0002051843239176527
+Well	2	4.559651642614504e-05
+wing	1	2.279825821307252e-05
+doffed	2	4.559651642614504e-05
+wine	13	0.00029637735676994276
+patterned	1	2.279825821307252e-05
+day	51	0.0011627111688666985
+northern	1	2.279825821307252e-05
+irises	1	2.279825821307252e-05
+disappeared	3	6.839477463921757e-05
+fishermen	1	2.279825821307252e-05
+importance	1	2.279825821307252e-05
+went	65	0.0014818867838497138
+Mexico	1	2.279825821307252e-05
+roasted	2	4.559651642614504e-05
+visiting	2	4.559651642614504e-05
+Serpents	1	2.279825821307252e-05
+glide	1	2.279825821307252e-05
+oil	3	6.839477463921757e-05
+magical	2	4.559651642614504e-05
+sweat	1	2.279825821307252e-05
+sycamore	1	2.279825821307252e-05
+waited	2	4.559651642614504e-05
+recognised	2	4.559651642614504e-05
+pomegranate	1	2.279825821307252e-05
+feedeth	1	2.279825821307252e-05
+fair	13	0.00029637735676994276
+tunnies	1	2.279825821307252e-05
+crawled	3	6.839477463921757e-05
+perfumes	1	2.279825821307252e-05
+stop	1	2.279825821307252e-05
+His	10	0.00022798258213072522
+groves	1	2.279825821307252e-05
+lad	5	0.00011399129106536261
+aggravate	1	2.279825821307252e-05
+gilt	9	0.0002051843239176527
+woodland	4	9.119303285229008e-05
+admire	1	2.279825821307252e-05
+poppies	3	6.839477463921757e-05
+hammer	1	2.279825821307252e-05
+dominions	2	4.559651642614504e-05
+serpent	1	2.279825821307252e-05
+weighted	1	2.279825821307252e-05
+shouts	1	2.279825821307252e-05
+tied	3	6.839477463921757e-05
+wake	3	6.839477463921757e-05
+stranger	1	2.279825821307252e-05
+lepers	2	4.559651642614504e-05
+finger	5	0.00011399129106536261
+ride	4	9.119303285229008e-05
+drowned	2	4.559651642614504e-05
+brings	3	6.839477463921757e-05
+amethyst	2	4.559651642614504e-05
+least	2	4.559651642614504e-05
+boar	3	6.839477463921757e-05
+shutters	2	4.559651642614504e-05
+gaze	1	2.279825821307252e-05
+king	13	0.00029637735676994276
+kind	6	0.00013678954927843514
+sheathed	1	2.279825821307252e-05
+vial	1	2.279825821307252e-05
+pinewood	1	2.279825821307252e-05
+meagre	1	2.279825821307252e-05
+kept	8	0.00018238606570458016
+burden	2	4.559651642614504e-05
+marvelled	1	2.279825821307252e-05
+Terribly	1	2.279825821307252e-05
+agreed	1	2.279825821307252e-05
+stiff	3	6.839477463921757e-05
+amber	11	0.00025078084034379773
+dress	6	0.00013678954927843514
+curled	4	9.119303285229008e-05
+absolutely	1	2.279825821307252e-05
+confession	1	2.279825821307252e-05
+pedestals	1	2.279825821307252e-05
+freely	1	2.279825821307252e-05
+Far	1	2.279825821307252e-05
+lack	13	0.00029637735676994276
+wheeled	2	4.559651642614504e-05
+barefooted	1	2.279825821307252e-05
+whence	1	2.279825821307252e-05
+lace	2	4.559651642614504e-05
+marvelling	1	2.279825821307252e-05
+apparel	1	2.279825821307252e-05
+notice	1	2.279825821307252e-05
+ground	16	0.0003647721314091603
+companions	7	0.00015958780749150765
+opposite	2	4.559651642614504e-05
+safety	1	2.279825821307252e-05
+confessor	1	2.279825821307252e-05
+certainly	9	0.0002051843239176527
+cleared	1	2.279825821307252e-05
+SOUL	1	2.279825821307252e-05
+rude	2	4.559651642614504e-05
+valley	9	0.0002051843239176527
+fancy	3	6.839477463921757e-05
+gently	1	2.279825821307252e-05
+celandine	1	2.279825821307252e-05
+boyish	1	2.279825821307252e-05
+Huge	1	2.279825821307252e-05
+weeds	1	2.279825821307252e-05
+monks	4	9.119303285229008e-05
+barnacles	1	2.279825821307252e-05
+pity	12	0.00027357909855687027
+censers	2	4.559651642614504e-05
+multitude	4	9.119303285229008e-05
+cunning	2	4.559651642614504e-05
+supposed	1	2.279825821307252e-05
+fruit	3	6.839477463921757e-05
+hoods	1	2.279825821307252e-05
+invite	1	2.279825821307252e-05
+ants	1	2.279825821307252e-05
+purfled	1	2.279825821307252e-05
+gladly	1	2.279825821307252e-05
+sards	1	2.279825821307252e-05
+adders	1	2.279825821307252e-05
+termed	1	2.279825821307252e-05
+neighbour	1	2.279825821307252e-05
+ill	4	9.119303285229008e-05
+fingers	7	0.00015958780749150765
+restrain	1	2.279825821307252e-05
+hadst	5	0.00011399129106536261
+Nought	2	4.559651642614504e-05
+horsemen	1	2.279825821307252e-05
+Five	1	2.279825821307252e-05
+vintage	1	2.279825821307252e-05
+bella	1	2.279825821307252e-05
+slept	2	4.559651642614504e-05
+pages	4	9.119303285229008e-05
+Give	6	0.00013678954927843514
+obtained	1	2.279825821307252e-05
+dwellers	1	2.279825821307252e-05
+bowing	2	4.559651642614504e-05
+MONACO	1	2.279825821307252e-05
+steps	7	0.00015958780749150765
+pits	1	2.279825821307252e-05
+swarthy	2	4.559651642614504e-05
+ropes	2	4.559651642614504e-05
+thicket	2	4.559651642614504e-05
+finding	1	2.279825821307252e-05
+dishonour	1	2.279825821307252e-05
+tongues	1	2.279825821307252e-05
+praise	3	6.839477463921757e-05
+move	4	9.119303285229008e-05
+lolling	1	2.279825821307252e-05
+Pain	1	2.279825821307252e-05
+memory	1	2.279825821307252e-05
+sorcery	1	2.279825821307252e-05
+theatre	1	2.279825821307252e-05
+misery	3	6.839477463921757e-05
+sped	1	2.279825821307252e-05
+apples	1	2.279825821307252e-05
+hated	1	2.279825821307252e-05
+cypress	1	2.279825821307252e-05
+Wolf	3	6.839477463921757e-05
+tree	12	0.00027357909855687027
+countries	1	2.279825821307252e-05
+animals	2	4.559651642614504e-05
+seize	1	2.279825821307252e-05
+minuet	1	2.279825821307252e-05
+laugh	5	0.00011399129106536261
+flew	8	0.00018238606570458016
+behaviour	2	4.559651642614504e-05
+called	32	0.0007295442628183206
+camels	5	0.00011399129106536261
+Tower	2	4.559651642614504e-05
+Stand	1	2.279825821307252e-05
+practical	1	2.279825821307252e-05
+composition	1	2.279825821307252e-05
+blades	1	2.279825821307252e-05
+flee	1	2.279825821307252e-05
+fled	5	0.00011399129106536261
+sooner	1	2.279825821307252e-05
+beg	1	2.279825821307252e-05
+unworthy	2	4.559651642614504e-05
+bound	3	6.839477463921757e-05
+leapt	6	0.00013678954927843514
+wonderful	11	0.00025078084034379773
+usual	2	4.559651642614504e-05
+press	2	4.559651642614504e-05
+abominated	1	2.279825821307252e-05
+rime	1	2.279825821307252e-05
+whining	1	2.279825821307252e-05
+ruin	1	2.279825821307252e-05
+chest	4	9.119303285229008e-05
+gilded	2	4.559651642614504e-05
+those	17	0.00038757038962223286
+brothers	1	2.279825821307252e-05
+permitted	1	2.279825821307252e-05
+peasant	1	2.279825821307252e-05
+frozen	2	4.559651642614504e-05
+pattern	1	2.279825821307252e-05
+wise	8	0.00018238606570458016
+wrestling	1	2.279825821307252e-05
+jays	1	2.279825821307252e-05
+granted	1	2.279825821307252e-05
+strode	2	4.559651642614504e-05
+effect	2	4.559651642614504e-05
+The	139	0.0031689578916170805
+storms	1	2.279825821307252e-05
+Cordovan	1	2.279825821307252e-05
+Thy	3	6.839477463921757e-05
+kinds	4	9.119303285229008e-05
+caused	1	2.279825821307252e-05
+stolen	2	4.559651642614504e-05
+edict	1	2.279825821307252e-05
+rest	8	0.00018238606570458016
+sulking	1	2.279825821307252e-05
+uncle	3	6.839477463921757e-05
+reverence	2	4.559651642614504e-05
+fe	1	2.279825821307252e-05
+sorry	1	2.279825821307252e-05
+Through	2	4.559651642614504e-05
+remembering	1	2.279825821307252e-05
+applauded	1	2.279825821307252e-05
+master	22	0.0005015616806875955
+sleepeth	1	2.279825821307252e-05
+grew	20	0.00045596516426145043
+grey	7	0.00015958780749150765
+voice	9	0.0002051843239176527
+Standing	1	2.279825821307252e-05
+footsore	1	2.279825821307252e-05
+bamboo	3	6.839477463921757e-05
+reaching	1	2.279825821307252e-05
+fluttered	2	4.559651642614504e-05
+wreaths	3	6.839477463921757e-05
+Come	11	0.00025078084034379773
+purpose	3	6.839477463921757e-05
+pair	3	6.839477463921757e-05
+Dance	2	4.559651642614504e-05
+damp	1	2.279825821307252e-05
+Samarcand	1	2.279825821307252e-05
+cheeks	2	4.559651642614504e-05
+undoubtedly	1	2.279825821307252e-05
+waves	9	0.0002051843239176527
+music	3	6.839477463921757e-05
+delicate	5	0.00011399129106536261
+worked	2	4.559651642614504e-05
+posture	1	2.279825821307252e-05
+themselves	16	0.0003647721314091603
+stems	1	2.279825821307252e-05
+hobby	2	4.559651642614504e-05
+Prince	2	4.559651642614504e-05
+receiveth	1	2.279825821307252e-05
+painted	16	0.0003647721314091603
+mimic	1	2.279825821307252e-05
+fold	3	6.839477463921757e-05
+strove	1	2.279825821307252e-05
+thorns	3	6.839477463921757e-05
+folk	10	0.00022798258213072522
+doubt	1	2.279825821307252e-05
+up	90	0.002051843239176527
+us	62	0.0014134920092104962
+first	8	0.00018238606570458016
+bitten	1	2.279825821307252e-05
+meat	1	2.279825821307252e-05
+line	1	2.279825821307252e-05
+shallow	4	9.119303285229008e-05
+another	17	0.00038757038962223286
+courage	1	2.279825821307252e-05
+how	13	0.00029637735676994276
+hot	6	0.00013678954927843514
+gilding	1	2.279825821307252e-05
+nostrils	8	0.00018238606570458016
+Enter	1	2.279825821307252e-05
+making	8	0.00018238606570458016
+amidst	2	4.559651642614504e-05
+manners	1	2.279825821307252e-05
+Owls	1	2.279825821307252e-05
+Seven	1	2.279825821307252e-05
+mean	2	4.559651642614504e-05
+bitter	16	0.0003647721314091603
+stooped	2	4.559651642614504e-05
+hangings	2	4.559651642614504e-05
+delivered	1	2.279825821307252e-05
+Strike	1	2.279825821307252e-05
+chestnuts	1	2.279825821307252e-05
+blow	4	9.119303285229008e-05
+wizened	1	2.279825821307252e-05
+climbing	1	2.279825821307252e-05
+above	6	0.00013678954927843514
+centre	6	0.00013678954927843514
+strings	3	6.839477463921757e-05
+limits	1	2.279825821307252e-05
+stooping	1	2.279825821307252e-05
+tails	1	2.279825821307252e-05
+seventh	2	4.559651642614504e-05
+ended	1	2.279825821307252e-05
+Nueva	3	6.839477463921757e-05
+best	6	0.00013678954927843514
+jumped	1	2.279825821307252e-05
+Yet	13	0.00029637735676994276
+flower	10	0.00022798258213072522
+world	43	0.0009803251031621184
+cometh	5	0.00011399129106536261
+A	24	0.0005471581971137405
+thirst	1	2.279825821307252e-05
+perhaps	2	4.559651642614504e-05
+chained	1	2.279825821307252e-05
+flooded	1	2.279825821307252e-05
+morrow	4	9.119303285229008e-05
+abasement	1	2.279825821307252e-05
+Yea	1	2.279825821307252e-05
+stabbing	1	2.279825821307252e-05
+meekly	1	2.279825821307252e-05
+sweetness	1	2.279825821307252e-05
+venture	1	2.279825821307252e-05
+strength	1	2.279825821307252e-05
+shouldst	8	0.00018238606570458016
+oval	3	6.839477463921757e-05
+formal	1	2.279825821307252e-05
+come	44	0.001003123361375191
+store	2	4.559651642614504e-05
+dragged	2	4.559651642614504e-05
+star	6	0.00013678954927843514
+log	1	2.279825821307252e-05
+leaving	1	2.279825821307252e-05
+pensive	1	2.279825821307252e-05
+eyed	2	4.559651642614504e-05
+bayed	1	2.279825821307252e-05
+stay	1	2.279825821307252e-05
+met	3	6.839477463921757e-05
+rich	11	0.00025078084034379773
+deliver	1	2.279825821307252e-05
+comeliness	2	4.559651642614504e-05
+inscribed	1	2.279825821307252e-05
+stag	1	2.279825821307252e-05
+men	18	0.0004103686478353054
+wrought	12	0.00027357909855687027
+hedgehogs	1	2.279825821307252e-05
+eyes	45	0.0010259216195882635
+daybreak	1	2.279825821307252e-05
+When	36	0.0008207372956706108
+softly	1	2.279825821307252e-05
+drum	1	2.279825821307252e-05
+curse	1	2.279825821307252e-05
+town	5	0.00011399129106536261
+sniffing	1	2.279825821307252e-05
+incurable	1	2.279825821307252e-05
+whoever	1	2.279825821307252e-05
+sweetmeats	1	2.279825821307252e-05
+ravens	1	2.279825821307252e-05
+Go	3	6.839477463921757e-05
+cedarwood	1	2.279825821307252e-05
+wooden	3	6.839477463921757e-05
+turned	13	0.00029637735676994276
+trusty	1	2.279825821307252e-05
+individual	1	2.279825821307252e-05
+Mirror	3	6.839477463921757e-05
+puppets	2	4.559651642614504e-05
+help	5	0.00011399129106536261
+almost	7	0.00015958780749150765
+turbans	1	2.279825821307252e-05
+looketh	2	4.559651642614504e-05
+barrier	1	2.279825821307252e-05
+Syrian	1	2.279825821307252e-05
+moon	18	0.0004103686478353054
+leaden	1	2.279825821307252e-05
+you	10	0.00022798258213072522
+cased	1	2.279825821307252e-05
+stout	1	2.279825821307252e-05
+aureole	1	2.279825821307252e-05
+Truly	2	4.559651642614504e-05
+neck	9	0.0002051843239176527
+pool	4	9.119303285229008e-05
+elbow	1	2.279825821307252e-05
+bed	8	0.00018238606570458016
+bee	1	2.279825821307252e-05
+puffed	1	2.279825821307252e-05
+famous	3	6.839477463921757e-05
+dimly	1	2.279825821307252e-05
+chains	2	4.559651642614504e-05
+burning	3	6.839477463921757e-05
+poor	16	0.0003647721314091603
+peeped	1	2.279825821307252e-05
+these	15	0.00034197387319608784
+hastened	2	4.559651642614504e-05
+monsire	1	2.279825821307252e-05
+plague	1	2.279825821307252e-05
+twisted	3	6.839477463921757e-05
+cure	2	4.559651642614504e-05
+Italian	3	6.839477463921757e-05
+jars	2	4.559651642614504e-05
+deaths	1	2.279825821307252e-05
+cumbrous	1	2.279825821307252e-05
+stands	2	4.559651642614504e-05
+curl	1	2.279825821307252e-05
+elm	1	2.279825821307252e-05
+exactly	2	4.559651642614504e-05
+dreamy	1	2.279825821307252e-05
+jackals	2	4.559651642614504e-05
+Pan	1	2.279825821307252e-05
+attic	1	2.279825821307252e-05
+noted	1	2.279825821307252e-05
+balustrade	1	2.279825821307252e-05
+thou	161	0.003670519572304676
+earrings	4	9.119303285229008e-05
+dreams	7	0.00015958780749150765
+poured	2	4.559651642614504e-05
+wandering	3	6.839477463921757e-05
+curved	3	6.839477463921757e-05
+plenty	1	2.279825821307252e-05
+bags	1	2.279825821307252e-05
+speaking	1	2.279825821307252e-05
+obeisance	3	6.839477463921757e-05
+nests	1	2.279825821307252e-05
+monastery	1	2.279825821307252e-05
+entry	1	2.279825821307252e-05
+excited	1	2.279825821307252e-05
+wherefore	3	6.839477463921757e-05
+touching	2	4.559651642614504e-05
+crescents	1	2.279825821307252e-05
+ending	2	4.559651642614504e-05
+Knowest	1	2.279825821307252e-05
+below	3	6.839477463921757e-05
+elf	1	2.279825821307252e-05
