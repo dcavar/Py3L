@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 
 """
 (C) 2013 by Damir Cavar

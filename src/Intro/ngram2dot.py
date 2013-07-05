@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
 """
 (C) 2013 by Damir Cavar, Lwin Moe

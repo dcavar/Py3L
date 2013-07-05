@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
 
 mydict = { "to":35, "the":278, "in":23 }
