@@ -45,6 +45,12 @@ When generating frequency profiles of tokens from text, how can we remove [stop 
 
 #### 2.2. Generate N-gram models
 
+An N-gram model here is simply a frequency profile of not one token, but for example a sequence of tokens that occur next to each other in text. With ``n=2`` a bigram model of the text ``"Hello how are you"`` could be:
+
+	Hello how	1
+	how are	1
+	are you	1
+
 Use file ``list-loop-1.py`` and modify it such that we have a function that gets two parameters: a list of tokens, and n = the size of the N-grams
 
 	def getNGramList(tokenlist, n):
@@ -61,12 +67,12 @@ We generate a list of tokens from a text. Use any of the previous code examples 
 
 We want to print a token list of reverse strings, i.e. from ``cat`` we want to generate ``tac``. We do not need duplicates, so we can use for example the ``set(sometokenlist)`` function to generate a set of tokens, before we reverse all the tokens.
 
-You can reverse a string by using the following notation:
+One can reverse a string by using the following notation:
 
 	mystring = "cat"
 	print( mystring[ : : -1 ] )
 
-The interpretation is that we take a slice of string ``mystring`` from the beginning to its end (``mystring[ : ]``), i.e. the default for the start-index is 0, the default for the end-index is the length of the string. The final ``-1`` in the code above is a stepper that implies take avery character, starting from the end of the string, thus the reversion of the string results.
+The interpretation is that we take a slice of string ``mystring`` from the beginning to its end (``mystring[ : ]``), i.e. the default for the start-index is 0, the default for the end-index is the length of the string. The final ``-1`` in the code above is a stepper that implies "take every character, starting from the end of the string", thus the reversion of the string results.
 
 You might need a loop to go through the list of tokens and append the reversed token to a new list of reverse strings. Appending strings to a list can be achieved using such a code:
 
