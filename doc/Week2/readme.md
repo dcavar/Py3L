@@ -9,6 +9,7 @@ For more details see:
 * [Python 3 for Linguists]
 
 
+---
 
 ## Assignments
 
@@ -21,6 +22,8 @@ What is wrong with the code in files:
 * [problem3.py](problem3.py)
 * [problem4.py](problem4.py)
 
+
+---
 
 ### 2. Coding tasks
 
