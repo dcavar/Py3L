@@ -2,7 +2,6 @@
 
 (C) 2013 by [Malgosia Cavar] and [Damir Cavar]
 
-
 *Python 3 for Linguists*. Class material, example code, scripts and example data.
 
 For more details see:
