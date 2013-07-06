@@ -34,7 +34,7 @@ Solve one of the next problems. If you want to make up for another assignment, c
 
 #### 2.1. Remove stop-words from dictionaries
 
-When generating frequency profiles of tokens from text, how can we remove [stop words](https://en.wikipedia.org/wiki/Stop_words) from the frequency profiles. Imagine, you use a function like ``makeFrequencyProfile(tokenlist)`` in ``codrpus.py`` that returns a frequency profile as a dictionary data structure. Or, alternatively, in file ``complete-fp.py`` after line 30 insert a code to remove all [stop words](https://en.wikipedia.org/wiki/Stop_words).
+When generating frequency profiles of tokens from text, how can we remove [stop words](https://en.wikipedia.org/wiki/Stop_words) from the frequency profiles? Imagine, you use a function like ``makeFrequencyProfile(tokenlist)`` in ``codrpus.py`` that returns a frequency profile as a dictionary data structure. Or, alternatively, in file ``complete-fp.py`` after line 30 insert a code to remove all [stop words](https://en.wikipedia.org/wiki/Stop_words).
 
 * Where can you find a list of stop-words for your specific language?
 * How can we convert this list into a useful data-structure in Python?
