@@ -34,12 +34,28 @@ mytokens = [ x  for x in mytokens if x not in stopwordsEN ]
 unigrams = getNGramModel(mytokens, 1)
 bigrams  = getNGramModel(mytokens, 2)
 
-print(unigrams)
+#print(unigrams)
 
 # prettyPrintFRP(bigrams, myreverse=False)
 
-#print("P(young):", unigrams["young"])
-#print("P(Fisherman):", unigrams["Fisherman"])
-print("P(young Fisherman):", bigrams["young Fisherman"])
+youngF = unigrams["young"]
+FishermanF = unigrams["Fisherman"]
+youngFishermanF = bigrams["young Fisherman"]
+total = sum(unigrams.values())
+
+observationtable = [ [ youngFishermanF,          FishermanF - youngFishermanF ],
+                     [ youngF - youngFishermanF, (total - youngF) - (FishermanF - youngFishermanF)  ] ]
+print(observationtable)
+
+expectationtable = [ [ (sum(observationtable[0]) * (observationtable[0][0] + observationtable[1][0])) / total  ],
+                     [] ]
+print(expectationtable)
+
+
+chi2 = (observationtable[0][0] - expectationtable[0][0]) ** 2 / expectationtable[0][0]
+print(chi2)
+
+#print("P(young) * P(Fisherman):", unigrams["young"] * unigrams["Fisherman"])
+#print("P(young Fisherman) / ( P(young) * P(Fisherman) ):",  bigrams["young Fisherman"] / (unigrams["young"] * unigrams["Fisherman"]))
 
 

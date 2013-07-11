@@ -42,7 +42,7 @@ def getNGramModel(tokens, n):
    for x in range( len(tokens) - (n - 1) ):
       ngram = " ".join( tokens[ x : x + n ] )
       mydict[ngram] = mydict.get(ngram, 0) + 1
-   relativizeFP(mydict)
+   #relativizeFP(mydict)
    return mydict
 
 
