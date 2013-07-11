@@ -35,7 +35,7 @@ def relativizeFP(fp):
       fp[key] = fp[key] / total
 
 
-def getMeTheNGramModel(tokens, n):
+def getNGramModel(tokens, n):
    mydict = {}
    position = 0
    for x in tokens[0:-(n-1)]:
