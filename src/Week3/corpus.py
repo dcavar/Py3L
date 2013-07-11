@@ -46,6 +46,9 @@ def getNGramModel(tokens, n):
    return mydict
 
 
+
+
+
 def makeFrequencyProfile(tokenlist):
    """Count elements in the tokenlist"""
    # count tokens and generate a frequency profile
