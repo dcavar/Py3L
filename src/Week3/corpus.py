@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import re
+from operator import itemgetter
 
 
 def getTextFromFile(filename):
@@ -38,12 +39,9 @@ def relativizeFP(fp):
 
 def getNGramModel(tokens, n):
    mydict = {}
-   position = 0
-   for x in tokens[0:-(n-1)]:
-      ngram = " ".join( tokens[ position : position + n ] )
+   for x in range( len(tokens) - (n - 1) ):
+      ngram = " ".join( tokens[ x : x + n ] )
       mydict[ngram] = mydict.get(ngram, 0) + 1
-      #print( ngram )
-      position += 1
    relativizeFP(mydict)
    return mydict
 
@@ -61,11 +59,14 @@ def makeFrequencyProfile(tokenlist):
    return mydict
 
 
-def prettyPrintFRP(fp, byfrequency=True, reverse=False):
-   myitems = sorted( fp.items() )
+def prettyPrintFRP(fp, byfrequency=True, myreverse=False):
+   if byfrequency:
+      myitems = sorted( fp.items(), key=itemgetter(1), reverse=myreverse )
+   else:
+      myitems = sorted( fp.items(), key=itemgetter(0), reverse=myreverse )
    for x in myitems:
-      print(x)
-   
+      print(x[0], x[1], sep="\t")
+
 
 
 
