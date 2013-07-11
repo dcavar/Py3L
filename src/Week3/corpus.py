@@ -26,7 +26,8 @@ def tokenize(sometext):
    """Returns a list of tokens generated using re.split() and
    the regular expression (\W)"""
 
-   return re.split("(\W)", sometext)
+   # return re.split("(\W)", sometext)
+   return re.split("\W", sometext)
 
 
 def relativizeFP(fp):
@@ -58,6 +59,13 @@ def makeFrequencyProfile(tokenlist):
       #   mydict[token] = 1
       mydict[token] = mydict.get(token, 0) + 1
    return mydict
+
+
+def prettyPrintFRP(fp, byfrequency=True, reverse=False):
+   myitems = sorted( fp.items() )
+   for x in myitems:
+      print(x)
+   
 
 
 
