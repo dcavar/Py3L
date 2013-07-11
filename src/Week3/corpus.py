@@ -35,6 +35,17 @@ def relativizeFP(fp):
       fp[key] = fp[key] / total
 
 
+def getMeTheNGramModel(tokens, n):
+   mydict = {}
+   position = 0
+   for x in tokens[0:-(n-1)]:
+      ngram = " ".join( tokens[ position : position + n ] )
+      mydict[ngram] = mydict.get(ngram, 0) + 1
+      #print( ngram )
+      position += 1
+   relativizeFP(mydict)
+   return mydict
+
 
 def makeFrequencyProfile(tokenlist):
    """Count elements in the tokenlist"""
