@@ -1,4 +1,4 @@
-# 2nd Week assignments
+# 3rd Week assignments
 
 (C) 2013 by [Malgosia Cavar] and [Damir Cavar]
 
