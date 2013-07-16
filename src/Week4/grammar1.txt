@@ -1,0 +1,7 @@
+      # this is an example grammar
+
+S -> NP VP   # the basic sentence is NP VP
+NP -> N
+VP -> V NP
+
+VP V NP PP
