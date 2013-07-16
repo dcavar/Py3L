@@ -1,11 +1,35 @@
-# Code for the 4thd Week of Python 3 for Linguists
+# Code for the 4th Week of Python 3 for Linguists
 
 (C) 2013 by [Malgosia Cavar] and [Damir Cavar]
+
+
+## Generating DOT-transition graphs from N-gram models
+
+Run the script ``make-ngram.py`` and set the correct text-file in line 9:
+
+	myngrams = getNGrams(tokenize( loadTextFromFile("bbc-1.txt") ))
+
+Use a file-name of a file that you really have on your system. It will write out a conversion of the N-gram model to DOT in a file called ``test2.dot``. You can find more about the [DOT Documentation] online.
+
+We are using here a very simple subset of the DOT-language elements and capabilities. Every bigram is translated to:
+
+	the -> house;
+
+This is translated to a two state graph with a transition from ``the`` to ``house``. The entire list of such directed graphs is wrapped to one coherent graph by surrounding it with curly brackets and labeling the directed graph (i.e. ``dirgraph``) with some arbitrary name:
+
+	dirgraph mygraph {
+	...
+	}
+
+
 
 
 ## N-grams to graphs using Graphviz
 
 Download [Graphviz] and install it. There is a version for the most common operating systems on the download page. After you installed [Graphviz], open the Viewer (on Macs this is [Graphviz], on Windows it might be called something else?).
+
+Make sure that you do not double click on the ``.dot``-files, since they might be mistaken as Word template files by your operating system. Open them in [Graphviz] and let it generate the transition graph.
+
 
 
 
