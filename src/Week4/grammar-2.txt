@@ -1,0 +1,4 @@
+# this is a sample phrase structure grammar
+S -> NP VP
+NP -> N
+VP -> V NP  # this is a common transitive VP
