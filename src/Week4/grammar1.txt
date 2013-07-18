@@ -1,6 +1,8 @@
       # this is an example grammar
 
-S -> NP VP   # the basic sentence is NP VP
+    S -> NP VP   # the basic sentence is NP VP
+
+S -> NP VP
 
 NP -> N
 NP -> Art N

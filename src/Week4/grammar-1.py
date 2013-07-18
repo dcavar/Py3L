@@ -44,15 +44,45 @@ class Grammar:
       for key in self.lhs:
          for rhs in self.lhs[key]:
             print(key, "->", " ".join(rhs))
-      
-   
 
-mygrammar = Grammar()
-mygrammar.loadGrammarFromFile("grammar1.txt")
+
+
+class Parser:
+   mygrammar = Grammar()
+
+   def parse(self, text):
+      agenda = [ tuple(text.split()) ]
+      while agenda:
+         tokens = agenda.pop()
+         print("Tokens:", tokens)
+         for x in range(len(tokens)):
+            for y in range(x+1, len(tokens)+1):
+               lhsides = self.mygrammar.getLHS(tokens[x:y])
+               for symbol in lhsides:
+                  replaced = list(tokens[:])
+                  replaced[x:y] = [ symbol ]
+                  #if replaced == [ 'S' ]:
+                  #   print("Congratulations!")
+                  #   break
+                  replaced = tuple(replaced)
+                  if replaced not in agenda:
+                     agenda.append( replaced )
+                     print(agenda)
+
+
+
+myparser = Parser()
+myparser.mygrammar.loadGrammarFromFile("grammar1.txt")
+myparser.parse("John loves Mary")
+
+
+
+#mygrammar = Grammar()
+#mygrammar.loadGrammarFromFile("grammar1.txt")
 #mygrammar.addRule("S", ("NP", "VP") )
 #mygrammar..lhs["S"] = [ ('NP', 'VP') ]
 #mygrammar.rhs[ ('NP', 'VP') ] = [ "S" ]
 
 #print( mygrammar.getRHS("S") )
 #print(mygrammar.getLHS( ('N',) ) )
-mygrammar.prettyPrint()
+#mygrammar.prettyPrint()
